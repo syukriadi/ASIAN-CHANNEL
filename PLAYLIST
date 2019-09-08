@@ -67,11 +67,17 @@ http://202.80.222.130/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_big1.png?v=2.0.0.13" group-title="INDONESIA",TRANS TV HD
 http://210.210.155.35/qwr9ew/s/s100/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-PWtwDVBQ81I/AAAAAAAAAAI/AAAAAAAAAAA/TV9LxFTHLEA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Lokal", I NEWS http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_114.png" group-title="INDONESIA",RAJAWALI TV
+http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="KIDS", DISNEY JUNIOR http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-PWtwDVBQ81I/AAAAAAAAAAI/AAAAAAAAAAA/TV9LxFTHLEA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="INDONESIA", I NEWS
+http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="KIDS",MIAO MI https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="KIDS", DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
+#EXTINF:-1 tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="KIDS",MIAO MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nahimunkar.org/wp-content/uploads/2013/10/aswaja.jpg" group-title="INDONESIA",ASWAJA
 http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
@@ -102,9 +108,6 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_103.jpg" group-title="INDONESIA",BERITA SATU HD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_114.png" group-title="INDONESIA",RAJAWALI TV
-http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="http://tv9.co.id/images/logo.png" group-title="INDONESIA",TV9
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
