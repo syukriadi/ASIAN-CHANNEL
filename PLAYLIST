@@ -9,6 +9,9 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(03)/index.m3
 #EXTINF:-1 tvg-logo="http://www.livetvscreen.com/wp-content/uploads/2012/10/tvri-budaya.jpg" group-title="INDONESIA",TVRI 3 BUDAYA
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSYJnY02Pe7BC6P74P4qTdEJwU140YwSZz0IPdyL0h6w_lG7DVE" group-title="INDONESIA"TVRI Sport
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/WBgq8IhhBThy1W29gfXb_rec_small.png" group-title="INDONESIA", RCTI
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
@@ -176,6 +179,9 @@ http://183.182.100.184/live/pptvthai/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://livetvcentral.com/imgs/tvs/951.jpg" group-title="THAILAND" ,Sabaidee TV
 http://stream.rs.co.th/sbd-hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Thairath_TV_Logo.svg/1200px-Thairath_TV_Logo.svg.png" group-title="THAILAND",  THAIRATH TV
+http://live.thairath.co.th/trtv2/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.cnc.com.kh/img/logo.jpg" group-title="CAMBODIA", CNC News
 http://220.158.149.14:9999/live/TV00000000000000000040@HHZT;LIVE
