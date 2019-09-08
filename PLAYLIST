@@ -117,6 +117,9 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNNwY0Vcs27_Up9Gr7W8LpZ43rXhQPm0lo_zTjSyWpO3Ig0Z1m"group-title="SPORT", MNC SPORT
 https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwNwnXzA2RsV5ZglLjYToTs0krJgeBPP-6IL69HmdOA2SsEFed"group-title="SPORT", ESPN HD (USA)
+http://80.80.160.168/live/6/2500000/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvxPeKcXdEGDpjssRLLIwwfG8ZnSA9o3MfUMtQt_5etO0JvhOP" group-title="SPORT", BEIN SPORT 1 HD
 http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
 
