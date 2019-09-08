@@ -63,7 +63,7 @@ http://202.80.222.130/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_big1.png?v=2.0.0.13" group-title="INDONESIA",TRANS TV HD
 http://210.210.155.35/qwr9ew/s/s100/01.m3u8
 
-#EXTINF:-1 group-title="INDONESIA",ASWAJA
+#EXTINF:-1 tvg-logo="https://www.nahimunkar.org/wp-content/uploads/2013/10/aswaja.jpg" group-title="INDONESIA",ASWAJA
 http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_113.jpg" group-title="INDONESIA", JAK TV
@@ -203,3 +203,4 @@ http://192.240.127.34:1935/live/cs19.stream/media_1254.m3u8
 
 #EXTINF:-1 tvg-logo="http://204.197.253.93/pt-data/uploads/images/logo/wowow_live.jpg"group-title="JAPAN", Cinefil WOWOW
 http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8
+
