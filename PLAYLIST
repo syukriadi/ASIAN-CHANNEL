@@ -150,7 +150,7 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://dslivetv.com/Images/320px-Canal+_Sport_(2013).svg.png" group-title="SPORT",Canal + SPORT
 http://omega.ws:8080/localhd/211VGH699/4536
 
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_SPORT.svg/150px-RTSH_SPORT.svg.png" group-title="SPORT",RTSH Sport
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_SPORT.svg/150px-RTSH_SPORT.svg.png" group-title="SPORT",RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tv1-rtm-logo-vector-720x340.jpg" group-title="Malaysia",RTM 1
