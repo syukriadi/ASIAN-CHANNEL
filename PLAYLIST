@@ -225,6 +225,9 @@ http://192.240.127.34:1935/live/cs19.stream/media_1254.m3u8
 #EXTINF:-1 tvg-logo="http://204.197.253.93/pt-data/uploads/images/logo/wowow_live.jpg"group-title="JAPAN", Cinefil WOWOW
 http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJ74IuF4wtiOdvqtftHFJN8hNqOy5obeUpQeRcn3V8oHNfzXNe"group-title="VOD MOVIES", FLYPAPPER
+https://lh3.googleusercontent.com/G7zpwEJqvlBo2KokwnjcTO0V1dILSPOaOgGQr_T7OHTR-jsYXv94ZjpmKr_U5ByYfxlHWW1ieMxxcNurh0aN-pu17EcxA5VRddB9GnyMgw5iY4zOfyg8QiL5X12sYEARzjm1TXFxYtLaG3Llp0UsmP5TlIt7KauSAIgf5gTeKCA1Cd7O1kqtqHCQ9b3g8vJmdSPaMqwMGGpB78yT8T6nt7SP0vE18UOGcrG4fDUJsJ2VkYSrjrr-QH14C6KSs7yh6n4yc3RPpoO_DBW9pKy0u1vElStc7AvgWsM_YQEsZL8LNs0qNng8EelX83Ju1d2y-c-SIdWVTVnoWxv6oSP-bLC7w7_Y9etB_9I33GuEfl5dI_ngvup0_byAoNQRIn-ha6qFr6KWVqwhijHv9Mp_VL4_aPX2dSL5aVajEC7OE0MQdiBmQrJQ06eDFZ1hqjQrHFSaA6CVaQqpAKDScT09gc-RvYCmDsQhVzc66TVn5wRYY64PliNqd9HSq_GvMQaE9HUCbb3VQVn17njU5GYtvkG8T9alUYpxzGIcsb0H-fCqlmQSz4rd2zCFROXttYtDb1chlv5LozMkV8jq4UJDBbFZuVz2kyjS9GyJ11OkeI1xaFOzg6P3G7-Ht93VKiZxTs4Yd3_VUOeQN2xIYa-jUtVxB0k3a5W9U-067tpDsbvOL1iVm3ylj8Tr=m18?title=TERBIT21.COM%20-%20Flypaper%20(2011)
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3HixJIbOJ2m--TXhHvjgBFLhtbZkwVpOYHmv52_nPLj6v8tgs"group-title="VOD MOVIES", SOUND OF MY VOICE
 https://doc-0o-74-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/qke93p5ece0nqbemv3msp3dkik8s0c2i/1568044800000/15163936410805946794/*/12kLa9KBj1V8L4lcvmPKCM8wreYSmkr7e
 
