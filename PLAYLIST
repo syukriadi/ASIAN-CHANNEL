@@ -465,6 +465,9 @@ http://ott-cdn.ucom.am/s41/04.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSommMxV4J78gymePCRM68xIlhti24Mwqp2QQqpeQAckfVO-dx0" group-title="ARMENIA",  JanTV
 http://ott-cdn.ucom.am/s42/index.m3u8
 
+#EXTINF:-1 group-title="ARMENIA", ARTN/SHANT
+http://iptv-line.com:6969/master.280/change3kslpaks/5660
+
 #EXTINF:-1 tvg-logo="https://www.fijione.tv/wp-content/uploads/2019/02/index-5-300x161.jpg" group-title="Fiji",  Fiji TV
 https://api.new.livestream.com/accounts/19514369/events/fijitvstream/live.m3u8
 
