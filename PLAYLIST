@@ -180,8 +180,11 @@ http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/180px-Animaxlogo-20160701.png" group-title="KIDS",ANIMAX
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS",  CARTOON NETWORK
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS", CARTOON NETWORK
+http://iptv-line.com:6969/master.280/change3kslpaks/15
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS", CARTOONITO
+http://iptv-line.com:6969/master.280/change3kslpaks/7144
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS",  MIAO MI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
@@ -484,7 +487,7 @@ http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m
 http://live.pjmcdn.Info/live/ONE-HD.stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/PPTV_HD_36_Logo.svg/300px-PPTV_HD_36_Logo.svg.png" group-title="THAILAND", PPTV
-http://183.182.100.184/live/pptvthai/playlist.m3u8
+http://iptv-line.com:6969/master.280/change3kslpaks/2402
 
 #EXTINF:-1 tvg-logo="https://livetvcentral.com/imgs/tvs/951.jpg" group-title="THAILAND",  Sabaidee TV
 http://stream.rs.co.th/sbd-hi/index.m3u8
