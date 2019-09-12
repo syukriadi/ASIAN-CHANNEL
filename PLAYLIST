@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTxNh9RqHjVcSmL1s98-tWOU067wXLnYHT5ifSrCCp9dXGg3xLE"group-title="VOD SPECIAL", HABIBIE & AINUN 3 (2019)
+https://streaming.trialoffer.xyz:443/movie_wb.mp4
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHQULmDpye4_2nSg2EXdbjPTAml15i5sv_XzELL1ZbGsbRmz6e" group-title="VIP",  ID: Celestial Movies
 http://iptv-line.com:6969/master.280/change3kslpaks/46471
 
