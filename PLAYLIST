@@ -1,16 +1,58 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="LIGA CHAMPION",Skynet 1 (CHAMPION LEAGUE)
-http://iya.mba:8888/maju/qK326kZJBc/1159
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSommMxV4J78gymePCRM68xIlhti24Mwqp2QQqpeQAckfVO-dx0" group-title="CHAMPION LEAGUE",  Armenia TV
+http://ott-cdn.ucom.am/s4/04.m3u8
 
-#EXTINF:-1 group-title="LIGA CHAMPION",Skynet 2 (CHAMPION LEAGUE)
-http://iya.mba:8888/maju/qK326kZJBc/1160
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTauPwk30i0-rhgpx0U5XaJsC13L5byKAYQeDt0NHmijCH5xyeY" group-title="CHAMPION LEAGUE",  SONY ESPN
+http://130.185.150.79:1935/trunk/SONY-ESPN/playlist.m3u8
 
-#EXTINF:-1vgroup-title="LIGA CHAMPION",Skynet 3 (CHAMPION LEAGUE)
-http://iya.mba:8888/maju/qK326kZJBc/1161
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTauPwk30i0-rhgpx0U5XaJsC13L5byKAYQeDt0NHmijCH5xyeY" group-title="CHAMPION LEAGUE",  SONY ESPN HD
+http://voxTV.dynns.com:8000/movies/movies/533
 
-#EXTINF:-1 group-title="LIGA CHAMPION",Skynet 4 (CHAMPION LEAGUE)
-http://iya.mba:8888/maju/qK326kZJBc/1162
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR-ta73HENkszI89MSHzb1-mZrW-A42hAborQ7QDeRWu75O073K" group-title="CHAMPION LEAGUE",  SONY SIX
+http://130.185.150.79:1935/trunk/SONY-SIX/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="SERI A ITALIA",  Setanta Sports 1 (Opt-1)
+http://ott-cdn.ucom.am/s81/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="SERI A ITALIA",  Setanta Sports 1 (Opt-2)
+http://92.43.140.204:80/s81/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="SERI A ITALIA",  Setanta Sports 2
+http://92.43.140.200/s82/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9qDnifYGxTUrje9Fi2c1Y612YEEuu2zophq_vP0XTbJinnvxX-qgg5eth" group-title="SERI A ITALIA",  Turkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSommMxV4J78gymePCRM68xIlhti24Mwqp2QQqpeQAckfVO-dx0" group-title="LIGA LAINNYA",  Armenia TV
+http://ott-cdn.ucom.am/s4/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cnc.com.kh/img/logo.jpg" group-title="LIGA LAINNYA",  CNC News
+http://220.158.149.14:9999/live/TV00000000000000000040@HHZT;LIVE
+
+#EXTINF:-1 tvg-logo="https://cambodia.mom-rsf.org/uploads/tx_lfrogmom/media/11-400_import.png" group-title="LIGA LAINNYA",  CTN
+http://220.158.149.14:9999/live/TV00000000000000000039@HHZT;LIVE
+
+#EXTINF:-1 tvg-logo="http://myTV.com.kh/wp-content/uploads/2017/08/s5_logo-1-1.png" group-title="LIGA LAINNYA",  myTV
+http://220.158.149.14:9999/live/TV00000000000000000041@HHZT;LIVE
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_SPORT.svg/150px-RTSH_SPORT.svg.png" group-title="LIGA LAINNYA",  RTSH Sport
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvxPeKcXdEGDpjssRLLIwwfG8ZnSA9o3MfUMtQt_5etO0JvhOP" group-title="LIGA LAINNYA",  BEIN SPORT 1 HD
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvxPeKcXdEGDpjssRLLIwwfG8ZnSA9o3MfUMtQt_5etO0JvhOP" group-title="LIGA LAINNYA",  BEIN SPORT 2 HD
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvxPeKcXdEGDpjssRLLIwwfG8ZnSA9o3MfUMtQt_5etO0JvhOP" group-title="LIGA LAINNYA",  BEIN SPORT 3 HD
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvxPeKcXdEGDpjssRLLIwwfG8ZnSA9o3MfUMtQt_5etO0JvhOP" group-title="LIGA LAINNYA",  BEIN SPORT 4 HD
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD4.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvxPeKcXdEGDpjssRLLIwwfG8ZnSA9o3MfUMtQt_5etO0JvhOP" group-title="LIGA LAINNYA",  BEIN SPORT 5 HD
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
 
 #EXTINF:-1 tvg-logo="https://s.kaskus.id/r540x540/images/2019/03/30/10553380_201903301032400816.png" group-title="INDONESIA",  TVRI
 http://TVristream-i.akamaihd.net/hls/live/761941/akamai-TVri/stream04/streamPlaylist.m3u8
@@ -348,35 +390,6 @@ http://194.67.208.149:80/hls/105.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwNwnXzA2RsV5ZglLjYToTs0krJgeBPP-6IL69HmdOA2SsEFed" group-title="SPORT",  ESPN HD (USA)
 http://80.80.160.168/live/6/2500000/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvxPeKcXdEGDpjssRLLIwwfG8ZnSA9o3MfUMtQt_5etO0JvhOP" group-title="SPORT",  BEIN SPORT 1 HD
-http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvxPeKcXdEGDpjssRLLIwwfG8ZnSA9o3MfUMtQt_5etO0JvhOP" group-title="SPORT",  BEIN SPORT 2 HD
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvxPeKcXdEGDpjssRLLIwwfG8ZnSA9o3MfUMtQt_5etO0JvhOP" group-title="SPORT",  BEIN SPORT 3 HD
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvxPeKcXdEGDpjssRLLIwwfG8ZnSA9o3MfUMtQt_5etO0JvhOP" group-title="SPORT",  BEIN SPORT 4 HD
-http://95.170.215.101/hls/m3u8/Bein-Sport-HD4.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvxPeKcXdEGDpjssRLLIwwfG8ZnSA9o3MfUMtQt_5etO0JvhOP" group-title="SPORT",  BEIN SPORT 5 HD
-http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="SPORT",  Setanta Sports 1 (Opt-1)
-http://ott-cdn.ucom.am/s81/03.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="SPORT",  Setanta Sports 1 (Opt-2)
-http://92.43.140.204:80/s81/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="SPORT",  Setanta Sports 2
-http://92.43.140.200/s82/04.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9qDnifYGxTUrje9Fi2c1Y612YEEuu2zophq_vP0XTbJinnvxX-qgg5eth" group-title="SPORT",  Turkmenistan Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_SPORT.svg/150px-RTSH_SPORT.svg.png" group-title="SPORT",  RTSH Sport
-http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
@@ -438,23 +451,6 @@ http://stream.rs.co.th/sbd-hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Thairath_TV_Logo.svg/1200px-Thairath_TV_Logo.svg.png" group-title="THAILAND",  THAIRATH TV
 http://live.thairath.co.th/trTV2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cnc.com.kh/img/logo.jpg" group-title="CAMBODIA",  CNC News
-http://220.158.149.14:9999/live/TV00000000000000000040@HHZT;LIVE
-
-#EXTINF:-1 tvg-logo="https://cambodia.mom-rsf.org/uploads/tx_lfrogmom/media/11-400_import.png" group-title="CAMBODIA",  CTN
-http://220.158.149.14:9999/live/TV00000000000000000039@HHZT;LIVE
-
-#EXTINF:-1 tvg-logo="http://www.cTV8.com.kh/public/images/cTV8_logo/CTV8_LOGO.png" group-title="CAMBODIA",  CTV8
-http://220.158.149.14:9999/live/TV00000000000000000037@HHZT;LIVE
-
-#EXTINF:-1 tvg-logo="https://i.malimarcdn.com/kh/DVARIETYHD.jpg" group-title="CAMBODIA",  D Variety
-http://220.158.149.14:9999/live/TV00000000000000000123@HHZT;LIVE
-
-#EXTINF:-1 tvg-logo="http://www.mykhmerTV.com/images/cover/eTV-channel.jpg" group-title="CAMBODIA",  ETV
-http://220.158.149.14:9999/live/TV00000000000000000121@HHZT;LIVE
-
-#EXTINF:-1 tvg-logo="http://myTV.com.kh/wp-content/uploads/2017/08/s5_logo-1-1.png" group-title="CAMBODIA",  myTV
-http://220.158.149.14:9999/live/TV00000000000000000041@HHZT;LIVE
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTPS9WGBWkH5HhywGZ9-L7m21-VNpbUzDRMb5cs-OGXd75f_F4N" group-title="JAPAN",  Family Gekijyo
 http://192.240.127.34:1935/live/cs11.stream/media_1254.m3u8
@@ -506,167 +502,4 @@ https://lh3.googleusercontent.com/G7zpwEJqvlBo2KokwnjcTO0V1dILSPOaOgGQr_T7OHTR-j
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3HixJIbOJ2m--TXhHvjgBFLhtbZkwVpOYHmv52_nPLj6v8tgs" group-title="VOD MOVIES",  SOUND OF MY VOICE
 https://lh3.googleusercontent.com/dsoigjJsTIZ6KS9F0jABWq4P6B9Dlyk9cCsbK56xg5Ymo6fN9v9sWp8zPiYAaN2mpxKhmn0NwBTHRLqNR-de0bg0vDTrSd_2HTB0T2qgBIUhXLTTie4zr-nj4al6AN8vGuG72mD7i7g5qTr5S9Od93CGmXLxqQveNlajSaB65tZoB1PCz4p_lvuMDxdPY0SObXRZXo3Daz22FZkPGDPLSHT_MVDgxUGnxpWdYsk6iBRkwC9N2374zD8-hMls5Pt4IRY8K16x9JvPDnbla7tMQCXjGcCDY281W_kBwr46t_2DRGzIAsdumyUnSJcxEyKeob5IGRjeyt84yb6NaFZgCBa7eIvAhLwjKzyrw1m-Ql_ljhEwM5VKJoLuvz--Z4e-bp2f6WPN9mXNulWNiY9b7fnMtSro4BQ_a1hqWI9xHswm-pFSlG_BU6OwCMF1AY_tId4WeiQipSfha1AbWA7UYqasXnRty_Bt_Kd-4UzjOLnW19f0Zckd3Nj06KTVIC08_6rQ80jSoDaBfd0iqeKuZX99B47QUVSYxwgV9wOwlCVlpsQk7c_5hJBKg3NIfruOQCc_z_9THy4Lsd-j_qXDCVRIUfeMoToOVcTrJaIA_sGiO3AyP98QuuJP48p-42RQOc5RnTQxO4jZUC9USvSbr02Zw-2VPMZIQRhm3B6RSCR28U5w1_VeFsU=m18?title=TERBIT21.COM%20-%20Sound%20of%20My%20Voice%20(2011)
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO",  Astro AXN HD
-http://playbackn24.aotg-video.astro.com.my/CH3/master_AXNHD_8_05.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO",  Astro Arena
-http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO",  Astro Arena 1
-http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_02.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO",  Astro Awani
-http://playbackn18.aotg-video.astro.com.my/CH1/master_VAAN_8_05.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO",  Astro Awani
-http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO",  Astro Celestial MOVIES
-http://playbackn25.aotg-video.astro.com.my/CH2/master_CELEHD_8_05.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO",  Astro KIX HD
-http://playbackn24.aotg-video.astro.com.my/CH2/master_KIXHD_8_05.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO",  Astro SuperSPORT 3
-http://playbackn15.aotg-video.astro.com.my/CH3/master_AG6_8.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO",  Astro TVN MOVIES
-http://playbackn37.aotg-video.astro.com.my/CH3/master_TVNMOVIES_8_05.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO",  Astro Warner
-http://playbackn28.aotg-video.astro.com.my/CH1/master_WARNERTV_8_05.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO",  Astro Hello
-http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8?fluxusTV.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO",  Astro Awani
-http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8?fluxusTV.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO category",  Filmrise Movies
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO category",  HBO 2 (LA)
-http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8?fluxusTV.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO category",  The Outdoor Cooking Channel
-http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxusTV.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO category",  Foodie
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8?fluxusTV.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO category",  Music Choice
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  SONY ESPN
-http://130.185.150.79:1935/trunk/SONY-ESPN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIGA CHAMPION",  SONY SIX
-http://130.185.150.79:1935/trunk/SONY-SIX/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  STAR SPORT FIRST
-http://31.3.242.186:1935//trunk4/STAR-SP-FIRST/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  STAR SPORT 1
-http://175.41.46.16:8081/hls/2.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  STAR SELECT SPORT 1 HD
-http://175.41.46.16:8081/hls/1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  WWE
-http://cdnak19.cast4u.info/channels/4/10804.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  NBA
-http://194.67.208.149/hls/105.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  STAR cricket
-https://p02.quest123.top:8088/live/astrocricket/playlist.m3u8?id=107721&wowzasessionid=7862393300&pk=5f1463c1b835b2af139267460d88edc0ba8902587e43782a84b8bae3e1a78181
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  PTV SPORT
-https://p02.quest123.top:8088/live/pTVSPORT1/playlist.m3u8?id=107721&wowzasessionid=7862393300&pk=5f1463c1b835b2af139267460d88edc0ba8902587e43782a84b8bae3e1a78181
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIGA CHAMPION",  SONY ESPN HD
-http://voxTV.dynns.com:8000/movies/movies/533
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  STAR SPORT 1 HD
-http://voxTV.dynns.com:8000/movies/movies/529
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  STAR SPORT 2 HD
-http://voxTV.dynns.com:8000/movies/movies/528
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  PTV GLOBAL
-http://voxTV.dynns.com:8000/movies/movies/507
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  ESPN News
-http://185.246.209.109:8080/ESPN_NEWS/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO",  -Thairath TV
-http://live.thairath.co.th/trTV2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO",  -kTV
-http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHINA",  24/7 Reality TV 1
-http://aldirect.hls.huya.com/huyalive/29169025-2686221528-11537233612571148288-2847687610-10057-A-1523932939-1_1200.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHINA",  24/7 Reality TV 2
-http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO",  69 TV
-https://edge1a.v2h-cdn.com/appt7/MediaOnline.stream_360p/chunklist_w559182369.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO",  ABC News
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO",  ABC News (HD)
-https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",  ADI TV YOGYAKARTA
-http://adiTV.onlivestreaming.net/adiTV/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",  ADI TV YOGYAKARTA
-http://adiTV.onlivestreaming.net/adiTV/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",  ADI TV YOGYAKARTA
-http://adiTV.onlivestreaming.net/adiTV/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",  HBO 2 HD
-http://161.0.157.5/PLTV/88888888/224/3221227026/02.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",  HBO 2 SD
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Info",  GEO: FYI
-http://iliketot.dyndns.TV/169a149fd1ef40edba0bbfc8e0f1bdd1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMzoxNjoyMyBBTSZoYXNoX3ZhbHVlPVdWdiswUjAwUC9SWnpINWtGUmNBZFE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDgxM3x1cGxheXwxNTI4MjU0OTgzfDIwMi4yOC40MS4xNDQ=
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",  CELESTIAL MOVIES
-http://rr2.dens.TV/s/s33/index1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",  Celestial Clasic MOVIES MY
-http://iliketot.dyndns.TV/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1Nzo0OCBBTSZoYXNoX3ZhbHVlPVAwSk5CRlBPTGwvRXJDRFMrTFZBS0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMnx1cGxheXwxNTI4MjUzODY4fDIwMi4yOC40MS4xNDQ=
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",  FOX32
-http://api.new.livestream.com/accounts/6370732/events/2591850/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",  FOXMOVIES
-http://usuarios.club/usuarios/src1/FoxMOVIES/mayo/mayo.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",  Fox Premium Cinema
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",  Fox Premium MOVIES
-http://streaming.i-sat.TV:8081/livestream/fox/playlist.m3u8?fluxusTV.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",  Fox Premium MOVIES
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Fox SPORT 2 SD
-http://iliketot.dyndns.TV/02cb79ab0b0c418f847148ca9e2baed4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Fox SPORT 3 SD
-http://iliketot.dyndns.TV/443ea6ef1768462aaffdff38ce2a4355.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Fox SPORTs Racing
-http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-
 
