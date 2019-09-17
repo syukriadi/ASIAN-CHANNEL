@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="LIGA CHAMPION",Skynet 1 (CHAMPION LEAGUE)
+http://iya.mba:8888/maju/qK326kZJBc/1159
+
+#EXTINF:-1 group-title="LIGA CHAMPION",Skynet 2 (CHAMPION LEAGUE)
+http://iya.mba:8888/maju/qK326kZJBc/1160
+
+#EXTINF:-1vgroup-title="LIGA CHAMPION",Skynet 3 (CHAMPION LEAGUE)
+http://iya.mba:8888/maju/qK326kZJBc/1161
+
+#EXTINF:-1 group-title="LIGA CHAMPION",Skynet 4 (CHAMPION LEAGUE)
+http://iya.mba:8888/maju/qK326kZJBc/1162
+
 #EXTINF:-1 tvg-logo="https://s.kaskus.id/r540x540/images/2019/03/30/10553380_201903301032400816.png" group-title="INDONESIA",  TVRI
 http://TVristream-i.akamaihd.net/hls/live/761941/akamai-TVri/stream04/streamPlaylist.m3u8
 
