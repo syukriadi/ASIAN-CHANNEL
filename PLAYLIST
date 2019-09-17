@@ -561,7 +561,7 @@ http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  SONY ESPN
 http://130.185.150.79:1935/trunk/SONY-ESPN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  SONY SIX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIGA CHAMPION",  SONY SIX
 http://130.185.150.79:1935/trunk/SONY-SIX/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  STAR SPORT FIRST
@@ -585,7 +585,7 @@ https://p02.quest123.top:8088/live/astrocricket/playlist.m3u8?id=107721&wowzases
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  PTV SPORT
 https://p02.quest123.top:8088/live/pTVSPORT1/playlist.m3u8?id=107721&wowzasessionid=7862393300&pk=5f1463c1b835b2af139267460d88edc0ba8902587e43782a84b8bae3e1a78181
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  SONY ESPN HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIGA CHAMPION",  SONY ESPN HD
 http://voxTV.dynns.com:8000/movies/movies/533
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  STAR SPORT 1 HD
