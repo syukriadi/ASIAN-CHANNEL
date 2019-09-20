@@ -39,6 +39,9 @@ http://92.43.140.200/s82/04.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9qDnifYGxTUrje9Fi2c1Y612YEEuu2zophq_vP0XTbJinnvxX-qgg5eth" group-title="SERI A ITALIA",  Turkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://dslivetv.com/Images/320px-Canal+_Sport_(2013).svg.png" group-title="LIGA LAINNYA",Canal + SPORT
+http://globe4.midomed.com:8883/alain/123456/81
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSommMxV4J78gymePCRM68xIlhti24Mwqp2QQqpeQAckfVO-dx0" group-title="LIGA LAINNYA",  Armenia TV
 http://ott-cdn.ucom.am/s4/04.m3u8
 
