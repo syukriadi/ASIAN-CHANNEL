@@ -54,21 +54,6 @@ http://220.158.149.14:9999/live/TV00000000000000000041@HHZT;LIVE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_SPORT.svg/150px-RTSH_SPORT.svg.png" group-title="LIGA LAINNYA",  RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvxPeKcXdEGDpjssRLLIwwfG8ZnSA9o3MfUMtQt_5etO0JvhOP" group-title="LIGA LAINNYA",  BEIN SPORT 1 HD
-http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvxPeKcXdEGDpjssRLLIwwfG8ZnSA9o3MfUMtQt_5etO0JvhOP" group-title="LIGA LAINNYA",  BEIN SPORT 2 HD
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvxPeKcXdEGDpjssRLLIwwfG8ZnSA9o3MfUMtQt_5etO0JvhOP" group-title="LIGA LAINNYA",  BEIN SPORT 3 HD
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvxPeKcXdEGDpjssRLLIwwfG8ZnSA9o3MfUMtQt_5etO0JvhOP" group-title="LIGA LAINNYA",  BEIN SPORT 4 HD
-http://95.170.215.101/hls/m3u8/Bein-Sport-HD4.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvxPeKcXdEGDpjssRLLIwwfG8ZnSA9o3MfUMtQt_5etO0JvhOP" group-title="LIGA LAINNYA",  BEIN SPORT 5 HD
-http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
-
 #EXTINF:-1 tvg-logo="https://s.kaskus.id/r540x540/images/2019/03/30/10553380_201903301032400816.png" group-title="INDONESIA",  TVRI
 http://TVristream-i.akamaihd.net/hls/live/761941/akamai-TVri/stream04/streamPlaylist.m3u8
 
@@ -426,6 +411,82 @@ http://109.248.236.41:4433/udp/238.1.1.116:1234
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRqlXRft-7Y6Y806L2nO-j_F023DrQhvyvVVC_Fx81JzKcNJ03" group-title="SPORT",  FOX SPORTS 2 SD
 http://iliketot.dyndns.TV/02cb79ab0b0c418f847148ca9e2baed4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTM3U
+#EXTINF:-1 group-title="SPORT",ON Sport HD
+http://51.77.116.148:1973/almatch/almatch/5173
+
+#EXTINF:-1 group-title="SPORT",NILE SPORT
+http://51.77.116.148:1973/almatch/almatch/5147
+
+#EXTINF:-1 group-title="SPORT",AR: Bein Sports 1 Mobile HD
+http://51.77.116.148:1973/almatch/almatch/5163
+
+#EXTINF:-1 group-title="SPORT",AR: Bein Sports 2 Mobile HD
+http://51.77.116.148:1973/almatch/almatch/5162
+
+#EXTINF:-1 group-title="SPORT",AR: Bein Sports 3 Mobile HD
+http://51.77.116.148:1973/almatch/almatch/5161
+
+#EXTINF:-1 group-title="SPORT",AR: Bein Sports 4 Mobile HD
+http://51.77.116.148:1973/almatch/almatch/5160
+
+#EXTINF:-1 group-title="SPORT",AR: Bein Sports 5 Mobile HD
+http://51.77.116.148:1973/almatch/almatch/5159
+
+#EXTINF:-1 group-title="SPORT",AR: Bein Sports 6 Mobile HD
+http://51.77.116.148:1973/almatch/almatch/5158
+
+#EXTINF:-1 group-title="SPORT",AR ||  Bein Sports 1 HD
+http://51.77.116.148:1973/almatch/almatch/5171
+
+#EXTINF:-1 group-title="SPORT",AR ||  Bein Sports 2 HD
+http://51.77.116.148:1973/almatch/almatch/5170
+
+#EXTINF:-1 group-title="SPORT",AR ||  Bein Sports 3 HD
+http://51.77.116.148:1973/almatch/almatch/5169
+
+#EXTINF:-1 group-title="SPORT",AR ||  Bein Sports 4 HD
+http://51.77.116.148:1973/almatch/almatch/5168
+
+#EXTINF:-1 group-title="SPORT",AR ||  Bein Sports 5 HD
+http://51.77.116.148:1973/almatch/almatch/5167
+
+#EXTINF:-1 group-title="SPORT",AR ||  Bein Sports 6 HD
+http://51.77.116.148:1973/almatch/almatch/5166
+
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 1 Backup
+http://51.77.116.148:1973/almatch/almatch/5155
+
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 2 Backup
+http://51.77.116.148:1973/almatch/almatch/5154
+
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 3 Backup
+http://51.77.116.148:1973/almatch/almatch/5153
+
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 4 Backup
+http://51.77.116.148:1973/almatch/almatch/5152
+
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 5 Backup
+http://51.77.116.148:1973/almatch/almatch/5151
+
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 6 Backup
+http://51.77.116.148:1973/almatch/almatch/5150
+
+#EXTINF:-1 group-title="SPORT",KSA SPORTS 1 HD
+http://51.77.116.148:1973/almatch/almatch/5489
+
+#EXTINF:-1 group-title="SPORT",Kuwait Sport
+http://51.77.116.148:1973/almatch/almatch/5595
+
+#EXTINF:-1 group-title="SPORT",OSN ALKASS SPORT 1 HD
+http://51.77.116.148:1973/almatch/almatch/5242
+
+#EXTINF:-1 group-title="SPORT",OSN ALKASS SPORT 2 HD
+http://51.77.116.148:1973/almatch/almatch/5241
+
+#EXTINF:-1 group-title="SPORT",AR: AD Sports 1
+http://51.77.116.148:1973/almatch/almatch/5557
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSommMxV4J78gymePCRM68xIlhti24Mwqp2QQqpeQAckfVO-dx0" group-title="ARMENIA",  Armenia TV
 http://ott-cdn.ucom.am/s4/04.m3u8
