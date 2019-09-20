@@ -419,23 +419,6 @@ http://51.77.116.148:1973/almatch/almatch/5173
 #EXTINF:-1 group-title="SPORT",NILE SPORT
 http://51.77.116.148:1973/almatch/almatch/5147
 
-#EXTINF:-1 group-title="SPORT",AR: Bein Sports 1 Mobile HD
-http://51.77.116.148:1973/almatch/almatch/5163
-
-#EXTINF:-1 group-title="SPORT",AR: Bein Sports 2 Mobile HD
-http://51.77.116.148:1973/almatch/almatch/5162
-
-#EXTINF:-1 group-title="SPORT",AR: Bein Sports 3 Mobile HD
-http://51.77.116.148:1973/almatch/almatch/5161
-
-#EXTINF:-1 group-title="SPORT",AR: Bein Sports 4 Mobile HD
-http://51.77.116.148:1973/almatch/almatch/5160
-
-#EXTINF:-1 group-title="SPORT",AR: Bein Sports 5 Mobile HD
-http://51.77.116.148:1973/almatch/almatch/5159
-
-#EXTINF:-1 group-title="SPORT",AR: Bein Sports 6 Mobile HD
-http://51.77.116.148:1973/almatch/almatch/5158
 
 #EXTINF:-1 group-title="SPORT",AR ||  Bein Sports 1 HD
 http://51.77.116.148:1973/almatch/almatch/5171
@@ -454,24 +437,6 @@ http://51.77.116.148:1973/almatch/almatch/5167
 
 #EXTINF:-1 group-title="SPORT",AR ||  Bein Sports 6 HD
 http://51.77.116.148:1973/almatch/almatch/5166
-
-#EXTINF:-1 group-title="SPORT",BEIN SPORTS 1 Backup
-http://51.77.116.148:1973/almatch/almatch/5155
-
-#EXTINF:-1 group-title="SPORT",BEIN SPORTS 2 Backup
-http://51.77.116.148:1973/almatch/almatch/5154
-
-#EXTINF:-1 group-title="SPORT",BEIN SPORTS 3 Backup
-http://51.77.116.148:1973/almatch/almatch/5153
-
-#EXTINF:-1 group-title="SPORT",BEIN SPORTS 4 Backup
-http://51.77.116.148:1973/almatch/almatch/5152
-
-#EXTINF:-1 group-title="SPORT",BEIN SPORTS 5 Backup
-http://51.77.116.148:1973/almatch/almatch/5151
-
-#EXTINF:-1 group-title="SPORT",BEIN SPORTS 6 Backup
-http://51.77.116.148:1973/almatch/almatch/5150
 
 #EXTINF:-1 group-title="SPORT",KSA SPORTS 1 HD
 http://51.77.116.148:1973/almatch/almatch/5489
