@@ -51,6 +51,36 @@ http://220.158.149.14:9999/live/TV00000000000000000039@HHZT;LIVE
 #EXTINF:-1 tvg-logo="http://myTV.com.kh/wp-content/uploads/2017/08/s5_logo-1-1.png" group-title="EPL",  myTV
 http://220.158.149.14:9999/live/TV00000000000000000041@HHZT;LIVE
 
+#EXTINF:-1 group-title="FEED",Doball 1
+http://stream.doball.com:8080/hls/ch1.m3u8?feed
+
+#EXTINF:-1 group-title="FEED",Doball 4
+http://stream.doball.com:8080/hls/ch4.m3u8?feed
+#EXTINF:-1 group-title="FEED",Doball 5
+http://stream.doball.com:8080/hls/ch5.m3u8?feed
+#EXTINF:-1 group-title="FEED",Doball 6
+http://stream.doball.com:8080/hls/ch6.m3u8?feed
+#EXTINF:-1 group-title="FEED",Doball 7
+http://stream.doball.com:8080/hls/ch7.m3u8?feed
+#EXTINF:-1 group-title="FEED",Doball 8
+http://stream.doball.com:8080/hls/ch8.m3u8?feed
+#EXTINF:-1 group-title="FEED",Doball 9
+http://stream.doball.com:8080/hls/ch9.m3u8?feed
+
+#EXTINF:-1 group-title="FEED",Doball 10
+http://stream.doball.com:8080/hls/ch10.m3u8?feed
+#EXTINF:-1 group-title="FEED",Doball 11
+http://stream.doball.com:8080/hls/ch11.m3u8?feed
+#EXTINF:-1 group-title="FEED",Doball 12
+http://stream.doball.com:8080/hls/ch12.m3u8?feed
+#EXTINF:-1 group-title="FEED",Doball 13
+http://stream.doball.com:8080/hls/ch13.m3u8?feed
+#EXTINF:-1 group-title="FEED",Doball 14
+http://stream.doball.com:8080/hls/ch14.m3u8?feed
+#EXTINF:-1 group-title="FEED",Doball 15
+http://stream.doball.com:8080/hls/ch15.m3u8?feed
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_SPORT.svg/150px-RTSH_SPORT.svg.png" group-title="MOTO GP",  RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 
