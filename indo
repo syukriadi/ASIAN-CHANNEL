@@ -39,6 +39,9 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSommMxV4J78gymePCRM68xIlhti24Mwqp2QQqpeQAckfVO-dx0" group-title="EPL",  Armenia TV
 http://ott-cdn.ucom.am/s4/04.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTyB-Jd79hufSGYek-UIx6e4H1DuSGaXM10c2dIZpU63XSRqBV" group-title="EPL",  AR ||  Bein Sports 3 HD
+http://51.77.116.148:1973/almatch/almatch/5169
+
 #EXTINF:-1 tvg-logo="https://www.cnc.com.kh/img/logo.jpg" group-title="EPL",  CNC News
 http://220.158.149.14:9999/live/TV00000000000000000040@HHZT;LIVE
 
@@ -389,9 +392,6 @@ http://iliketot.dyndns.TV/02cb79ab0b0c418f847148ca9e2baed4.m3u8?wmsAuthSign=c2Vy
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  ON Sport HD
 http://51.77.116.148:1973/almatch/almatch/5173
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  AR ||  Bein Sports 3 HD
-http://51.77.116.148:1973/almatch/almatch/5169
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Kuwait Sport
 http://51.77.116.148:1973/almatch/almatch/5595
