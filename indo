@@ -24,31 +24,31 @@ http://130.185.150.79:1935/trunk/SONY-ESPN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR-ta73HENkszI89MSHzb1-mZrW-A42hAborQ7QDeRWu75O073K" group-title="CHAMPION LEAGUE",  SONY SIX
 http://130.185.150.79:1935/trunk/SONY-SIX/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="SERI A ITALIA",  Setanta Sports 1 (Opt-1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="LALIGA & SERI A ITALIA",  Setanta Sports 1 (Opt-1)
 http://ott-cdn.ucom.am/s81/03.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="SERI A ITALIA",  Setanta Sports 1 (Opt-2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="LALIGA & SERI A ITALIA",  Setanta Sports 1 (Opt-2)
 http://92.43.140.204:80/s81/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="SERI A ITALIA",  Setanta Sports 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="LALIGA & SERI A ITALIA",  Setanta Sports 2
 http://92.43.140.200/s82/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9qDnifYGxTUrje9Fi2c1Y612YEEuu2zophq_vP0XTbJinnvxX-qgg5eth" group-title="SERI A ITALIA",  Turkmenistan Sport
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9qDnifYGxTUrje9Fi2c1Y612YEEuu2zophq_vP0XTbJinnvxX-qgg5eth" group-title="LALIGA & SERI A ITALIA",  Turkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSommMxV4J78gymePCRM68xIlhti24Mwqp2QQqpeQAckfVO-dx0" group-title="LIGA LAINNYA",  Armenia TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSommMxV4J78gymePCRM68xIlhti24Mwqp2QQqpeQAckfVO-dx0" group-title="EPL",  Armenia TV
 http://ott-cdn.ucom.am/s4/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cnc.com.kh/img/logo.jpg" group-title="LIGA LAINNYA",  CNC News
+#EXTINF:-1 tvg-logo="https://www.cnc.com.kh/img/logo.jpg" group-title="EPL",  CNC News
 http://220.158.149.14:9999/live/TV00000000000000000040@HHZT;LIVE
 
-#EXTINF:-1 tvg-logo="https://cambodia.mom-rsf.org/uploads/tx_lfrogmom/media/11-400_import.png" group-title="LIGA LAINNYA",  CTN
+#EXTINF:-1 tvg-logo="https://cambodia.mom-rsf.org/uploads/tx_lfrogmom/media/11-400_import.png" group-title="EPL",  CTN
 http://220.158.149.14:9999/live/TV00000000000000000039@HHZT;LIVE
 
-#EXTINF:-1 tvg-logo="http://myTV.com.kh/wp-content/uploads/2017/08/s5_logo-1-1.png" group-title="LIGA LAINNYA",  myTV
+#EXTINF:-1 tvg-logo="http://myTV.com.kh/wp-content/uploads/2017/08/s5_logo-1-1.png" group-title="EPL",  myTV
 http://220.158.149.14:9999/live/TV00000000000000000041@HHZT;LIVE
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_SPORT.svg/150px-RTSH_SPORT.svg.png" group-title="LIGA LAINNYA",  RTSH Sport
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_SPORT.svg/150px-RTSH_SPORT.svg.png" group-title="MOTO GP",  RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://staging.TVri.go.id/assets/img_gallery/TVrinasional.jpg" group-title="INDONESIA",  TVRI NASIONAL
