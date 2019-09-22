@@ -429,8 +429,121 @@ http://51.77.116.148:1973/almatch/almatch/5595
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  OSN ALKASS SPORT 2 HD
 http://51.77.116.148:1973/almatch/almatch/5241
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  AR: AD Sports 1
-http://51.77.116.148:1973/almatch/almatch/5557
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/SPORT/3.png" group-title="SPORT",  ESPN
+http://80.80.160.168/live/6/2500000/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/SPORT/5.png" group-title="SPORT",  ESPN 2
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://sportscar365.com/wp-content/uploads/2015/02/foxsportsracing.jpg" group-title="SPORT",  Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/bolivia-SPORT.png?fit=500%2C300" group-title="SPORT",  Bolivia SPORT
+http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Telecaribe_SPORT_2017.png/revision/latest?cb=20171006040233" group-title="SPORT",  Telecaribe SPORT
+http://telecaribe-SPORT.gcdn.anvato.net/hls/live/telecaribeSPORThd2/2196k/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Stadium Sports Network
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  SPORTSMAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Esport3
+https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/cat/ngrp:es3_web/chunklist_b1296000_DVR.m3u8
+
+#EXTINF:-1 tvg-logo="https://satcesc.com/web/wp-content/uploads/2014/10/setanta-sports.jpg" group-title="SPORT",  Setanta Sports
+http://ott-cdn.ucom.am/s81/04.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  MATCH FOOTBALL 1 HD
+http://persik.by/stream/0713/382544/10266.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Матч!
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/212/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Матч! Игра
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/225/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Матч! Планета
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/123/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Матч! Арена HD
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/207/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Матч! Арена
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/528/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Матч! Игра
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/529/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Матч ТВ
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/535/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Футбол 1 HD
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/800/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Футбол 2 HD
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/801/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Футбол 1 https://www.iptvbin.com/
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/222/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Футбол 2
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/211/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Футбол 3
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/206/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Матч! Футбол 1
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/124/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Наш футбол
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/531/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Матч! Футбол 3
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/522/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Матч! Футбол 2
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/530/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Наш спорт
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/107/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Наш футбол
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/220/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  EuroSport 1
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/141/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Eurosport 1 HD
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/228/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Eurosport 2 North-East HD
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/234/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  XSPORT HD
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/996/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Viasat Sport HD
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/208/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Viasat Sport SD
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/160/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  KHL
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/519/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Extreme Sports
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/144/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Матч! Боец
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/150/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Матч! Боец
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/150/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSommMxV4J78gymePCRM68xIlhti24Mwqp2QQqpeQAckfVO-dx0" group-title="ARMENIA",  Football
 http://ott-cdn.ucom.am/s41/04.m3u8
