@@ -39,6 +39,9 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSommMxV4J78gymePCRM68xIlhti24Mwqp2QQqpeQAckfVO-dx0" group-title="EPL",  Armenia TV
 http://ott-cdn.ucom.am/s4/04.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1200px-ESPN_Brasil_logo.svg.png"group-title="EPL",Espn Brasil_131
+http://hvod.imirun.net:8080/ESPN-Brasil-HD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTyB-Jd79hufSGYek-UIx6e4H1DuSGaXM10c2dIZpU63XSRqBV" group-title="EPL",  AR ||  Bein Sports 3 HD
 http://51.77.116.148:1973/almatch/almatch/5169
 
