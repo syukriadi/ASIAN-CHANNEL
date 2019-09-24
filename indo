@@ -21,6 +21,14 @@ http://92.43.140.200/s82/04.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9qDnifYGxTUrje9Fi2c1Y612YEEuu2zophq_vP0XTbJinnvxX-qgg5eth" group-title="LALIGA & SERI A ITALIA",  Turkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LALIGA & SERI A ITALIA",  Футбол 1
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/222/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LALIGA & SERI A ITALIA",  Футбол 2
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/211/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LALIGA & SERI A ITALIA",  Футбол 3
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/206/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSommMxV4J78gymePCRM68xIlhti24Mwqp2QQqpeQAckfVO-dx0" group-title="EPL",  Armenia TV
 http://ott-cdn.ucom.am/s4/04.m3u8
 
@@ -442,21 +450,6 @@ http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/529/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Матч ТВ
 http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/535/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Футбол 1 HD
-http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/800/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Футбол 2 HD
-http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/801/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Футбол 1
-http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/222/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Футбол 2
-http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/211/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Футбол 3
-http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/206/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",  Матч! Футбол 1
 http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/124/index.m3u8
