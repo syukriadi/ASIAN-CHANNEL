@@ -126,24 +126,6 @@ http://202.80.222.130/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_114.png" group-title="INDONESIA",  RAJAWALI TV
 http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvxPeKcXdEGDpjssRLLIwwfG8ZnSA9o3MfUMtQt_5etO0JvhOP" group-title="CHAMPION LEAGUE",  BEIN SPORT 2 HD
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvxPeKcXdEGDpjssRLLIwwfG8ZnSA9o3MfUMtQt_5etO0JvhOP" group-title="CHAMPION LEAGUE",  BEIN SPORT 3 HD
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvxPeKcXdEGDpjssRLLIwwfG8ZnSA9o3MfUMtQt_5etO0JvhOP" group-title="CHAMPION LEAGUE",  BEIN SPORT 4 HD
-http://95.170.215.101/hls/m3u8/Bein-Sport-HD4.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvxPeKcXdEGDpjssRLLIwwfG8ZnSA9o3MfUMtQt_5etO0JvhOP" group-title="CHAMPION LEAGUE",  BEIN SPORT 5 HD
-http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSommMxV4J78gymePCRM68xIlhti24Mwqp2QQqpeQAckfVO-dx0" group-title="CHAMPION LEAGUE",  Armenia TV
-http://ott-cdn.ucom.am/s4/04.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTauPwk30i0-rhgpx0U5XaJsC13L5byKAYQeDt0NHmijCH5xyeY" group-title="CHAMPION LEAGUE",  SONY ESPN
-http://130.185.150.79:1935/trunk/SONY-ESPN/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://images.useeTV.com/logo_metroTV_big1.png?v=2.0.0.9" group-title="INDONESIA",  METRO TV
 http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?_res_tag_=video&amp;virtualDomain=000001.live_hls.zte.com
 
