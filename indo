@@ -33,6 +33,15 @@ http://51.77.116.148:1973/almatch/almatch/5169
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/61/STAR_Sports_logo.png/200px-STAR_Sports_logo.png" group-title="EPL", StarSports
 http://144.217.70.223:8080/StarSports_Hd1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSommMxV4J78gymePCRM68xIlhti24Mwqp2QQqpeQAckfVO-dx0" group-title="European Qualifiers",  Armenia TV
+http://ott-cdn.ucom.am/s4/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR-ta73HENkszI89MSHzb1-mZrW-A42hAborQ7QDeRWu75O073K" group-title="European Qualifiers",  SONY SIX
+http://130.185.150.79:1935/trunk/SONY-SIX/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_SPORT.svg/150px-RTSH_SPORT.svg.png" group-title="European Qualifiers",  RTSH Sport
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+
 #EXTINF:-1 group-title="FEED",Doball 1
 http://stream.doball.com:8080/hls/ch1.m3u8?feed
 
@@ -559,15 +568,6 @@ http://192.240.127.34:1935/live/cs19.stream/media_1254.m3u8
 
 #EXTINF:-1 tvg-logo="http://204.197.253.93/pt-data/uploads/images/logo/wowow_live.jpg" group-title="JAPAN",  Cinefil WOWOW
 http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTyFkvIj0O9ZXAAj7xpjATTtlXYuM2G85iU-7CqH-fXIVM3GY_" group-title="ADULT 18+",Hustler
-http://151.236.240.6:4021/udp/239.0.9.19:1234
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTyFkvIj0O9ZXAAj7xpjATTtlXYuM2G85iU-7CqH-fXIVM3GY_" group-title="ADULT 18+",Private TV
-http://151.236.240.6:4021/udp/239.0.9.17:1234
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTyFkvIj0O9ZXAAj7xpjATTtlXYuM2G85iU-7CqH-fXIVM3GY_" group-title="ADULT 18+",Playboy TV
-http://78.128.80.10:8000/play/a06b
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTyFkvIj0O9ZXAAj7xpjATTtlXYuM2G85iU-7CqH-fXIVM3GY_" group-title="ADULT 18+",  HOT TEEN
 http://live.redtraffic.xyz/teen.m3u8
