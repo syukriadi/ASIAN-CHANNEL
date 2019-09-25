@@ -9,7 +9,7 @@ http://130.185.150.79:1935/trunk/SONY-ESPN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR-ta73HENkszI89MSHzb1-mZrW-A42hAborQ7QDeRWu75O073K" group-title="CHAMPION LEAGUE",  SONY SIX
 http://130.185.150.79:1935/trunk/SONY-SIX/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagesvc.timeincapp.com/v3/fan/image?url=https://fansided.com/wp-content/blogs.dir/229/files/2013/10/fs2-590x420.jpg&c=sc&w=590&h=420" group-title="CHAMPION LEAGUE" FOX SPORT 2
+#EXTINF:-1 tvg-logo="https://imagesvc.timeincapp.com/v3/fan/image?url=https://fansided.com/wp-content/blogs.dir/229/files/2013/10/fs2-590x420.jpg&c=sc&w=590&h=420" group-title="CHAMPION LEAGUE", FOX SPORT 2
 https://tinyurl.com/yy89c6bm
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="LALIGA & SERI A ITALIA",  Setanta Sports 1 (Opt-1)
