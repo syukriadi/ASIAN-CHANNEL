@@ -82,7 +82,6 @@ http://stream.doball.com:8080/hls/ch14.m3u8?feed
 #EXTINF:-1 group-title="FEED",Doball 15
 http://stream.doball.com:8080/hls/ch15.m3u8?feed
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_SPORT.svg/150px-RTSH_SPORT.svg.png" group-title="MOTO GP",  RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 
