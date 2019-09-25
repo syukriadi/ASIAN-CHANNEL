@@ -580,20 +580,20 @@ http://live.redtraffic.xyz/bigdick.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTyFkvIj0O9ZXAAj7xpjATTtlXYuM2G85iU-7CqH-fXIVM3GY_" group-title="ADULT 18+",  HOT BLOWJOB
 http://live.redtraffic.xyz/blowjob.m3u8
 
-#EXTINF:-1 group-title="ADULT",PLAYBOY TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTyFkvIj0O9ZXAAj7xpjATTtlXYuM2G85iU-7CqH-fXIVM3GY_" group-title="ADULT 18+",PLAYBOY TV
 #EXTVLCOPT:program=30603
 http://viverode13.ddns.net:8001/1:0:1:778B:424:1:C00000:0:0:0:
 
-#EXTINF:-1 group-title="ADULT",PRIVAT TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTyFkvIj0O9ZXAAj7xpjATTtlXYuM2G85iU-7CqH-fXIVM3GY_" group-title="ADULT 18+",PRIVAT TV
 http://08139e2f.ottv.info/iptv/S9824PT3RW2E72/877/index.m3u8
 
-#EXTINF:-1 group-title="ADULT",VOD ADULT 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTyFkvIj0O9ZXAAj7xpjATTtlXYuM2G85iU-7CqH-fXIVM3GY_" group-title="ADULT 18+",VOD ADULT 1
 http://stream2.fastcdn.me/flv/480.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRoxUX6osBg7wDr2rxjUrsHN1NN80uqwS_mULMMGwWaMdQiTeu_" group-title="KIDS", NICKELODEON
 http://95.170.215.118/hls/m3u8/Nickelodeon-JR.m3u8|User-Agent=Lavf/56.15.102
 
-#EXTINF:-1 group-title="SPORT",Bein HD 1
+#EXTINF:-1 group-title="SPORT", HAITI TV
 https://watch.haitilive.net/FreeTV/!/rtvc/webHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FGYGBtP.png" group-title="SPORT", MYR| SKYNET HD
