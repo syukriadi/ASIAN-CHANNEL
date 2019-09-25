@@ -559,6 +559,9 @@ http://192.240.127.34:1935/live/cs19.stream/media_1254.m3u8
 #EXTINF:-1 tvg-logo="http://204.197.253.93/pt-data/uploads/images/logo/wowow_live.jpg" group-title="JAPAN",  Cinefil WOWOW
 http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8
 
+#EXTINF:-1 tvg-logo="https://myrealdomain.com/images/brazzers-font-3.png"group-title="ADULT 18+", Brazzers
+http://194.204.46.137/live/eds/Brazzers/HLS_encr/Brazzers.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTyFkvIj0O9ZXAAj7xpjATTtlXYuM2G85iU-7CqH-fXIVM3GY_" group-title="ADULT 18+",  HOT TEEN
 http://live.redtraffic.xyz/teen.m3u8
 
