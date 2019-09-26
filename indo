@@ -605,7 +605,6 @@ https://watch.haitilive.net/FreeTV/!/rtvc/webHD/index.m3u8
 #EXTGRP:BEIN SPORT
 http://62.210.209.100:86/live/Drgd3jZ04J/qhVMQr1PdD/119.ts|User-Agent=yacine00
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN",Bein_Sport HD2
 #EXTGRP:BEIN SPORT
 http://62.210.209.100:86/live/Drgd3jZ04J/qhVMQr1PdD/118.ts|User-Agent=yacine00
@@ -637,6 +636,34 @@ http://62.210.209.100:86/live/Drgd3jZ04J/qhVMQr1PdD/112.ts|User-Agent=yacine00
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN",Bein_Sport HD9
 #EXTGRP:BEIN SPORT
 http://62.210.209.100:86/live/Drgd3jZ04J/qhVMQr1PdD/111.ts|User-Agent=yacine00
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN",Bein_Sport HD10
+#EXTGRP:BEIN SPORT
+http://95.170.215.120/hls/m3u8/BeinSport10.m3u8|User-Agent=Lavf/56.15.102
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN",Bein_Sport HD11
+#EXTGRP:BEIN SPORT
+http://95.170.215.120/hls/m3u8/BeinSport11.m3u8|User-Agent=Lavf/56.15.102
+
+#EXTINF:-1,[ENG] BEIN HD12
+#EXTGRP:BEIN SPORT
+http://95.170.215.120/hls/m3u8/BeinSport12.m3u8|User-Agent=Lavf/56.15.102
+
+#EXTINF:-1,[ENG] BEIN HD13
+#EXTGRP:BEIN SPORT
+http://95.170.215.120/hls/m3u8/BeinSport13.m3u8|User-Agent=Lavf/56.15.102
+
+#EXTINF:-1,BEIN HD14
+#EXTGRP:BEIN SPORT
+http://95.170.215.120/hls/m3u8/BeinSport14.m3u8|User-Agent=Lavf/56.15.102
+
+#EXTINF:-1,[FRA] BEIN HD15
+#EXTGRP:BEIN SPORT
+http://95.170.215.120/hls/m3u8/BeinSport15.m3u8|User-Agent=Lavf/56.15.102
+
+#EXTINF:-1,[FRA] BEIN HD16
+#EXTGRP:BEIN SPORT
+http://95.170.215.120/hls/m3u8/BeinSport16.m3u8|User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-pyXe2z1Er3A/XE7VdxsachI/AAAAAAAAAGQ/PLwjKh2EIT8bzmqNXk9shmZk-bzTJDNUwCLcBGAs/s1600/SocialDarkNet%2B-%2BMunafik%2B1%2B%25282016%2529%2Bbluray%2BSubtitle%2BIndonesia.jpg" group-title="VOD MOVIES",  MUNAFIK
 http://cdn0-a.production.vidio.static6.com/uploads/1528383/ets-2-20traimuna-9bbb-b1600.mp4.m3u8
