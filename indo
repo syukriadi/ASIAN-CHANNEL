@@ -601,21 +601,42 @@ http://95.170.215.118/hls/m3u8/Nickelodeon-JR.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1 group-title="SPORT", HAITI TV
 https://watch.haitilive.net/FreeTV/!/rtvc/webHD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FGYGBtP.png" group-title="SPORT", MYR| SKYNET HD
-http://190.2.154.164:80/TV0673
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJww8MG.png" group-title="SPORT", MYR| SKYNET 1 HD
-http://190.2.154.164:80/TV0660
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJww8MG.png" group-title="SPORT", MYR| SKYNET 2 HD
-http://190.2.154.164:80/TV0661
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJww8MG.png" group-title="SPORT", MYR| SKYNET 3 HD
-http://190.2.154.164:80/TV0662
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJww8MG.png" group-title="SPORT", MYR| SKYNET 4 HD
-http://190.2.154.164:80/TV0663
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJww8MG.png" group-title="SPORT", MYR| SKYNET 5 HD
-http://190.2.154.164:80/TV0664
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJww8MG.png" group-title="SPORT", MYR| SKYNET 6 HD
-http://190.2.154.164:80/TV0665
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN",Bein_Sport HD1
+#EXTGRP:BEIN SPORT
+http://62.210.209.100:86/live/Drgd3jZ04J/qhVMQr1PdD/119.ts|User-Agent=yacine00
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN",Bein_Sport HD2
+#EXTGRP:BEIN SPORT
+http://62.210.209.100:86/live/Drgd3jZ04J/qhVMQr1PdD/118.ts|User-Agent=yacine00
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN",Bein_Sport HD3
+#EXTGRP:BEIN SPORT
+http://62.210.209.100:86/live/Drgd3jZ04J/qhVMQr1PdD/117.ts|User-Agent=yacine00
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN",Bein_Sport HD4
+#EXTGRP:BEIN SPORT
+http://62.210.209.100:86/live/Drgd3jZ04J/qhVMQr1PdD/116.ts|User-Agent=yacine00
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN",Bein_Sport HD5
+#EXTGRP:BEIN SPORT
+http://62.210.209.100:86/live/Drgd3jZ04J/qhVMQr1PdD/115.ts|User-Agent=yacine00
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN",Bein_Sport HD6
+#EXTGRP:BEIN SPORT
+http://62.210.209.100:86/live/Drgd3jZ04J/qhVMQr1PdD/114.ts|User-Agent=yacine00
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN",Bein_Sport HD7
+#EXTGRP:BEIN SPORT
+http://62.210.209.100:86/live/Drgd3jZ04J/qhVMQr1PdD/113.ts|User-Agent=yacine00
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN",Bein_Sport HD8
+#EXTGRP:BEIN SPORT
+http://62.210.209.100:86/live/Drgd3jZ04J/qhVMQr1PdD/112.ts|User-Agent=yacine00
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN",Bein_Sport HD9
+#EXTGRP:BEIN SPORT
+http://62.210.209.100:86/live/Drgd3jZ04J/qhVMQr1PdD/111.ts|User-Agent=yacine00
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-pyXe2z1Er3A/XE7VdxsachI/AAAAAAAAAGQ/PLwjKh2EIT8bzmqNXk9shmZk-bzTJDNUwCLcBGAs/s1600/SocialDarkNet%2B-%2BMunafik%2B1%2B%25282016%2529%2Bbluray%2BSubtitle%2BIndonesia.jpg" group-title="VOD MOVIES",  MUNAFIK
 http://cdn0-a.production.vidio.static6.com/uploads/1528383/ets-2-20traimuna-9bbb-b1600.mp4.m3u8
