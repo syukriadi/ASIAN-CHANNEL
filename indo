@@ -602,9 +602,23 @@ http://viverode13.ddns.net:8001/1:0:1:778B:424:1:C00000:0:0:0:
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTyFkvIj0O9ZXAAj7xpjATTtlXYuM2G85iU-7CqH-fXIVM3GY_" group-title="ADULT 18+",PRIVAT TV
 http://08139e2f.ottv.info/iptv/S9824PT3RW2E72/877/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTyFkvIj0O9ZXAAj7xpjATTtlXYuM2G85iU-7CqH-fXIVM3GY_" group-title="ADULT 18+",VOD ADULT 1
-http://stream2.fastcdn.me/flv/480.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTyFkvIj0O9ZXAAj7xpjATTtlXYuM2G85iU-7CqH-fXIVM3GY_" group-title="ADULT 18+", JASMIN.TV (+18)
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTyFkvIj0O9ZXAAj7xpjATTtlXYuM2G85iU-7CqH-fXIVM3GY_" group-title="ADULT 18+", Miami TV (18+)
+http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTyFkvIj0O9ZXAAj7xpjATTtlXYuM2G85iU-7CqH-fXIVM3GY_" group-title="ADULT 18+", Babestation 24 (18+)
+http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist_b1728000.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTyFkvIj0O9ZXAAj7xpjATTtlXYuM2G85iU-7CqH-fXIVM3GY_" group-title="ADULT 18+", Super One HD (18+)
+http://188.35.9.5:10007/stolen/246r/parasite.install
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTyFkvIj0O9ZXAAj7xpjATTtlXYuM2G85iU-7CqH-fXIVM3GY_" group-title="ADULT 18+", Dorcel TV (18+)
+http://188.35.9.11:21141/udp/214h
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTyFkvIj0O9ZXAAj7xpjATTtlXYuM2G85iU-7CqH-fXIVM3GY_" group-title="ADULT 18+", French Lover TV (18+)
+http://91.204.234.3:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRoxUX6osBg7wDr2rxjUrsHN1NN80uqwS_mULMMGwWaMdQiTeu_" group-title="KIDS", NICKELODEON
 http://95.170.215.118/hls/m3u8/Nickelodeon-JR.m3u8|User-Agent=Lavf/56.15.102
 
