@@ -1,5 +1,24 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN SPORT",bein_Sports_SD1
+http://bit.ly/2msVZcL
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN SPORT",bein_Sports_SD2
+http://bit.ly/2nUYVPD
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN SPORT",bein_Sports_SD3
+http://bit.ly/2mg01Fq
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN SPORT",bein_Sports_SD4
+http://bit.ly/2mpbVfW
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN SPORT",bein_Sports_SD5
+http://bit.ly/2nYyZ5X
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN SPORT",bein_Sports_SD6
+http://bit.ly/2nPQWmT
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSommMxV4J78gymePCRM68xIlhti24Mwqp2QQqpeQAckfVO-dx0" group-title="CHAMPION LEAGUE",  Armenia TV
 http://ott-cdn.ucom.am/s4/04.m3u8
 
@@ -178,6 +197,14 @@ http://188.35.9.11:21151/udp/185f
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS", SPACETOON
 http://95.170.215.109:80/hls/m3u8/Spacetoon-Backup.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTyFkvIj0O9ZXAAj7xpjATTtlXYuM2G85iU-7CqH-fXIVM3GY_" group-title="ADULT 18+", French Lover TV (18+)
+http://91.204.234.3:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRoxUX6osBg7wDr2rxjUrsHN1NN80uqwS_mULMMGwWaMdQiTeu_" group-title="KIDS", NICKELODEON
+http://95.170.215.118/hls/m3u8/Nickelodeon-JR.m3u8|User-Agent=Lavf/56.15.102
+
+#EXTINF:-1 group-title="SPORT", HAITI TV
+https://watch.haitilive.net/FreeTV/!/rtvc/webHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Info",  ANIMAL PLANET
 http://80.80.160.168/live/1/live.m3u8
@@ -617,77 +644,6 @@ http://188.35.9.5:10007/stolen/246r/parasite.install
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTyFkvIj0O9ZXAAj7xpjATTtlXYuM2G85iU-7CqH-fXIVM3GY_" group-title="ADULT 18+", Dorcel TV (18+)
 http://188.35.9.11:21141/udp/214h
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTyFkvIj0O9ZXAAj7xpjATTtlXYuM2G85iU-7CqH-fXIVM3GY_" group-title="ADULT 18+", French Lover TV (18+)
-http://91.204.234.3:8000/play/a001/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRoxUX6osBg7wDr2rxjUrsHN1NN80uqwS_mULMMGwWaMdQiTeu_" group-title="KIDS", NICKELODEON
-http://95.170.215.118/hls/m3u8/Nickelodeon-JR.m3u8|User-Agent=Lavf/56.15.102
-
-#EXTINF:-1 group-title="SPORT", HAITI TV
-https://watch.haitilive.net/FreeTV/!/rtvc/webHD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN",Bein_Sport HD1
-#EXTGRP:BEIN SPORT
-http://62.210.209.100:86/live/Drgd3jZ04J/qhVMQr1PdD/119.ts|User-Agent=yacine00
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN",Bein_Sport HD2
-#EXTGRP:BEIN SPORT
-http://62.210.209.100:86/live/Drgd3jZ04J/qhVMQr1PdD/118.ts|User-Agent=yacine00
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN",Bein_Sport HD3
-#EXTGRP:BEIN SPORT
-http://62.210.209.100:86/live/Drgd3jZ04J/qhVMQr1PdD/117.ts|User-Agent=yacine00
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN",Bein_Sport HD4
-#EXTGRP:BEIN SPORT
-http://62.210.209.100:86/live/Drgd3jZ04J/qhVMQr1PdD/116.ts|User-Agent=yacine00
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN",Bein_Sport HD5
-#EXTGRP:BEIN SPORT
-http://62.210.209.100:86/live/Drgd3jZ04J/qhVMQr1PdD/115.ts|User-Agent=yacine00
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN",Bein_Sport HD6
-#EXTGRP:BEIN SPORT
-http://62.210.209.100:86/live/Drgd3jZ04J/qhVMQr1PdD/114.ts|User-Agent=yacine00
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN",Bein_Sport HD7
-#EXTGRP:BEIN SPORT
-http://62.210.209.100:86/live/Drgd3jZ04J/qhVMQr1PdD/113.ts|User-Agent=yacine00
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN",Bein_Sport HD8
-#EXTGRP:BEIN SPORT
-http://62.210.209.100:86/live/Drgd3jZ04J/qhVMQr1PdD/112.ts|User-Agent=yacine00
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN",Bein_Sport HD9
-#EXTGRP:BEIN SPORT
-http://62.210.209.100:86/live/Drgd3jZ04J/qhVMQr1PdD/111.ts|User-Agent=yacine00
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN",Bein_Sport HD10
-#EXTGRP:BEIN SPORT
-http://95.170.215.120/hls/m3u8/BeinSport10.m3u8|User-Agent=Lavf/56.15.102
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRif7jGEr-3xrH0ki2XPuJpjRwivvpzz7eJx_itfEPX-A7uZbd" group-title="BEIN",Bein_Sport HD11
-#EXTGRP:BEIN SPORT
-http://95.170.215.120/hls/m3u8/BeinSport11.m3u8|User-Agent=Lavf/56.15.102
-
-#EXTINF:-1,[ENG] BEIN HD12
-#EXTGRP:BEIN SPORT
-http://95.170.215.120/hls/m3u8/BeinSport12.m3u8|User-Agent=Lavf/56.15.102
-
-#EXTINF:-1,[ENG] BEIN HD13
-#EXTGRP:BEIN SPORT
-http://95.170.215.120/hls/m3u8/BeinSport13.m3u8|User-Agent=Lavf/56.15.102
-
-#EXTINF:-1,BEIN HD14
-#EXTGRP:BEIN SPORT
-http://95.170.215.120/hls/m3u8/BeinSport14.m3u8|User-Agent=Lavf/56.15.102
-
-#EXTINF:-1,[FRA] BEIN HD15
-#EXTGRP:BEIN SPORT
-http://95.170.215.120/hls/m3u8/BeinSport15.m3u8|User-Agent=Lavf/56.15.102
-
-#EXTINF:-1,[FRA] BEIN HD16
-#EXTGRP:BEIN SPORT
-http://95.170.215.120/hls/m3u8/BeinSport16.m3u8|User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-pyXe2z1Er3A/XE7VdxsachI/AAAAAAAAAGQ/PLwjKh2EIT8bzmqNXk9shmZk-bzTJDNUwCLcBGAs/s1600/SocialDarkNet%2B-%2BMunafik%2B1%2B%25282016%2529%2Bbluray%2BSubtitle%2BIndonesia.jpg" group-title="VOD MOVIES",  MUNAFIK
 http://cdn0-a.production.vidio.static6.com/uploads/1528383/ets-2-20traimuna-9bbb-b1600.mp4.m3u8
