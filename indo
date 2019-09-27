@@ -24,13 +24,13 @@ http://92.43.140.200/s82/04.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9qDnifYGxTUrje9Fi2c1Y612YEEuu2zophq_vP0XTbJinnvxX-qgg5eth" group-title="LALIGA & SERI A ITALIA",  Turkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LALIGA & SERI A ITALIA",  Футбол 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS64kty-_Dai8YQE-MJzk3uUMrd5NnvtFch6j8BeKcF40_jZxp4" group-title="LALIGA & SERI A ITALIA",  Football 1
 http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/222/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LALIGA & SERI A ITALIA",  Футбол 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS64kty-_Dai8YQE-MJzk3uUMrd5NnvtFch6j8BeKcF40_jZxp4" group-title="LALIGA & SERI A ITALIA",  Football 2
 http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/211/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LALIGA & SERI A ITALIA",  Футбол 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS64kty-_Dai8YQE-MJzk3uUMrd5NnvtFch6j8BeKcF40_jZxp4" group-title="LALIGA & SERI A ITALIA",  Football 3
 http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/206/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSommMxV4J78gymePCRM68xIlhti24Mwqp2QQqpeQAckfVO-dx0" group-title="EPL",  Armenia TV
 http://ott-cdn.ucom.am/s4/04.m3u8
