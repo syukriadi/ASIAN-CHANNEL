@@ -141,6 +141,9 @@ http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-logo="http://images.useeTV.com/logo_indosiar_big1.png" group-title="INDONESIA",  INDOSIAR
 http://202.80.222.130/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
+#EXTINF:-1 tvg-logo="http://images.useeTV.com/logo_indosiar_big1.png" group-title="INDONESIA",  INDOSIAR BOLA
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_116.jpg" group-title="INDONESIA",  NET TV
 http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
