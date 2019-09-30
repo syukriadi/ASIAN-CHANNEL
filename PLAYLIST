@@ -253,13 +253,13 @@ http://92.43.140.200/s82/04.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9qDnifYGxTUrje9Fi2c1Y612YEEuu2zophq_vP0XTbJinnvxX-qgg5eth" group-title="SPORT",  Turkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS64kty-_Dai8YQE-MJzk3uUMrd5NnvtFch6j8BeKcF40_jZxp4" group-title="SPORT",  MACTH Football 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS64kty-_Dai8YQE-MJzk3uUMrd5NnvtFch6j8BeKcF40_jZxp4" group-title="SPORT",  MATH Football 1
 http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/222/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS64kty-_Dai8YQE-MJzk3uUMrd5NnvtFch6j8BeKcF40_jZxp4" group-title="SPORT", MACTH Football 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS64kty-_Dai8YQE-MJzk3uUMrd5NnvtFch6j8BeKcF40_jZxp4" group-title="SPORT", MATH Football 2
 http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/211/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS64kty-_Dai8YQE-MJzk3uUMrd5NnvtFch6j8BeKcF40_jZxp4" group-title="SPORT", MACTH Football 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS64kty-_Dai8YQE-MJzk3uUMrd5NnvtFch6j8BeKcF40_jZxp4" group-title="SPORT", MATH Football 3
 http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/206/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_SPORT.svg/150px-RTSH_SPORT.svg.png" group-title="SPORT",  RTSH Sport
