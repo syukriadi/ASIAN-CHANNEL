@@ -226,13 +226,13 @@ http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://sport-TV-guide.live/images/stations/a1441.png" group-title="SPORT", QazSport
 http://109.248.236.41:4433/udp/238.1.1.116:1234
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Sportklubrshrsl.png"group-title="CHAMPION LEAGUE",sportklub1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Sportklubrshrsl.png"group-title="SPORT",sportklub1
 https://sportbar.biz/lba/123/g5/sportklub1rs.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Sportklubrshrsl.png"group-title="CHAMPION LEAGUE",sportklub2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Sportklubrshrsl.png"group-title="SPORT",sportklub2
 https://sportbar.biz/lba/123/g3/sk2serbia.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Sportklubrshrsl.png"group-title="CHAMPION LEAGUE",sportklub3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Sportklubrshrsl.png"group-title="SPORT",sportklub3
 https://sportbar.biz/lba/123/g8/rs3sk.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4u8HqijESS-AJ24n4YuIESmDPFxtRq3G3HOZe-SJ236zhY4A8" group-title="SPORT", SPORT TV 1
@@ -240,18 +240,6 @@ https://sportbar.biz/lba/123/g6/tv1pt.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4u8HqijESS-AJ24n4YuIESmDPFxtRq3G3HOZe-SJ236zhY4A8" group-title="SPORT", SPORT TV 2
 https://sportbar.biz/lba/123/g1/sport2port.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOZip0u3ynqZe7UaOSV_c2hqO1Bqy1fRVhq62uJ2MYRABbiJoR" group-title="SPORT", TRING SPORT 1
-http://163.172.26.137:8081/live/TRINGSPORT1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOZip0u3ynqZe7UaOSV_c2hqO1Bqy1fRVhq62uJ2MYRABbiJoR" group-title="SPORT", TRING SPORT 2
-http://163.172.26.137:8081/live/TRINGSPORT2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOZip0u3ynqZe7UaOSV_c2hqO1Bqy1fRVhq62uJ2MYRABbiJoR" group-title="SPORT", TRING SPORT 3
-http://163.172.26.137:8081/live/TRINGSPORT3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOZip0u3ynqZe7UaOSV_c2hqO1Bqy1fRVhq62uJ2MYRABbiJoR" group-title="SPORT", TRING SPORT 4
-http://163.172.26.137:8081/live/TRINGSPORT4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="SPORT",  Setanta Sports 1 (Opt-1)
 http://ott-cdn.ucom.am/s81/03.m3u8
