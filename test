@@ -75,6 +75,27 @@ http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/33272
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/espn_uk.jpg" group-title="UK: SKY SPORT HD", (ONLINE) BT ESPN HD
 http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/12135
 
+#EXTINF:-1 tvg-ID="BT Sport 1 UK" tvg-name="BT Sport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_uk.jpg" group-title="UK: SKY SPORT HD",BT Sport 1
+http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/12106
+
+#EXTINF:-1 tvg-ID="BT Sport 1 UK" tvg-name="BT Sport 1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_uk.jpg" group-title="UK: SKY SPORT HD",BT Sport 1 HD
+http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/12107
+
+#EXTINF:-1 tvg-ID="BT Sport 2 UK" tvg-name="BT Sport 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_uk.jpg" group-title="UK: SKY SPORT HD",BT Sport 2
+http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/12108
+
+#EXTINF:-1 tvg-ID="BT Sport 2 UK" tvg-name="BT Sport 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_uk.jpg" group-title="UK: SKY SPORT HD",BT Sport 2 HD
+http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/12109
+
+#EXTINF:-1 tvg-ID="BT Sport 3 UK" tvg-name="BT Sport 3" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_uk.jpg" group-title="UK: SKY SPORT HD",BT Sport 3
+http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/12110
+
+#EXTINF:-1 tvg-ID="BT Sport 3 UK" tvg-name="BT Sport 3HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_uk.jpg" group-title="UK: SKY SPORT HD",BT Sport 3HD
+http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/12111
+
+#EXTINF:-1 tvg-ID="BT Sport Extra 1 UK" tvg-name="BT Sport Xtra 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_uk.jpg" group-title="UK: SKY SPORT HD",BT Sport Xtra 1
+http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/12112
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="AR: Sports HD/4K", (DOUBTFUL) BEIN SPORTS 2 HD
 http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/13371
 
