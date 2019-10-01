@@ -150,9 +150,8 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b42
 #EXTINF:-1 tvg-logo="https://advancescreenings.com/img/outlets/c/california_music_channel.jpg" group-title="MUSIC", California Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTzUk4u0yourOXbc_Wsp_tk_L5daXP0TP7Sr0eqedd6rQ70yVeU" group-title="MUSIC", MTV ESPANA
-#EXTVLCOPT:program=29858
-http://viverode13.ddns.net:8001/1:0:1:74A2:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTzUk4u0yourOXbc_Wsp_tk_L5daXP0TP7Sr0eqedd6rQ70yVeU" group-title="MUSIC", MTV INDIA
+http://dittu-tv.tk/iptv/play-1.php?c=mtvbeats&tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRd7NzamUovln6WVUQ1lDytE1ThJBHVtX4ergTPJ5xFcPXRxzKS" group-title="MUSIC", MiX MUSIC
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
