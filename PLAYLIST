@@ -280,10 +280,6 @@ http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRXrXaELChm9iZ_mLGVN_Q73Pkdf9NXYxc2XX-1tuLxg96fuFVJ" group-title="ADULT 18+", French Lover TV (18+)
 http://91.204.234.3:8000/play/a001/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSfm8TTfUj9_nQZTPiT5RWCLmGAfDtema7jiUOAB9Tah9v0hfa2" group-title="ADULT 18+",PLAYBOY TV
-#EXTVLCOPT:program=30603
-http://viverode13.ddns.net:8001/1:0:1:778B:424:1:C00000:0:0:0:
-
 #EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/capture-1545700497.jpg" group-title="Video On Demand",  AQUAMAN
 http://cdn0-a.production.vidio.static6.com/uploads/1573867/ets-cahgalon-820a-b900.mp4.m3u8
 
