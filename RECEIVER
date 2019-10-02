@@ -1,178 +1,178 @@
 #EXTM3U
 
-#EXTINF:0,TVRI NASIONAL
+#EXTINF:-1,TVRI NASIONAL
 http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(03)/index.m3u8
-#EXTINF:0,TVRI 3 BUDAYA
+#EXTINF:-1,TVRI 3 BUDAYA
 http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-#EXTINF:0,TVRI Sport
+#EXTINF:-1,TVRI Sport
 http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:0,RCTI
+#EXTINF:-1,RCTI
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0,RCTI HD
+#EXTINF:-1,RCTI HD
 https://edge.okezone.com/live/rctioke.m3u8
-#EXTINF:0,MNC
+#EXTINF:-1,MNC
 http://202.80.222.171:80/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0,ANTV
+#EXTINF:-1,ANTV
 http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0,SCTV
+#EXTINF:-1,SCTV
 http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0,INDOSIAR
+#EXTINF:-1,INDOSIAR
 http://202.80.222.130/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0,INDOSIAR BOLA
+#EXTINF:-1,INDOSIAR BOLA
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
-#EXTINF:0,NET
+#EXTINF:-1,NET
 http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0,NET HD
+#EXTINF:-1,NET HD
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
-#EXTINF:0,GTV
+#EXTINF:-1,GTV
 http://202.80.222.130/000001/2/ch14041511505498448705/index.m3u8?_res_tag_=video&amp;virtualDomain=000001.live_hls.zte.com
-#EXTINF:0,TRANS 7
+#EXTINF:-1,TRANS 7
 http://202.80.222.130/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0, TV ONE
+#EXTINF:-1, TV ONE
 http://202.80.222.130/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0,TRANS TV
+#EXTINF:-1,TRANS TV
 http://202.80.222.130/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0,RTV
+#EXTINF:-1,RTV
 http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0,INEWS
+#EXTINF:-1,INEWS
 http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0,ASWAJA TV
+#EXTINF:-1,ASWAJA TV
 http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
-#EXTINF:0,JAK TV
+#EXTINF:-1,JAK TV
 http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0,KOMPAS TV
+#EXTINF:-1,KOMPAS TV
 http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0,METRO TV
+#EXTINF:-1,METRO TV
 http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?_res_tag_=video&amp;virtualDomain=000001.live_hls.zte.com
-#EXTINF:0,METRO TV HD
+#EXTINF:-1,METRO TV HD
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
-#EXTINF:0,JTV Surabaya
+#EXTINF:-1,JTV Surabaya
 http://202.80.222.175/000001/2/ch00000090990000001731/1001.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0,JGO
+#EXTINF:-1,JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-#EXTINF:0,CNN INDONESIA
+#EXTINF:-1,CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnnTV.smil/chunklist_w1705215623_b384000_sleng.m3u8
-#EXTINF:0,BERITA SATU
+#EXTINF:-1,BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
-#EXTINF:0,TV9
+#EXTINF:-1,TV9
 http://wowza60.indostreamserver.com:1935/TV9/live/playlist.m3u8
-#EXTINF:0,NADA MUSLIM
+#EXTINF:-1,NADA MUSLIM
 http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
-#EXTINF:0,Fiji TV
+#EXTINF:-1,Fiji TV
 https://api.new.livestream.com/accounts/19514369/events/fijiTVstream/live.m3u8
-#EXTINF:0,RTM 1
+#EXTINF:-1,RTM 1
 http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
-#EXTINF:0,RTM 2
+#EXTINF:-1,RTM 2
 http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
-#EXTINF:0,RTM Okey
+#EXTINF:-1,RTM Okey
 http://rtm1mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
-#EXTINF:0,RTM Sports
+#EXTINF:-1,RTM Sports
 http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
-#EXTINF:0,DISNEY JUNIOR
+#EXTINF:-1,DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:0,MIAO MI
+#EXTINF:-1,MIAO MI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
-#EXTINF:0,Cartoon Network
+#EXTINF:-1,Cartoon Network
 http://188.35.9.11:21151/udp/185f
-#EXTINF:0,SPACETOON
+#EXTINF:-1,SPACETOON
 http://95.170.215.109:80/hls/m3u8/Spacetoon-Backup.m3u8
-#EXTINF:0,NICKELODEON
+#EXTINF:-1,NICKELODEON
 http://95.170.215.118/hls/m3u8/Nickelodeon-JR.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:0,DANGDUT CHANNEL
+#EXTINF:-1,DANGDUT CHANNEL
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/chunklist_b2288000.m3u8
-#EXTINF:0,KARAOKE CHANNEL
+#EXTINF:-1,KARAOKE CHANNEL
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b420000.m3u8
-#EXTINF:0,California Music Channel
+#EXTINF:-1,California Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
-#EXTINF:0,MTV
+#EXTINF:-1,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?fluxustv.m3u8
-#EXTINF:0,MiX MUSIC
+#EXTINF:-1,MiX MUSIC
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
-#EXTINF:0,MUSIC TOP
+#EXTINF:-1,MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
-#EXTINF:0,Celestial Clasic Movie
+#EXTINF:-1,Celestial Clasic Movie
 http://iliketot.dyndns.TV/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1Nzo0OCBBTSZoYXNoX3ZhbHVlPVAwSk5CRlBPTGwvRXJDRFMrTFZBS0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMnx1cGxheXwxNTI4MjUzODY4fDIwMi4yOC40MS4xNDQ=
-#EXTINF:0,FOX CRIME HD TH
+#EXTINF:-1,FOX CRIME HD TH
 http://iliketot.dyndns.TV/5028f7ff1d1b4d5f8189690233364737.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-#EXTINF:0,FOX HD TH
+#EXTINF:-1,FOX HD TH
 http://iliketot.dyndns.TV/63cbfb466fe644dda11a8e109611a5cd.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-#EXTINF:0,FOX LIFE HD ID
+#EXTINF:-1,FOX LIFE HD ID
 http://iliketot.dyndns.TV/65f7358b813048a0898f5677e1793cf9.m3u8
-#EXTINF:0,Fox Movies Action HD TH
+#EXTINF:-1,Fox Movies Action HD TH
 http://iliketot.dyndns.TV/206105b34a1c44b886c6cd3c59105803.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
-#EXTINF:0,2 HD
+#EXTINF:-1,2 HD
 http://livecdnh3.TVanywhere.ae/hls/mbc2/index.m3u8?sd=10&amp;rebase=on
-#EXTINF:0,4 HD
+#EXTINF:-1,4 HD
 http://livecdnh3.TVanywhere.ae/hls/mbc4/index.m3u8?sd=10&amp;rebase=on
-#EXTINF:0,MOVIES 3
+#EXTINF:-1,MOVIES 3
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:0,MOVIES 6
+#EXTINF:-1,MOVIES 6
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:0,MOVIES 8
+#EXTINF:-1,MOVIES 8
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:0,MOVIES 9
+#EXTINF:-1,MOVIES 9
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:0,MOVIES 11
+#EXTINF:-1,MOVIES 11
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:0,RAI MOVIE HD
+#EXTINF:-1,RAI MOVIE HD
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:0,STAR CHINESE
+#EXTINF:-1,STAR CHINESE
 http://iliketot.dyndns.TV:80/29a09591a6604ff3b798cd7ef809e4bd.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
-#EXTINF:0,STAR CHINESE LEGEND
+#EXTINF:-1,STAR CHINESE LEGEND
 http://iliketot.dyndns.TV:80/c8233976dbba4a06a101780907447375.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1NzowOSBBTSZoYXNoX3ZhbHVlPXdtOTREeDJORTFpZDRYbjBnRHZrT0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMXx1cGxheXwxNTI4MjUzODI5fDIwMi4yOC40MS4xNDQ=
-#EXTINF:0,STAR MOVIES HD
+#EXTINF:-1,STAR MOVIES HD
 http://livecdnh1.TVanywhere.ae:80/hls/star_movies/05.m3u8
-#EXTINF:0,STAR WORLD
+#EXTINF:-1,STAR WORLD
 http://livecdnh1.TVanywhere.ae/hls/star_world/05.m3u8?IWAK-PEYEK.m3u8
-#EXTINF:0,MNC SPORT
+#EXTINF:-1,MNC SPORT
 https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0,Armenia TV
+#EXTINF:-1,Armenia TV
 http://ott-cdn.ucom.am/s4/04.m3u8
-#EXTINF:0,FightBox
+#EXTINF:-1,FightBox
 http://ott-cdn.ucom.am/s86/index.m3u8?fluxusTV.m3u8
-#EXTINF:0,Dubai Sports
+#EXTINF:-1,Dubai Sports
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
-#EXTINF:0,QazSport
+#EXTINF:-1,QazSport
 http://109.248.236.41:4433/udp/238.1.1.116:1234
-#EXTINF:0,Sportklub 1  FOOTBALL
+#EXTINF:-1,Sportklub 1  FOOTBALL
 https://sportbar.biz/lba/123/g5/sportklub1rs.m3u8
-#EXTINF:0,Sportklub 2 FOOTBALL
+#EXTINF:-1,Sportklub 2 FOOTBALL
 https://sportbar.biz/lba/123/g3/sk2serbia.m3u8
-#EXTINF:0,Sportklub 3 FOOTBALL
+#EXTINF:-1,Sportklub 3 FOOTBALL
 https://sportbar.biz/lba/123/g8/rs3sk.m3u8
-#EXTINF:0,SPORT TV 1 PORTUGAL
+#EXTINF:-1,SPORT TV 1 PORTUGAL
 https://sportbar.biz/lba/123/g6/tv1pt.m3u8
-#EXTINF:0,SPORT TV 2 ENGLAND PRIMER LEAGUE
+#EXTINF:-1,SPORT TV 2 ENGLAND PRIMER LEAGUE
 https://sportbar.biz/lba/123/g1/sport2port.m3u8
-#EXTINF:0,Setanta Sports 1 LALIGA &  SERI A
+#EXTINF:-1,Setanta Sports 1 LALIGA &  SERI A
 http://ott-cdn.ucom.am/s81/03.m3u8
-#EXTINF:0,Setanta Sports 1 LALIGA & SERI A
+#EXTINF:-1,Setanta Sports 1 LALIGA & SERI A
 http://92.43.140.204:80/s81/index.m3u8
-#EXTINF:0,Setanta Sports 2 LALIGA & SERI A
+#EXTINF:-1,Setanta Sports 2 LALIGA & SERI A
 http://92.43.140.200/s82/04.m3u8
-#EXTINF:0,Turkmenistan Sport LALIGA & SERI A
+#EXTINF:-1,Turkmenistan Sport LALIGA & SERI A
 http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:0,BT sport 1 
+#EXTINF:-1,BT sport 1 
 https://sportbar.biz/lba/123/g2/btuk1.m3u8
-#EXTINF:0,BT sport 2
+#EXTINF:-1,BT sport 2
 https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8
-#EXTINF:0,MATCH Football 1
+#EXTINF:-1,MATCH Football 1
 http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/222/index.m3u8
-#EXTINF:0,MATCH Football 2
+#EXTINF:-1,MATCH Football 2
 http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/211/index.m3u8
-#EXTINF:0,MATCH Football 3
+#EXTINF:-1,MATCH Football 3
 http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/206/index.m3u8
-#EXTINF:0,RTSH Sport MOTO GP
+#EXTINF:-1,RTSH Sport MOTO GP
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
-#EXTINF:0,ZIGGO SPORTS
+#EXTINF:-1,ZIGGO SPORTS
 http://95.170.215.118/hls/m3u8/ZIGGO-voetbal.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:0,BIKINI NETWORK 18+
+#EXTINF:-1,BIKINI NETWORK 18+
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
-#EXTINF:0,BRAZZERS 18+
+#EXTINF:-1,BRAZZERS 18+
 http://194.204.46.137/live/eds/Brazzers/HLS_encr/Brazzers.m3u8
-#EXTINF:0,JASMIN.TV 18+
+#EXTINF:-1,JASMIN.TV 18+
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:0,French Lover TV 18+
+#EXTINF:-1,French Lover TV 18+
 http://91.204.234.3:8000/play/a001/index.m3u8
 #EXTINF:-1,HOT TEEN
 http://live.redtraffic.xyz/teen.m3u8
@@ -190,25 +190,25 @@ http://live.redtraffic.xyz/bigtits.m3u8
 http://live.redtraffic.xyz/bigdick.m3u8
 #EXTINF:-1,HOT BLOWJOB
 http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:0,AQUAMAN
+#EXTINF:-1,AQUAMAN
 http://cdn0-a.production.vidio.static6.com/uploads/1573867/ets-cahgalon-820a-b900.mp4.m3u8
-#EXTINF:0,AVANGER: Endgame 2019
+#EXTINF:-1,AVANGER: Endgame 2019
 https://www.googleapis.com/drive/v3/files/18_FetnajYa5qNM2eRkqlVFGbZRtEjBfb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:0,VENOM
+#EXTINF:-1,VENOM
 http://cdn0-a.production.vidio.static6.com/uploads/1528359/ets-sehnom-2877-b900.mp4.m3u8
-#EXTINF:0,BUMBLEE
+#EXTINF:-1,BUMBLEE
 http://cdn0-a.production.vidio.static6.com/uploads/1567393/ets-bumb33-6048-b900.mp4.m3u8
-#EXTINF:0,THE NIGHT COMES FOR US
+#EXTINF:-1,THE NIGHT COMES FOR US
 http://cdn0-a.production.vidio.static6.com/uploads/1528364/ets-nightcome-68ae-b1600.mp4.m3u8
-#EXTINF:0,MORTAL ENGINES
+#EXTINF:-1,MORTAL ENGINES
 http://cdn0-a.production.vidio.static6.com/uploads/1571909/ets-1-20kangmor-a7e4-b900.mp400004.ts
-#EXTINF:0,MUNAFIK
+#EXTINF:-1,MUNAFIK
 http://cdn0-a.production.vidio.static6.com/uploads/1528383/ets-2-20traimuna-9bbb-b1600.mp4.m3u8
-#EXTINF:0,The Wind Guardians 2018
+#EXTINF:-1,The Wind Guardians 2018
 https://www.s09.saveoffline.com/get/?i=zwcoX3lK7Hui5izMRhFwUhD6ODbbRHsn&u=LWHrv9uLoImZ0pF4pwPOV5UxU2OrBskV
-#EXTINF:0,Insidious: The Last Key 2018
+#EXTINF:-1,Insidious: The Last Key 2018
 https://www.googleapis.com/drive/v3/files/1px8eLVDzVtnDz5C3ptZcaPt2AfBRw7lp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:0,Jumanji: Welcome to the Jungle 2017
+#EXTINF:-1,Jumanji: Welcome to the Jungle 2017
 https://www.googleapis.com/drive/v3/files/1ycWd64JYv_P93jprbTZAJj4twRWJ9WiO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:0,Tomb Raider 2018
+#EXTINF:-1,Tomb Raider 2018
 https://www.googleapis.com/drive/v3/files/1Blv4t2kZFYP2R1qNnL-I7ISEbcGlvo0U?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
