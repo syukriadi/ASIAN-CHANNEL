@@ -152,15 +152,15 @@ http://92.43.140.204:80/s81/index.m3u8
 http://92.43.140.200/s82/04.m3u8
 #EXTINF:0,Turkmenistan Sport LALIGA & SERI A
 http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:0, BT sport 1 
+#EXTINF:0,BT sport 1 
 https://sportbar.biz/lba/123/g2/btuk1.m3u8
-#EXTINF:0, BT sport 2
+#EXTINF:0,BT sport 2
 https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8
 #EXTINF:0,MATCH Football 1
 http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/222/index.m3u8
-#EXTINF:0,MATH Football 2
+#EXTINF:0,MATCH Football 2
 http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/211/index.m3u8
-#EXTINF:0,MATH Football 3
+#EXTINF:0,MATCH Football 3
 http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/206/index.m3u8
 #EXTINF:0,RTSH Sport MOTO GP
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
