@@ -1,155 +1,152 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="AR: Sports HD/4K",  BEIN SPORTS 1 HD
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/9480
+#EXTINF:-1,BEIN SPORTS 1 HD
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/9480.ts
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="AR: Sports HD/4K",  BEIN SPORTS 2 HD
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/13371
+#EXTINF:-1,BEIN SPORTS 2 HD
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/13371.ts
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="AR: Sports HD/4K",  BEIN SPORTS 3 HD
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/9484
+#EXTINF:-1,BEIN SPORTS 3 HD
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/9484.ts
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="AR: Sports HD/4K",  BEIN SPORTS 4 HD
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/9486
+#EXTINF:-1,BEIN SPORTS 4 HD
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/9486.ts
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="AR: Sports HD/4K",  BEIN SPORTS 5 HD
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/9488
+#EXTINF:-1,BEIN SPORTS 5 HD
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/9488.ts
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="AR: Sports HD/4K", BEIN SPORTS 6 HD
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/9490
+#EXTINF:-1,BEIN SPORTS 6 HD
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/9490.ts
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="AR: Sports HD/4K",  BEIN SPORTS 7 HD
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/9492
+#EXTINF:-1,BEIN SPORTS 7 HD
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/9492.ts
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="AR: Sports HD/4K",  BEIN SPORTS 8 HD
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/9494
+#EXTINF:-1,BEIN SPORTS 8 HD
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/9494.ts
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="AR: Sports HD/4K",  BEIN SPORTS 9 HD
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/9496
+#EXTINF:-1,BEIN SPORTS 9 HD
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/9496.ts
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="AR: Sports HD/4K",  BEIN SPORTS 10 HD
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/9497
+#EXTINF:-1,BEIN SPORTS 10 HD
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/9497.ts
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="AR: Sports HD/4K", BEIN SPORTS 11 HD
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/9498
+#EXTINF:-1,BEIN SPORTS 11 HD
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/9498.ts
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="AR: Sports HD/4K",  BEIN SPORTS 12 HD
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/9499
+#EXTINF:-1,BEIN SPORTS 12 HD
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/9499.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="Ten 1 Sport" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ten_sports_in.jpg" group-title="IND: INDIA HD",Ten 1 Sport
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/83451
+#EXTINF:-1,Ten 1
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/83451.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="Ten 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ten_sports_in.jpg" group-title="IND: INDIA HD",Ten 2 HD
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/83450
+#EXTINF:-1,Ten 2
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/83450.ts
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/espn_uk.jpg" group-title="UK: SKY SPORT HD", BT ESPN HD
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/12135
+#EXTINF:-1,BT Sport 1
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/12106.ts
 
-#EXTINF:-1 tvg-ID="BT Sport 1 UK" tvg-name="BT Sport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_uk.jpg" group-title="UK: SKY SPORT HD",BT Sport 1
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/12106
+#EXTINF:-1,BT Sport 1 HD
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/12107.ts
 
-#EXTINF:-1 tvg-ID="BT Sport 1 UK" tvg-name="BT Sport 1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_uk.jpg" group-title="UK: SKY SPORT HD",BT Sport 1 HD
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/12107
+#EXTINF:-1,BT Sport 2
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/12108.ts
 
-#EXTINF:-1 tvg-ID="BT Sport 2 UK" tvg-name="BT Sport 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_uk.jpg" group-title="UK: SKY SPORT HD",BT Sport 2
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/12108
+#EXTINF:-1,BT Sport 2 HD
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/12109.ts
 
-#EXTINF:-1 tvg-ID="BT Sport 2 UK" tvg-name="BT Sport 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_uk.jpg" group-title="UK: SKY SPORT HD",BT Sport 2 HD
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/12109
+#EXTINF:-1,BT Sport 3
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/12110.ts
 
-#EXTINF:-1 tvg-ID="BT Sport 3 UK" tvg-name="BT Sport 3" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_uk.jpg" group-title="UK: SKY SPORT HD",BT Sport 3
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/12110
+#EXTINF:-1,BT Sport 3 HD
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/12111.ts
 
-#EXTINF:-1 tvg-ID="BT Sport 3 UK" tvg-name="BT Sport 3HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_uk.jpg" group-title="UK: SKY SPORT HD",BT Sport 3HD
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/12111
-
-#EXTINF:-1 tvg-ID="BT Sport Extra 1 UK" tvg-name="BT Sport Xtra 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_uk.jpg" group-title="UK: SKY SPORT HD",BT Sport Xtra 1
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/12112
+#EXTINF:-1,BT Sport Xtra 1
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/12112.ts
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Sport 1" tvg-logo="https://d1qb2nb5cznatu.cloudfront.net/startups/i/3230467-2a5b6611a384317b0b317fc37492acaf-medium_jpg.jpg" group-title="IT: SKY SPORTS HD",Dazn Sport 1
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/33276
+#EXTINF:-1,Dazn Sport 1
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/33276.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Sport 2" tvg-logo="https://d1qb2nb5cznatu.cloudfront.net/startups/i/3230467-2a5b6611a384317b0b317fc37492acaf-medium_jpg.jpg" group-title="IT: SKY SPORTS HD",Dazn Sport 2
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/33277
+#EXTINF:-1,Dazn Sport 2
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/33277.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Sport 3" tvg-logo="https://d1qb2nb5cznatu.cloudfront.net/startups/i/3230467-2a5b6611a384317b0b317fc37492acaf-medium_jpg.jpg" group-title="IT: SKY SPORTS HD",Dazn Sport 3
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/33278
+#EXTINF:-1,Dazn Sport 3
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/33278.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Sport 4" tvg-logo="https://d1qb2nb5cznatu.cloudfront.net/startups/i/3230467-2a5b6611a384317b0b317fc37492acaf-medium_jpg.jpg" group-title="IT: SKY SPORTS HD",Dazn Sport 4
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/33279
+#EXTINF:-1,Dazn Sport 4
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/33279.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Sport 5" tvg-logo="https://d1qb2nb5cznatu.cloudfront.net/startups/i/3230467-2a5b6611a384317b0b317fc37492acaf-medium_jpg.jpg" group-title="IT: SKY SPORTS HD",Dazn Sport 5
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/33280
+#EXTINF:-1,Dazn Sport 5
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/33280.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Sport 6" tvg-logo="https://d1qb2nb5cznatu.cloudfront.net/startups/i/3230467-2a5b6611a384317b0b317fc37492acaf-medium_jpg.jpg" group-title="IT: SKY SPORTS HD",Dazn Sport 6
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/33281
+#EXTINF:-1,Dazn Sport 6
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/33281.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Sport 7" tvg-logo="https://d1qb2nb5cznatu.cloudfront.net/startups/i/3230467-2a5b6611a384317b0b317fc37492acaf-medium_jpg.jpg" group-title="IT: SKY SPORTS HD",Dazn Sport 7
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/33282
+#EXTINF:-1,Dazn Sport 7
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/33282.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Sport 8" tvg-logo="https://d1qb2nb5cznatu.cloudfront.net/startups/i/3230467-2a5b6611a384317b0b317fc37492acaf-medium_jpg.jpg" group-title="IT: SKY SPORTS HD",Dazn Sport 8
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/33283
+#EXTINF:-1,Dazn Sport 8
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/33283.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Sport 9" tvg-logo="https://d1qb2nb5cznatu.cloudfront.net/startups/i/3230467-2a5b6611a384317b0b317fc37492acaf-medium_jpg.jpg" group-title="IT: SKY SPORTS HD",Dazn Sport 9
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/33284
+#EXTINF:-1,Dazn Sport 9
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/33284.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Sport 10" tvg-logo="https://d1qb2nb5cznatu.cloudfront.net/startups/i/3230467-2a5b6611a384317b0b317fc37492acaf-medium_jpg.jpg" group-title="IT: SKY SPORTS HD",Dazn Sport 10
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/33314
+#EXTINF:-1,Dazn Sport 10
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/33314.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Sport 11" tvg-logo="https://d1qb2nb5cznatu.cloudfront.net/startups/i/3230467-2a5b6611a384317b0b317fc37492acaf-medium_jpg.jpg" group-title="IT: SKY SPORTS HD",Dazn Sport 11
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/57579
+#EXTINF:-1,Dazn Sport 11
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/57579.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Sport 12" tvg-logo="https://d1qb2nb5cznatu.cloudfront.net/startups/i/3230467-2a5b6611a384317b0b317fc37492acaf-medium_jpg.jpg" group-title="IT: SKY SPORTS HD",Dazn Sport 12
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/57578
+#EXTINF:-1,Dazn Sport 12
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/57578.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Sport 13" tvg-logo="https://d1qb2nb5cznatu.cloudfront.net/startups/i/3230467-2a5b6611a384317b0b317fc37492acaf-medium_jpg.jpg" group-title="IT: SKY SPORTS HD",Dazn Sport 13
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/57577
+#EXTINF:-1,Dazn Sport 13
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/57577.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Sport 14" tvg-logo="https://d1qb2nb5cznatu.cloudfront.net/startups/i/3230467-2a5b6611a384317b0b317fc37492acaf-medium_jpg.jpg" group-title="IT: SKY SPORTS HD",Dazn Sport 14
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/57576
-
-
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/arenasport1_hr.jpg" group-title="YU: EX-YU HD",  Arena Sport 1 HD (RS)
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/55103
+#EXTINF:-1,Dazn Sport 14
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/57576.ts
 
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/arenasport2_rs.jpg" group-title="YU: EX-YU HD",  Arena Sport 2 HD (RS)
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/55101
+#EXTINF:-1,Arena Sport 1 HD (RS)
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/55103.ts
 
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/arenasport2_rs.jpg" group-title="YU: EX-YU HD",  Arena Sport 3 HD (RS)
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/55099
+#EXTINF:-1,Arena Sport 2 HD (RS)
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/55101.ts
 
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/arenasport4_rs.jpg" group-title="YU: EX-YU HD",  Arena Sport 4 HD (RS)
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/55097
+#EXTINF:-1,Arena Sport 3 HD (RS)
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/55099.ts
 
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/arenasport_ba.jpg" group-title="YU: EX-YU HD",  Arena Sport 5 HD  (RS)
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/55096
+#EXTINF:-1,Arena Sport 4 HD (RS)
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/55097.ts
 
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_klub_rs_1.jpg" group-title="YU: EX-YU HD",  Sport Klub 1 HD  (RS)
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/55095
+#EXTINF:-1,Arena Sport 5 HD  (RS)
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/55096.ts
 
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_klub_rs_1.jpg" group-title="YU: EX-YU HD",  Sport Klub 2 HD  (RS)
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/55094
+#EXTINF:-1,Sport Klub 1 HD  (RS)
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/55095.ts
 
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_klub_rs_1.jpg" group-title="YU: EX-YU HD",  Sport Klub 3 HD  (RS)
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/55093
+#EXTINF:-1,Sport Klub 2 HD  (RS)
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/55094.ts
 
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_klub_rs_1.jpg" group-title="YU: EX-YU HD",  Sport Klub 4 HD  (RS)
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/55092
+#EXTINF:-1,Sport Klub 3 HD  (RS)
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/55093.ts
 
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_klub_rs_1.jpg" group-title="YU: EX-YU HD",  Sport Klub 5 HD  (RS)
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/55091
+#EXTINF:-1,Sport Klub 4 HD  (RS)
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/55092.ts
 
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_klub_rs_1.jpg" group-title="YU: EX-YU HD",  Sport Klub 6 HD  (RS)
-http://predator-ott.com:8000/BVS1KSCbqG/9FXIYAS0KN/55090
+#EXTINF:-1,Sport Klub 5 HD  (RS)
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/55091.ts
+
+
+#EXTINF:-1,Sport Klub 6 HD  (RS)
+http://predator-ott.com:8000/live/BVS1KSCbqG/9FXIYAS0KN/55090.ts
 
