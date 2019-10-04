@@ -13,7 +13,7 @@ http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/WBgq8IhhBThy1W29gfXb_rec_small.png" group-title="INDONESIA",  RCTI
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+http://id8.indostreamingtv.com/live/tv66/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/WBgq8IhhBThy1W29gfXb_rec_small.png" group-title="INDONESIA",  RCTI SD
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -26,6 +26,9 @@ https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="INDONESIA",  MNC TV 2
 http://202.80.222.171:80/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="INDONESIA",  MNC TV HD
+http://id2.indostreamingtv.com/live/event/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQa8v6NJSQhuCiO8R9yNw6zg3aNc6g0LvlCsz5eLLsrQAynap8L" group-title="INDONESIA",  ANTV
 http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -52,7 +55,7 @@ https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 http://202.80.222.130/000001/2/ch14041511505498448705/index.m3u8?_res_tag_=video&amp;virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="INDONESIA",  GTV HD
-http://id6.indostreamingTV.com/live/TV1/index.m3u8
+http://id6.indostreamingtv.com/live/TV1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useeTV.com/assets/images/channel/logo_trans7_big1.png?v=2.0.0.13" group-title="INDONESIA",  TRANS7
 http://202.80.222.130/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
