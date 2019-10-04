@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s.kaskus.id/r540x540/images/2019/03/30/10553380_201903301032400816.png" group-title="INDONESIA",  TVRI
-http://TVristream-i.akamaihd.net/hls/live/761941/akamai-TVri/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzDRP4MsEW323ivxTyJU4kJBybAQ2ho78qDciWVit9i2U4tm_C" group-title="OFFICIAL IPTV", INTRO
+https://video-sin6-2.xx.fbcdn.net/v/t42.9040-2/72588656_695632820936770_7362128859413610496_n.mp4?_nc_cat=103&efg=eyJybHIiOjMwMCwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIn0%3D&_nc_eui2=AeH-gAFHN1iioZU9o6CisTlpGq5fqxGSySLsfHJzZ_OHz5tvcdkVapyafwqtG4_Qv_h6j2WSx4Ryopb_vEblp9NAqJE5P3EA_rAsNGY_B3ir-g&_nc_oc=AQkCMonXpgyAE-wQDJNIQQJNdzOjv3abdryPHl4MqvtWzm38Rn9KY5oBcJ9T5hi8ahI&_nc_ht=video-sin6-2.xx&oh=0a67e4d485455740d1602cc380eb6b57&oe=5D97BB3E
 
 #EXTINF:-1 tvg-logo="http://staging.TVri.go.id/assets/img_gallery/TVrinasional.jpg" group-title="INDONESIA",  TVRI NASIONAL
 http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(03)/index.m3u8
@@ -225,6 +225,21 @@ http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://sport-TV-guide.live/images/stations/a1441.png" group-title="SPORT", QazSport
 http://109.248.236.41:4433/udp/238.1.1.116:1234
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"group-title="SPORT",Bein Sport 1
+https://proxy.cagriari.com/pass/BeinSport1.m3u8?insecure
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"group-title="SPORT",Bein Sport 2
+https://proxy.cagriari.com/pass/BeinSport2.m3u8?insecure
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png"group-title="SPORT",BT sport 1 
+https://sportbar.biz/lba/123/g2/btuk1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png"group-title="SPORT",BT sport 2
+https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png"group-title="SPORT",BT Sport 3
+https://sportbar.biz/lba/N2FlNTI1MDFjMDdiZjA0OWU0M2IwMWRkMTZiN2MzOGM=/g6/3btsporteu.m3u8?token=N2FlNTI1MDFjMDdiZjA0OWU0M2IwMWRkMTZiN2MzOGM=&id=OTk1ZDAzM2UwMWVkZDI1NWMwZTVjNDA2NjA3NmRmMDY=&vip=1567812782&dip=YjQyM2IzZjBlODZiNmUzOTA4NWNjZDFmNjEwZWFkODU=&pip=61.94.225.144&hip=OTY3YmFiOTJhNWI0ODYxMzNmYzRiOGU0NTg1YWViOTQ=
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Sportklubrshrsl.png"group-title="SPORT",sportklub1
 https://sportbar.biz/lba/123/g5/sportklub1rs.m3u8
 
@@ -278,6 +293,9 @@ http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRXrXaELChm9iZ_mLGVN_Q73Pkdf9NXYxc2XX-1tuLxg96fuFVJ" group-title="ADULT 18+", French Lover TV (18+)
 http://91.204.234.3:8000/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSo3PRgubJLrZ9wpousn60zZjxJYpuh6a-AiZBY9t3P5XDAj-5I" group-title="Video On Demand",Dilan 1990
+https://video-sin2-2.xx.fbcdn.net/v/t42.9040-2/10000000_1843011309323436_1169660246289809408_n.mp4?_nc_cat=109&efg=eyJybHIiOjMwMCwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&_nc_eui2=AeFl-rqddmfENL_hGyRsP7px3miYImybf8aq1BjVSjnC0IxLQitxG8_SJRb1rM1QxxjTHZsPTbw5-0vigaDwMVamRa0UEahvTNRW4UdzYglHtQ&_nc_oc=AQmMnyh9617HCsjHNypVQ3Q2s2o75QGpL8meD24qFcIvE8An1AuZBd8InWk4zW8G9ro&_nc_ht=video-sin2-2.xx&oh=28bcd85dea99e587401b61c9f1552b4e&oe=5D97BD7E
 
 #EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/capture-1545700497.jpg" group-title="Video On Demand",  AQUAMAN
 http://cdn0-a.production.vidio.static6.com/uploads/1573867/ets-cahgalon-820a-b900.mp4.m3u8
