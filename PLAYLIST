@@ -318,8 +318,11 @@ https://video.fpku3-1.fna.fbcdn.net:443/v/t42.9040-2/10000000_1925432851091711_4
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/resized/670x335/p/headline/fenomena-lagu-lingsir-wengi-diangkat-ja-fef6ad.jpg" group-title="Video On Demand", NYANYIAN LINGSIR
 https://video.fpku3-1.fna.fbcdn.net:443/v/t42.1790-2/10000000_425030095016856_2840534319800254464_n.mp4?_nc_cat=101&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfdjRfMjU2X2NyZl8yM19tYWluXzMuMF9mcmFnXzJfdmlkZW8ifQ%3D%3D&_nc_eui2=AeEci-TQYqXuq66Xl-U1njuKnnNfgiQTqp8JRE2A0t9ha7i_Lac5Fjj7CyeqgErOJnzGTVxPz3B9esSiEo6XF7PG&_nc_oc=AQlTAwVlppwbCL6BiNAZ_Mdig-jncTbrCK65fL-aD1QXDPciK9b31vk_Yp0kWCPTVCs&_nc_ht=video.fpku3-1.fna&oh=aca78cf3d7b51cc595db1d22f93c13f4&oe=5D99474F
 
-#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/capture-1545700497.jpg" group-title="Video On Demand",  AQUAMAN
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-582RAfTc1hg/XBcsgHYEPwI/AAAAAAAACVk/8D7EImRPLZo98aeaNIZgftvh4ZYpUmo1gCLcBGAs/s1600/aquaman.jpeg" group-title="Video On Demand",  AQUAMAN
 http://cdn0-a.production.vidio.static6.com/uploads/1573867/ets-cahgalon-820a-b900.mp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9RUJ7mHLd2DpuZ2KiRehUwI8EPv3q_uAOS3TjUMYsKfk5y4x8" group-title="Video On Demand",  AVANGER: Endgame 2019
+https://www.googleapis.com/drive/v3/files/18_FetnajYa5qNM2eRkqlVFGbZRtEjBfb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/capture-1545700497.jpg" group-title="Video On Demand",  VENOM
 http://cdn0-a.production.vidio.static6.com/uploads/1528359/ets-sehnom-2877-b900.mp4.m3u8
