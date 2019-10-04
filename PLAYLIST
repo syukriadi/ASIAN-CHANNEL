@@ -57,11 +57,17 @@ http://id6.indostreamingTV.com/live/TV1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useeTV.com/assets/images/channel/logo_trans7_big1.png?v=2.0.0.13" group-title="INDONESIA",  TRANS7
 http://202.80.222.130/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
+#EXTINF:-1 tvg-logo="https://www.useeTV.com/assets/images/channel/logo_trans7_big1.png?v=2.0.0.13" group-title="INDONESIA", TRANS 7 HD
+http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR70iOpbOYYq6M1DamzrIWwgf7bnVkX0Ql54w-ESmPe_hfxesLl" group-title="INDONESIA",  TV ONE
 http://202.80.222.130/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://www.useeTV.com/assets/images/channel/logo_transTV_big1.png?v=2.0.0.13" group-title="INDONESIA",  TRANS TV
 http://202.80.222.130/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://www.useeTV.com/assets/images/channel/logo_transTV_big1.png?v=2.0.0.13" group-title="INDONESIA",  TRANS TV HD
+http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_114.png" group-title="INDONESIA",  RAJAWALI TV
 http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -224,6 +230,12 @@ http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://sport-TV-guide.live/images/stations/a1441.png" group-title="SPORT", QazSport
 http://109.248.236.41:4433/udp/238.1.1.116:1234
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQvGPtSjPNCnfWVr2Xqt9iLUXNN01uNw3dYVscboj7D8dEFqgyk" group-title="SPORT",TEN 
+http://163.172.85.133:8080/TenS/1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQvGPtSjPNCnfWVr2Xqt9iLUXNN01uNw3dYVscboj7D8dEFqgyk" group-title="SPORT", TEN SPORT
+http://163.172.85.133:8080/TenS/sports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"group-title="SPORT",Bein Sport 1
 https://proxy.cagriari.com/pass/BeinSport1.m3u8?insecure
