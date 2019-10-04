@@ -312,6 +312,12 @@ http://91.204.234.3:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSo3PRgubJLrZ9wpousn60zZjxJYpuh6a-AiZBY9t3P5XDAj-5I" group-title="Video On Demand",Dilan 1990
 https://video-sin2-2.xx.fbcdn.net/v/t42.9040-2/10000000_1843011309323436_1169660246289809408_n.mp4?_nc_cat=109&efg=eyJybHIiOjMwMCwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&_nc_eui2=AeFl-rqddmfENL_hGyRsP7px3miYImybf8aq1BjVSjnC0IxLQitxG8_SJRb1rM1QxxjTHZsPTbw5-0vigaDwMVamRa0UEahvTNRW4UdzYglHtQ&_nc_oc=AQmMnyh9617HCsjHNypVQ3Q2s2o75QGpL8meD24qFcIvE8An1AuZBd8InWk4zW8G9ro&_nc_ht=video-sin2-2.xx&oh=28bcd85dea99e587401b61c9f1552b4e&oe=5D97BD7E
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQyfdI4gqE9Bs-f0x6GyRnVv-T91ekkP2D7nboReNJms0rpijh_" group-title="Video On Demand", WIRO SABLENG
+https://video.fpku3-1.fna.fbcdn.net:443/v/t42.9040-2/10000000_1925432851091711_4287682554724614144_n.mp4?_nc_cat=111&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfdjRfcGFzc3Rocm91Z2hfZnJhZ18yX3ZpZGVvIn0%3D&_nc_eui2=AeGEaDKhgnfB-AzNXqOgkYy5ChqmXjs3O4kXV2Yu7Jv-_CmR1fgzhSfV1P8SF0gsBoTjivjdMzwmSoYYH0e1ZLGC&_nc_oc=AQkWPvP1JIi-nFHGNp4nDKSStMRwMy1hh5CK9ib6npdWpmnh20_K843BrtF6lIhtAgQ&_nc_ht=video.fpku3-1.fna&oh=bfbb88994e5ec621cf89cbd5629bac56&oe=5D9A7BFF
+
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/resized/670x335/p/headline/fenomena-lagu-lingsir-wengi-diangkat-ja-fef6ad.jpg" group-title="Video On Demand", NYANYIAN LINGSIR
+https://video.fpku3-1.fna.fbcdn.net:443/v/t42.1790-2/10000000_425030095016856_2840534319800254464_n.mp4?_nc_cat=101&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfdjRfMjU2X2NyZl8yM19tYWluXzMuMF9mcmFnXzJfdmlkZW8ifQ%3D%3D&_nc_eui2=AeEci-TQYqXuq66Xl-U1njuKnnNfgiQTqp8JRE2A0t9ha7i_Lac5Fjj7CyeqgErOJnzGTVxPz3B9esSiEo6XF7PG&_nc_oc=AQlTAwVlppwbCL6BiNAZ_Mdig-jncTbrCK65fL-aD1QXDPciK9b31vk_Yp0kWCPTVCs&_nc_ht=video.fpku3-1.fna&oh=aca78cf3d7b51cc595db1d22f93c13f4&oe=5D99474F
+
 #EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/capture-1545700497.jpg" group-title="Video On Demand",  AQUAMAN
 http://cdn0-a.production.vidio.static6.com/uploads/1573867/ets-cahgalon-820a-b900.mp4.m3u8
 
