@@ -55,7 +55,7 @@ https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 http://202.80.222.130/000001/2/ch14041511505498448705/index.m3u8?_res_tag_=video&amp;virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="INDONESIA",  GTV HD
-http://id6.indostreamingtv.com/live/TV1/index.m3u8
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useeTV.com/assets/images/channel/logo_trans7_big1.png?v=2.0.0.13" group-title="INDONESIA",  TRANS7
 http://202.80.222.130/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
