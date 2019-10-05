@@ -307,6 +307,13 @@ http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRXrXaELChm9iZ_mLGVN_Q73Pkdf9NXYxc2XX-1tuLxg96fuFVJ" group-title="ADULT 18+", French Lover TV (18+)
 http://91.204.234.3:8000/play/a001/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://vik.kompas.com/wiro-sableng/assets/img/vino2.png" group-title="Video On Demand", WIRO SABLENG
+https://www.googleapis.com/drive/v3/files/1g6KLD7JT9e4fmJqyfTSSWiOFeWNn7W43?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-je37KW7ZZXs/XIHLoIsn18I/AAAAAAAABFI/u5NlZaXgn5QtE6d3iMjYIrlLeVGNQizgwCLcBGAs/s1600/Dilan%2B1.png" group-title="Video On Demand", DILAN 1991
+https://www.googleapis.com/drive/v3/files/1eCSWZ5cx7w5oDpg-9cI1l0pv0LnuQQip?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-582RAfTc1hg/XBcsgHYEPwI/AAAAAAAACVk/8D7EImRPLZo98aeaNIZgftvh4ZYpUmo1gCLcBGAs/s1600/aquaman.jpeg" group-title="Video On Demand",  AQUAMAN
 http://cdn0-a.production.vidio.static6.com/uploads/1573867/ets-cahgalon-820a-b900.mp4.m3u8
 
