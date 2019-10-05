@@ -1,0 +1,143 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", AMC @
+http://playback.imirun.net:8080//AMC-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", BAND @
+http://hvod.imirun.net:8080/BANDHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", BIS @
+http://playback.imirun.net:8080//BIS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", BOOMERANG @
+http://playback.imirun.net:8080//Boomerang-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", CARTON NETWORK @
+http://playback.imirun.net:8080//CartoonNetwork-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", CINEMAX @
+http://playback.imirun.net:8080//Cinemax-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", COMEDY CENTRAL @
+http://playback.imirun.net:8080//ComedyCentral/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", DISCOVERY CHANNEL @
+http://playback.imirun.net:8080//DiscoveryChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", DISCOVERY H&H @
+http://playback.imirun.net:8080//DiscoveryH&H-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", DISCOVERY kIDS @
+http://playback.imirun.net:8080//DiscoveryKids-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", DISCOVERY SCIENCE @
+http://playback.imirun.net:8080//DiscoveryScienceHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", DISCOVERY TURBO @
+http://playback.imirun.net:8080//DiscoveryTurbo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", DISCOVERY JUNIOR @
+http://playback.imirun.net:8080//DisneyJunior-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", AMC @
+http://playback.imirun.net:8080//AMC-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", BAND @
+http://hvod.imirun.net:8080/BANDHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", FOX sports 2
+http://hvod.imirun.net:8080/Fox-Sports-2-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", Globo NORDESTE @
+http://hvod.imirun.net:8080/GloboNordeste/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", Globo SP @
+http://hvod.imirun.net:8080/GloboSPHD23/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", GLOBO NEWS @
+http://playback.imirun.net:8080/Globo-News-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", GLOOB @
+http://hvod.imirun.net:8080/Gloob-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", History CHANNEL @
+http://playback.imirun.net:8080//HistoryChannel_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", HBO FAMILY @
+http://playback.imirun.net:8080//HBO-Family-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", ID  @
+http://playback.imirun.net:8080//InvestigacaoDiscoveryHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", LIFE TIME @
+http://playback.imirun.net:8080//Lifetime-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", max up @
+http://playback.imirun.net:8080//MaxUpHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", MEGA PIX @
+http://hvod.imirun.net:8080/MegapixHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", MULTI SHOW @
+http://hvod.imirun.net:8080/Multishow/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", NAt GEO WILD @
+http://playback.imirun.net:8080//NatGeoWild-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", MTV @
+http://playback.imirun.net:8080//MTVHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", MULTI SHOW @
+http://playback.imirun.net:8080//MultishowHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", PREMIER CLUBE @
+http://hvod.imirun.net:8080/Premiere-Clubes-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", PARAMOUNT @
+http://hvod.imirun.net:8080/ParamountHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", RECORD SP @
+http://hvod.imirun.net:8080/RecordSPHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", REDE VIDA @
+http://playback.imirun.net:8080//RedeVida/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", RIT @
+http://playback.imirun.net:8080//RIT/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", STUDIO UNIVERSAL @
+http://playback.imirun.net:8080//StudioUniversalHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", SONY @
+http://hvod.imirun.net:8080/canalsony-hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", TELECINE ACTION @
+http://playback.imirun.net:8080//TelecineActionHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", TELECINE PIPOCA @
+http://playback.imirun.net:8080//TelecinePipocaHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", TELECINE FUN @
+http://playback.imirun.net:8080//Telecine-Fun-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", TELECINE PREMIUM  @
+http://playback.imirun.net:8080//TelecinePremium/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", STUDIO UNIVERSAL  @
+http://playback.imirun.net:8080//StudioUniversal/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", TLC @
+http://playback.imirun.net:8080//TLC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", TNT SERIES @
+http://playback.imirun.net:8080//TNTSeries/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", VIVA @
+http://playback.imirun.net:8080//VIVA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", WOOHOO @
+http://playback.imirun.net:8080//Woohoo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", ZOOMOO @
+http://playback.imirun.net:8080//Zoomoo/tracks-v1a1/mono.m3u8
+
