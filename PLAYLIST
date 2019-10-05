@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/NMXHYyixYoCDZJdzsSzqapwYy_WLhHn78HMtOte9Wu5NKSK7Q1IIst5NmQIJStKHsZgq" group-title="INTRO", OFFICIAL IPTV
+https://www.googleapis.com/drive/v3/files/1_1LIJ3Kt-yo3Q-sNdkIHoTjaCiHceIGU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-logo="http://staging.TVri.go.id/assets/img_gallery/TVrinasional.jpg" group-title="INDONESIA",  TVRI NASIONAL
 http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(03)/index.m3u8
