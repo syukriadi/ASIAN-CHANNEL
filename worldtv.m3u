@@ -24,7 +24,7 @@ http://id1.indostreamingtv.com/live/sctv/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",INDOSIAR
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 
-#EXTINF:0  group-title="INDONESIA,Indosiar 2
+#EXTINF:-1  group-title="INDONESIA",Indosiar 2
 http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04AEAF62383D6B3647ED987&profile=pass
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",NET TV
@@ -1391,38 +1391,38 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 
-#EXTINF:0 group-title="SPORTS",Eleven Sports 1 HD
+#EXTINF:-1 group-title="SPORTS",Eleven Sports 1 HD
 http://62.203.143.51:9981/play/Eleven1HD
-#EXTINF:0 group-title="SPORTS",Eleven Sports 2 HD
+#EXTINF:-1 group-title="SPORTS",Eleven Sports 2 HD
 http://62.203.143.51:9981/play/ElevenSpor2HD
-#EXTINF:0 group-title="SPORTS",Eleven Sports 3
+#EXTINF:-1 group-title="SPORTS",Eleven Sports 3
 http://62.203.143.51:9981/play/ElevenSpo3
-#EXTINF:0 group-title="SPORTS",Eleven Sports 4
+#EXTINF:-1 group-title="SPORTS",Eleven Sports 4
 http://62.203.143.51:9981/play/Elevsrts4
-#EXTINF:0 group-title="SPORTS",Eleven Sports 5
+#EXTINF:-1 group-title="SPORTS",Eleven Sports 5
 http://62.203.143.51:9981/play/EleSports5
-#EXTINF:0 group-title="SPORTS",Eleven Sports 6
+#EXTINF:-1 group-title="SPORTS",Eleven Sports 6
 http://62.203.143.51:9981/play/ElevenSpo6
-#EXTINF:0 group-title="SPORTS",Eurochannel
+#EXTINF:-1 group-title="SPORTS",Eurochannel
 http://62.203.143.51:9981/play/Eurocha
-#EXTINF:0 group-title="SPORTS",Eurosport 1
+#EXTINF:-1 group-title="SPORTS",Eurosport 1
 http://62.203.143.51:9981/play/Eur1
-#EXTINF:0 group-title="SPORTS",Eurosport 1 HD
+#EXTINF:-1 group-title="SPORTS",Eurosport 1 HD
 http://62.203.143.51:9981/play/Eusport1HD
-#EXTINF:0 group-title="SPORTS",Eurosport 2
+#EXTINF:-1 group-title="SPORTS",Eurosport 2
 http://62.203.143.51:9981/play/Eurosp2
 
-#EXTINF:0 group-title="SPORTS",SPORT TV 1
+#EXTINF:-1 group-title="SPORTS",SPORT TV 1
 http://62.203.143.51:9981/play/SPORTTV1
-#EXTINF:0 group-title="SPORTS",SPORT TV 1 HD
+#EXTINF:-1 group-title="SPORTS",SPORT TV 1 HD
 http://62.203.143.51:9981/play/SPORTV1HD
-#EXTINF:0 group-title="SPORTS",SPORT TV 2
+#EXTINF:-1 group-title="SPORTS",SPORT TV 2
 http://62.203.143.51:9981/play/SPORTV2
-#EXTINF:0 group-title="SPORTS",SPORT TV 2 HD
+#EXTINF:-1 group-title="SPORTS",SPORT TV 2 HD
 http://62.203.143.51:9981/play/SPORT2HD
-#EXTINF:0 group-title="SPORTS",SPORT TV 3
+#EXTINF:-1 group-title="SPORTS",SPORT TV 3
 http://62.203.143.51:9981/play/SPORT3
-#EXTINF:0 group-title="SPORTS",SPORT TV 3 HD
+#EXTINF:-1 group-title="SPORTS",SPORT TV 3 HD
 http://62.203.143.51:9981/play/SPORT3HD
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Armenia TV (AM)
@@ -1520,9 +1520,6 @@ http://163.172.85.133:8080/TenS/3/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS",UFC FIGHT PASS 
 http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1719
-
-#EXTINF:-1 group-title="SPORTS",|USA| WWE NETWORK HD 
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1720 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6chO5x2.png" group-title="SPORTS",WWE Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
