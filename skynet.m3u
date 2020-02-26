@@ -124,15 +124,14 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(386e35b2-14f8-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KIDS",MIAO MI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="KIDS",DISNEY JUNIOR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KIDS",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRdwVrddxciY1542VziqQvYfiMVaZJl2OfLzvHa1Od8cuGTHR1I" group-title="KIDS",Cartoon Network HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KIDS",Cartoon Network HD
 http://188.35.9.11:21151/udp/185f
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="KIDS",SPACETOON
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KIDS",SPACETOON
 http://95.170.215.109:80/hls/m3u8/Spacetoon-Backup.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MUSIC", Dangdutz
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
@@ -255,6 +254,9 @@ http://210.210.155.66/h/h143/01.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES", Sony Gem
 http://210.210.155.66/h/h19/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES", Thrill
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES", ZEE BIOSKOP
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
 
@@ -275,12 +277,6 @@ http://ott-cdn.ucom.am/s86/index.m3u8?fluxusTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS", DUBAI RACING
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS", ESPN 2
-http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS", ESPN BRASIL
-http://hvod.imirun.net:8080/ESPN-Brasil-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS", Fox Sports Racing
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
@@ -356,3 +352,48 @@ http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS", Turkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="FOOTBALL CHANNEL", Doball 1
+http://stream.doball.com:8080/hls/ch1.m3u8?feed
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="FOOTBALL CHANNEL", Doball 2
+http://stream.doball.com:8080/hls/ch2.m3u8?feed
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="FOOTBALL CHANNEL", Doball 3
+http://stream.doball.com:8080/hls/ch3.m3u8?feed
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="FOOTBALL CHANNEL", Doball 4
+http://stream.doball.com:8080/hls/ch4.m3u8?feed
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="FOOTBALL CHANNEL", Doball 5
+http://stream.doball.com:8080/hls/ch5.m3u8?feed
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="FOOTBALL CHANNEL", Doball 6
+http://stream.doball.com:8080/hls/ch6.m3u8?feed
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="FOOTBALL CHANNEL", Doball 7
+http://stream.doball.com:8080/hls/ch7.m3u8?feed
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="FOOTBALL CHANNEL", Doball 8
+http://stream.doball.com:8080/hls/ch8.m3u8?feed
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="FOOTBALL CHANNEL", Doball 9
+http://stream.doball.com:8080/hls/ch9.m3u8?feed
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="FOOTBALL CHANNEL", Doball 10
+http://stream.doball.com:8080/hls/ch10.m3u8?feed
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="FOOTBALL CHANNEL", Doball 11
+http://stream.doball.com:8080/hls/ch11.m3u8?feed
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="FOOTBALL CHANNEL", Doball 12
+http://stream.doball.com:8080/hls/ch12.m3u8?feed
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="FOOTBALL CHANNEL", Doball 13
+http://stream.doball.com:8080/hls/ch13.m3u8?feed
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="FOOTBALL CHANNEL", Doball 14
+http://stream.doball.com:8080/hls/ch14.m3u8?feed
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="FOOTBALL CHANNEL", Doball 15
+http://stream.doball.com:8080/hls/ch15.m3u8?feed
