@@ -431,6 +431,23 @@ http://51.15.8.16:8081/arbiarb/beinsports2/chunks.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="EPL",BEIN SPORT 2 (Opt. 2)
 http://160.119.77.50/iptv/hd-bein2.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="EPL",BT SPORT 1 (Extra Server)
+http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="EPL",BT SPORT 2 (Extra Server)
+http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="EPL",Sky Sports Premier League HD
+http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="EPL",SPORT TV 2
+http://62.203.143.51:9981/play/SPORTV2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="EPL",SPORT TV 2 HD
+http://62.203.143.51:9981/play/SPORT2HD
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="FOOTBALL CHANNEL", Doball 1
 http://stream.doball.com:8080/hls/ch1.m3u8?feed
 
