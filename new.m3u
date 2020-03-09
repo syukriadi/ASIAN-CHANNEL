@@ -124,9 +124,9 @@ https://d2fy3q8z0e9ls2.cloudfront.net/HY-787/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KNOWLEDGE",HISTORY 2
 https://d2fy3q8z0e9ls2.cloudfront.net/HY-780/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KNOWLEDGE",NAT GEO
-http://203.153.218.28:9981/stream/channelid/681683355?ticket=CA00C297EBB6FFCB9C9A759DEE46D4175D9CBA3D&profile=pass
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KNOWLEDGE",NAT GEO PEOPLE
-http://203.153.218.28:9981/stream/channelid/1114683377?ticket=3AB51CB7A38E65D7C9462D132147C5A17FC7342C&profile=pass
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KNOWLEDGE",NAT GEO WILD
 http://livecdnh1.TVanywhere.ae/hls/nat_geo_wild/05.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KNOWLEDGE",ID KU
