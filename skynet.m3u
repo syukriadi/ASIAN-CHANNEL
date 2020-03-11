@@ -7,7 +7,7 @@ http://stream.doball.com:8080/hls/ch1.m3u8?feed
 http://stream.doball.com:8080/hls/ch2.m3u8?feed
 
 #EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/N00mi9wWx6wO-vZJ0GJIX62mxC0=/750x416/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1025781/original/039825900_1445265912-UEFA-Champions-League-Logo-Wallpaper.jpg" group-title="CHAMPION LEAGUE",MATH FOOTBALL 1 HD
-http://185.22.183.154:8085/media/hls_183_154/matchfut1/index.m3u8
+http://185.22.183.154:8085/media/hls_183_154/matchfut1_hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/N00mi9wWx6wO-vZJ0GJIX62mxC0=/750x416/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1025781/original/039825900_1445265912-UEFA-Champions-League-Logo-Wallpaper.jpg" group-title="CHAMPION LEAGUE",MATH FOOTBALL 2 HD
-http://185.22.183.154:8085/media/hls_183_154/matchfut2/index.m3u8
+http://185.22.183.154:8085/media/hls_183_154/matchfut2_hd/index.m3u8
