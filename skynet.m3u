@@ -91,11 +91,11 @@ http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
 http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",ARENA SPORT 4
 http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",MATH FOOTBALL 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="CHAMPION LEAGUE",MATH FOOTBALL 1 HD
 http://185.22.183.154:8085/media/hls_183_154/matchfut1_hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",MATH FOOTBALL 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="CHAMPION LEAGUE",MATH FOOTBALL 2 HD
 http://185.22.183.154:8085/media/hls_183_154/matchfut2_hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",MATH FOOTBALL 3 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="CHAMPION LEAGUE",MATH FOOTBALL 3 HD
 http://ott-stream.sevstar.net/1930/video.m3u8?token=8330162968
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",RED BULL TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
@@ -214,7 +214,52 @@ http://160.119.77.50/iptv/uk-btsport3hd.stream/playlist.m3u8
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS", TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTM3U
+#EXTINF:-1 group-title="CHAMPION LEAGUE",Doball 1
+http://stream.doball.com:8080/hls/ch1.m3u8?feed
+
+#EXTINF:-1 group-title="CHAMPION LEAGUE",Doball 2
+http://stream.doball.com:8080/hls/ch2.m3u8?feed
+
+#EXTINF:-1 group-title="CHAMPION LEAGUE",Doball 3
+http://stream.doball.com:8080/hls/ch3.m3u8?feed
+
+#EXTINF:-1 group-title="CHAMPION LEAGUE",Doball 4
+http://stream.doball.com:8080/hls/ch4.m3u8?feed
+
+#EXTINF:-1 group-title="CHAMPION LEAGUE",Doball 5
+http://stream.doball.com:8080/hls/ch5.m3u8?feed
+
+#EXTINF:-1 group-title="CHAMPION LEAGUE",Doball 6
+http://stream.doball.com:8080/hls/ch6.m3u8?feed
+
+#EXTINF:-1 group-title="CHAMPION LEAGUE",Doball 7
+http://stream.doball.com:8080/hls/ch7.m3u8?feed
+
+#EXTINF:-1 group-title="CHAMPION LEAGUE",Doball 8
+http://stream.doball.com:8080/hls/ch8.m3u8?feed
+
+#EXTINF:-1 group-title="CHAMPION LEAGUE",Doball 9
+http://stream.doball.com:8080/hls/ch9.m3u8?feed
+
+#EXTINF:-1 group-title="CHAMPION LEAGUE",Doball 10
+http://stream.doball.com:8080/hls/ch10.m3u8?feed
+
+#EXTINF:-1 group-title="CHAMPION LEAGUE",Doball 11
+http://stream.doball.com:8080/hls/ch11.m3u8?feed
+
+#EXTINF:-1 group-title="CHAMPION LEAGUE",Doball 12
+http://stream.doball.com:8080/hls/ch12.m3u8?feed
+
+#EXTINF:-1 group-title="CHAMPION LEAGUE",Doball 13
+http://stream.doball.com:8080/hls/ch13.m3u8?feed
+
+#EXTINF:-1 group-title="CHAMPION LEAGUE",Doball 14
+http://stream.doball.com:8080/hls/ch14.m3u8?feed
+
+#EXTINF:-1 group-title="CHAMPION LEAGUE",Doball 15
+http://stream.doball.com:8080/hls/ch15.m3u8?feed
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="GN ENTERTAIMENT", AWESOME
 https://livetvhooq.akamaized.net:443/e8b42cfc307e44eca6b8d862ce9837ac/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600556~exp=9007200828341547~acl=/e8b42cfc307e44eca6b8d862ce9837ac/*/profile_0/chunklist.m3u8*~hmac=182089422756519616cf1de70220271a75538a091b1d6d386b86bde3f0f2533d
