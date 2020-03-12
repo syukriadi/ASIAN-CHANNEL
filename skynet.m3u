@@ -13,6 +13,13 @@ http://185.22.183.154:8085/media/hls_183_154/matchfut1_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/N00mi9wWx6wO-vZJ0GJIX62mxC0=/750x416/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1025781/original/039825900_1445265912-UEFA-Champions-League-Logo-Wallpaper.jpg" group-title="CHAMPION LEAGUE",MATH FOOTBALL 2 HD
 http://185.22.183.154:8085/media/hls_183_154/matchfut2_hd/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/N00mi9wWx6wO-vZJ0GJIX62mxC0=/750x416/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1025781/original/039825900_1445265912-UEFA-Champions-League-Logo-Wallpaper.jpg" group-title="CHAMPION LEAGUE",Sony Ten 1
+https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/N00mi9wWx6wO-vZJ0GJIX62mxC0=/750x416/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1025781/original/039825900_1445265912-UEFA-Champions-League-Logo-Wallpaper.jpg" group-title="CHAMPION LEAGUE",Sony Ten 2
+https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/N00mi9wWx6wO-vZJ0GJIX62mxC0=/750x416/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1025781/original/039825900_1445265912-UEFA-Champions-League-Logo-Wallpaper.jpg" group-title="CHAMPION LEAGUE",Sony Ten 3
+https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/N00mi9wWx6wO-vZJ0GJIX62mxC0=/750x416/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1025781/original/039825900_1445265912-UEFA-Champions-League-Logo-Wallpaper.jpg" group-title="CHAMPION LEAGUE",Doball 1
 http://stream.doball.com:8080/hls/ch1.m3u8?feed
 
@@ -58,23 +65,23 @@ http://stream.doball.com:8080/hls/ch14.m3u8?feed
 #EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/N00mi9wWx6wO-vZJ0GJIX62mxC0=/750x416/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1025781/original/039825900_1445265912-UEFA-Champions-League-Logo-Wallpaper.jpg" group-title="CHAMPION LEAGUE",Doball 15
 http://stream.doball.com:8080/hls/ch15.m3u8?feed
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="GN ENTERTAIMENT", AWESOME
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/57e2f414e6f2e19c66a2947d/1474550119618-677OP2S4LXVHW0EJ79RA/logo+png.png?content-type=image%2Fpng" group-title="GNR Entertaiment", AWESOME
 https://livetvhooq.akamaized.net:443/e8b42cfc307e44eca6b8d862ce9837ac/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600556~exp=9007200828341547~acl=/e8b42cfc307e44eca6b8d862ce9837ac/*/profile_0/chunklist.m3u8*~hmac=182089422756519616cf1de70220271a75538a091b1d6d386b86bde3f0f2533d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="GN ENTERTAIMENT",BE MAD
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/57e2f414e6f2e19c66a2947d/1474550119618-677OP2S4LXVHW0EJ79RA/logo+png.png?content-type=image%2Fpng" group-title="GNR Entertaiment",BE MAD
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="GN ENTERTAIMENT", FAIL ARMY
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/57e2f414e6f2e19c66a2947d/1474550119618-677OP2S4LXVHW0EJ79RA/logo+png.png?content-type=image%2Fpng" group-title="GNR Entertaiment", FAIL ARMY
 https://livetvhooq.akamaized.net:443/166d36fe333a41e7846c47c07aa4919c/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599949~exp=9007200828340940~acl=/166d36fe333a41e7846c47c07aa4919c/*/profile_0/chunklist.m3u8*~hmac=f6dc30f96b4ccc9366031d95a30921884645efb4bedd2caf28eadee41e95bfd8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="GN ENTERTAIMENT",JASMIN TV
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/57e2f414e6f2e19c66a2947d/1474550119618-677OP2S4LXVHW0EJ79RA/logo+png.png?content-type=image%2Fpng" group-title="GNR Entertaiment",JASMIN TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="GN ENTERTAIMENT",NUART
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/57e2f414e6f2e19c66a2947d/1474550119618-677OP2S4LXVHW0EJ79RA/logo+png.png?content-type=image%2Fpng" group-title="GNR Entertaiment",NUART
 http://85.143.191.135/42/9918c515f2c700ffb78c5ab3110c07b5bdeec93a/229/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="GN ENTERTAIMENT", ENTERTAINMENT
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/57e2f414e6f2e19c66a2947d/1474550119618-677OP2S4LXVHW0EJ79RA/logo+png.png?content-type=image%2Fpng" group-title="GNR Entertaiment", ENTERTAINMENT
 https://livetvhooq.akamaized.net:443/37882cebae53494fbb9e86e68eae4673/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600290~exp=9007200828341281~acl=/37882cebae53494fbb9e86e68eae4673/*/profile_0/chunklist.m3u8*~hmac=30e5c1e07672f7c7de106b843093231ffae71271a99008779f59afb36a3eac58
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="GN ENTERTAIMENT",PORTAL FOXMIX
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/57e2f414e6f2e19c66a2947d/1474550119618-677OP2S4LXVHW0EJ79RA/logo+png.png?content-type=image%2Fpng" group-title="GNR Entertaiment",PORTAL FOXMIX
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="GN ENTERTAIMENT", SPORT ILUSTRATED
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/57e2f414e6f2e19c66a2947d/1474550119618-677OP2S4LXVHW0EJ79RA/logo+png.png?content-type=image%2Fpng" group-title="GNR Entertaiment", SPORT ILUSTRATED
 https://livetvhooq.akamaized.net:443/aead26cfa8f6495c98e63a02d4e2f20e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600461~exp=9007200828341452~acl=/aead26cfa8f6495c98e63a02d4e2f20e/*/profile_0/chunklist.m3u8*~hmac=392ded93cf19d860c6adb4e844992daec4e7c50e7525a525551766b59d3221f1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="GN ENTERTAIMENT",TRACE TOCA
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/57e2f414e6f2e19c66a2947d/1474550119618-677OP2S4LXVHW0EJ79RA/logo+png.png?content-type=image%2Fpng" group-title="GNR Entertaiment",TRACE TOCA
 http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypQRBrH.png" group-title="USA", Filmrise Family
