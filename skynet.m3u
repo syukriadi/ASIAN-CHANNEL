@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSia-h4Oiui0Wx-EdDJGGOGgIJyKrW3lR16BRIdeFraTPXISy6A" group-title="MOTO GP",MOTO GP 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Moto_Gp_logo.svg/1280px-Moto_Gp_logo.svg.png" group-title="MOTO GP",MOTO GP 1
 http://id2.indostreamingtv.com/live/trans7/index.m3u8?syukriadi.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSia-h4Oiui0Wx-EdDJGGOGgIJyKrW3lR16BRIdeFraTPXISy6A" group-title="MOTO GP",MOTO GP 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Moto_Gp_logo.svg/1280px-Moto_Gp_logo.svg.png" group-title="MOTO GP",MOTO GP 2
 http://183.182.100.184/live/pptvthai/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSia-h4Oiui0Wx-EdDJGGOGgIJyKrW3lR16BRIdeFraTPXISy6A" group-title="MOTO GP",MOTO GP 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Moto_Gp_logo.svg/1280px-Moto_Gp_logo.svg.png" group-title="MOTO GP",MOTO GP 3
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/N00mi9wWx6wO-vZJ0GJIX62mxC0=/750x416/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1025781/original/039825900_1445265912-UEFA-Champions-League-Logo-Wallpaper.jpg" group-title="CHAMPION LEAGUE",MATH FOOTBALL 1 HD
