@@ -65,23 +65,23 @@ http://stream.doball.com:8080/hls/ch14.m3u8?feed
 #EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/N00mi9wWx6wO-vZJ0GJIX62mxC0=/750x416/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1025781/original/039825900_1445265912-UEFA-Champions-League-Logo-Wallpaper.jpg" group-title="CHAMPION LEAGUE",Doball 15
 http://stream.doball.com:8080/hls/ch15.m3u8?feed
 
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/57e2f414e6f2e19c66a2947d/1474550119618-677OP2S4LXVHW0EJ79RA/logo+png.png?content-type=image%2Fpng" group-title="GNR Entertaiment", AWESOME
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/220px-Bravo_2017_logo.svg.png" group-title="GNR Entertaiment", AWESOME
 https://livetvhooq.akamaized.net:443/e8b42cfc307e44eca6b8d862ce9837ac/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600556~exp=9007200828341547~acl=/e8b42cfc307e44eca6b8d862ce9837ac/*/profile_0/chunklist.m3u8*~hmac=182089422756519616cf1de70220271a75538a091b1d6d386b86bde3f0f2533d
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/57e2f414e6f2e19c66a2947d/1474550119618-677OP2S4LXVHW0EJ79RA/logo+png.png?content-type=image%2Fpng" group-title="GNR Entertaiment",BE MAD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/220px-Bravo_2017_logo.svg.png" group-title="GNR Entertaiment",BE MAD
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_3.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/57e2f414e6f2e19c66a2947d/1474550119618-677OP2S4LXVHW0EJ79RA/logo+png.png?content-type=image%2Fpng" group-title="GNR Entertaiment", FAIL ARMY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/220px-Bravo_2017_logo.svg.png" group-title="GNR Entertaiment", FAIL ARMY
 https://livetvhooq.akamaized.net:443/166d36fe333a41e7846c47c07aa4919c/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599949~exp=9007200828340940~acl=/166d36fe333a41e7846c47c07aa4919c/*/profile_0/chunklist.m3u8*~hmac=f6dc30f96b4ccc9366031d95a30921884645efb4bedd2caf28eadee41e95bfd8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/57e2f414e6f2e19c66a2947d/1474550119618-677OP2S4LXVHW0EJ79RA/logo+png.png?content-type=image%2Fpng" group-title="GNR Entertaiment",JASMIN TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/220px-Bravo_2017_logo.svg.png" group-title="GNR Entertaiment",JASMIN TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/57e2f414e6f2e19c66a2947d/1474550119618-677OP2S4LXVHW0EJ79RA/logo+png.png?content-type=image%2Fpng" group-title="GNR Entertaiment",NUART
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/220px-Bravo_2017_logo.svg.png" group-title="GNR Entertaiment",NUART
 http://85.143.191.135/42/9918c515f2c700ffb78c5ab3110c07b5bdeec93a/229/stream.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/57e2f414e6f2e19c66a2947d/1474550119618-677OP2S4LXVHW0EJ79RA/logo+png.png?content-type=image%2Fpng" group-title="GNR Entertaiment", ENTERTAINMENT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/220px-Bravo_2017_logo.svg.png" group-title="GNR Entertaiment", ENTERTAINMENT
 https://livetvhooq.akamaized.net:443/37882cebae53494fbb9e86e68eae4673/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600290~exp=9007200828341281~acl=/37882cebae53494fbb9e86e68eae4673/*/profile_0/chunklist.m3u8*~hmac=30e5c1e07672f7c7de106b843093231ffae71271a99008779f59afb36a3eac58
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/57e2f414e6f2e19c66a2947d/1474550119618-677OP2S4LXVHW0EJ79RA/logo+png.png?content-type=image%2Fpng" group-title="GNR Entertaiment",PORTAL FOXMIX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/220px-Bravo_2017_logo.svg.png" group-title="GNR Entertaiment",PORTAL FOXMIX
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/57e2f414e6f2e19c66a2947d/1474550119618-677OP2S4LXVHW0EJ79RA/logo+png.png?content-type=image%2Fpng" group-title="GNR Entertaiment", SPORT ILUSTRATED
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/220px-Bravo_2017_logo.svg.png" group-title="GNR Entertaiment", SPORT ILUSTRATED
 https://livetvhooq.akamaized.net:443/aead26cfa8f6495c98e63a02d4e2f20e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600461~exp=9007200828341452~acl=/aead26cfa8f6495c98e63a02d4e2f20e/*/profile_0/chunklist.m3u8*~hmac=392ded93cf19d860c6adb4e844992daec4e7c50e7525a525551766b59d3221f1
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/57e2f414e6f2e19c66a2947d/1474550119618-677OP2S4LXVHW0EJ79RA/logo+png.png?content-type=image%2Fpng" group-title="GNR Entertaiment",TRACE TOCA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/220px-Bravo_2017_logo.svg.png" group-title="GNR Entertaiment",TRACE TOCA
 http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypQRBrH.png" group-title="USA", Filmrise Family
@@ -4806,47 +4806,47 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/chunklist_w743726554.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S9vdKGy.png" group-title="PHILIPPINES", UNTV News & Rescue
 https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b1128000.m3u8
 
-#EXTINF:-1 tvg-ID="NetTV.id" group-title="Lokal FTA" tvg-logo="https://macan.live/img/net.png", NET.
+#EXTINF:-1 tvg-ID="NetTV.id" group-title="INDONESIA" tvg-logo="https://macan.live/img/net.png", NET.
 https://delivery.macan.live/stream/id_nettv/index.m3u8?token=gratisan&v=20200202
-#EXTINF:-1 tvg-ID="RCTI.id" group-title="Lokal FTA" tvg-logo="https://macan.live/img/rcti.jpg", RCTI
+#EXTINF:-1 tvg-ID="RCTI.id" group-title="INDONESIA" tvg-logo="https://macan.live/img/rcti.jpg", RCTI
 https://delivery.macan.live/stream/id_rcti/index.m3u8?token=gratisan&v=20200202
-#EXTINF:-1 tvg-ID="MNCTV.id" group-title="Lokal FTA" tvg-logo="https://macan.live/img/mnctv.png", MNCTV
+#EXTINF:-1 tvg-ID="MNCTV.id" group-title="INDONESIA" tvg-logo="https://macan.live/img/mnctv.png", MNCTV
 https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
-#EXTINF:-1 tvg-ID="GTV.id" group-title="Lokal FTA" tvg-logo="https://macan.live/img/gtv.png", GTV
+#EXTINF:-1 tvg-ID="GTV.id" group-title="INDONESIA" tvg-logo="https://macan.live/img/gtv.png", GTV
 https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
-#EXTINF:-1 tvg-ID="Indosiar.id" group-title="Lokal FTA" tvg-logo="https://macan.live/img/indosiar.png", INDOSIAR
+#EXTINF:-1 tvg-ID="Indosiar.id" group-title="INDONESIA" tvg-logo="https://macan.live/img/indosiar.png", INDOSIAR
 https://delivery.macan.live/stream/id_indosiar/index.m3u8?token=gratisan&v=20200202
-#EXTINF:-1 tvg-ID="SCTV.id" group-title="Lokal FTA" tvg-logo="https://macan.live/img/sctv.png", SCTV
+#EXTINF:-1 tvg-ID="SCTV.id" group-title="INDONESIA" tvg-logo="https://macan.live/img/sctv.png", SCTV
 https://delivery.macan.live/stream/id_sctv/index.m3u8?token=gratisan&v=20200202
-#EXTINF:-1 tvg-ID="Trans7.id" group-title="Lokal FTA" tvg-logo="https://macan.live/img/trans7.png", TRANS 7
+#EXTINF:-1 tvg-ID="Trans7.id" group-title="INDONESIA" tvg-logo="https://macan.live/img/trans7.png", TRANS 7
 https://delivery.macan.live/stream/id_trans7/index.m3u8?token=gratisan&v=20200202
-#EXTINF:-1 tvg-ID="TransTV.id" group-title="Lokal FTA" tvg-logo="https://macan.live/img/transtv.png", TRANS TV
+#EXTINF:-1 tvg-ID="TransTV.id" group-title="INDONESIA" tvg-logo="https://macan.live/img/transtv.png", TRANS TV
 https://delivery.macan.live/stream/id_transtv/index.m3u8?token=gratisan&v=20200202
-#EXTINF:-1 tvg-ID="CNNIndonesia.id" group-title="Lokal FTA" tvg-logo="https://macan.live/img/cnn.png", CNN Indonesia
+#EXTINF:-1 tvg-ID="CNNIndonesia.id" group-title="INDONESIA" tvg-logo="https://macan.live/img/cnn.png", CNN Indonesia
 https://delivery.macan.live/stream/id_cnn/index.m3u8?token=gratisan&v=20200202
-#EXTINF:-1 tvg-ID="CNBCIndonesia.id" group-title="Lokal FTA" tvg-logo="https://macan.live/img/cnbc.png", CNBC Indonesia
+#EXTINF:-1 tvg-ID="CNBCIndonesia.id" group-title="INDONESIA" tvg-logo="https://macan.live/img/cnbc.png", CNBC Indonesia
 https://delivery.macan.live/stream/id_cnbc/index.m3u8?token=gratisan&v=20200202
-#EXTINF:-1 tvg-ID="ANTV.id" group-title="Lokal FTA" tvg-logo="https://macan.live/img/antv.png", ANTV
+#EXTINF:-1 tvg-ID="ANTV.id" group-title="INDONESIA" tvg-logo="https://macan.live/img/antv.png", ANTV
 https://delivery.macan.live/stream/id_antv/index.m3u8?token=gratisan&v=20200202
-#EXTINF:-1 tvg-ID="JTV.id" group-title="Lokal FTA" tvg-logo="https://macan.live/img/jtv.png", JTV
+#EXTINF:-1 tvg-ID="JTV.id" group-title="INDONESIA" tvg-logo="https://macan.live/img/jtv.png", JTV
 https://delivery.macan.live/stream/id_jtv/index.m3u8?token=gratisan&v=20200202
-#EXTINF:-1 tvg-ID="TVOne.id" group-title="Lokal FTA" tvg-logo="https://macan.live/img/tvone.png", TVOne
+#EXTINF:-1 tvg-ID="TVOne.id" group-title="INDONESIA" tvg-logo="https://macan.live/img/tvone.png", TVOne
 https://delivery.macan.live/stream/id_tvone/index.m3u8?token=gratisan&v=20200202
-#EXTINF:-1 tvg-ID="KompasTv.id" group-title="Lokal FTA" tvg-logo="https://macan.live/img/kompastv.png", KOMPAS TV
+#EXTINF:-1 tvg-ID="KompasTv.id" group-title="INDONESIA" tvg-logo="https://macan.live/img/kompastv.png", KOMPAS TV
 https://delivery.macan.live/stream/id_kompastv/index.m3u8?token=gratisan&v=20200202
-#EXTINF:-1 tvg-ID="MetroTV.id" group-title="Lokal FTA" tvg-logo="https://macan.live/img/metrotv.png", METRO TV
+#EXTINF:-1 tvg-ID="MetroTV.id" group-title="INDONESIA" tvg-logo="https://macan.live/img/metrotv.png", METRO TV
 https://delivery.macan.live/stream/id_metrotv/index.m3u8?token=gratisan&v=20200202
-#EXTINF:-1 tvg-ID="DaaiTv.id" group-title="Lokal FTA" tvg-logo="https://macan.live/img/daaitv.png", DAAI TV
+#EXTINF:-1 tvg-ID="DaaiTv.id" group-title="INDONESIA" tvg-logo="https://macan.live/img/daaitv.png", DAAI TV
 https://delivery.macan.live/stream/id_daai/index.m3u8?token=gratisan&v=20200202
-#EXTINF:-1 tvg-ID="JakTV.id" group-title="Lokal FTA" tvg-logo="https://macan.live/img/jaktv.png", JAKTV
+#EXTINF:-1 tvg-ID="JakTV.id" group-title="INDONESIA" tvg-logo="https://macan.live/img/jaktv.png", JAKTV
 https://delivery.macan.live/stream/id_jaktv/index.m3u8?token=gratisan&v=20200202
-#EXTINF:-1 tvg-ID="BeritaSatu.id" group-title="Lokal FTA" tvg-logo="https://macan.live/img/beritasatu.png", BeritaSatu
+#EXTINF:-1 tvg-ID="BeritaSatu.id" group-title="INDONESIA" tvg-logo="https://macan.live/img/beritasatu.png", BeritaSatu
 https://delivery.macan.live/stream/id_beritasatu/index.m3u8?token=gratisan&v=20200202
-#EXTINF:-1 tvg-ID="RajawaliTV.id" group-title="Lokal FTA" tvg-logo="https://macan.live/img/rtv.png", RTV
+#EXTINF:-1 tvg-ID="RajawaliTV.id" group-title="INDONESIA" tvg-logo="https://macan.live/img/rtv.png", RTV
 https://delivery.macan.live/stream/id_rajawalitv/index.m3u8?token=gratisan&v=20200202
-#EXTINF:-1 tvg-ID="TVRI.id" group-title="Lokal FTA" tvg-logo="https://macan.live/img/tvri.png", TVRI Nasional
+#EXTINF:-1 tvg-ID="TVRI.id" group-title="INDONESIA" tvg-logo="https://macan.live/img/tvri.png", TVRI Nasional
 https://delivery.macan.live/stream/id_tvri/index.m3u8?token=gratisan&v=20200202
-#EXTINF:-1 tvg-ID="idx.id" group-title="Lokal FTA" tvg-logo="https://macan.live/img/idx.png", IDX
+#EXTINF:-1 tvg-ID="idx.id" group-title="INDONESIA" tvg-logo="https://macan.live/img/idx.png", IDX
 https://delivery.macan.live/stream/idx/index.m3u8?token=gratisan&v=20200202
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="MALAYSIA", Astro Awani (Opt-2)
