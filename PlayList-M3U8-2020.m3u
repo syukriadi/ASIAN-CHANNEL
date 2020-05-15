@@ -25,7 +25,10 @@ https://linier.akamaized.net:443/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_2000000=
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA", TV ONE
-https://stream-03.sg1.dailymotion.com:443/sec(Lwh7JHfNhyxGUc6wDbgCy1c4KYNPM3jGGUkO-8dvr7U)/dm/3/x5i1xjt/s/live-2.m3u8
+https://stream-03.sg1.dailymotion.com:443/sec(Lwh7JHfNhyxGUc6wDbgCy1c4KYNPM3jGGUkO-8dvr7U)/dm/3/x5i1xjt/s/live-0.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA", TV ONE 2
+http://210.210.155.35/session/8e9505d0-96ba-11ea-8085-b9b781aec6cb/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1825142121_b280000_sleng.m3u8
@@ -46,7 +49,10 @@ https://live.cnnindonesia.com:443/livecnn/smil:cnntv.smil/chunklist_w1241960898_
 https://live.cnbcindonesia.com:443/livecnbc/smil:cnbctv.smil/chunklist_w290751272_b192000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA", KOMPAS TV
-https://stream-02.sg1.dailymotion.com:443/sec(hq_e0q5VHX_FvDCk_Uz4G5A6GG9kfg9Z4Y4eZPruXXA)/dm/3/x6pz4sa/d/live-2.m3u8
+https://stream-02.sg1.dailymotion.com:443/sec(hq_e0q5VHX_FvDCk_Uz4G5A6GG9kfg9Z4Y4eZPruXXA)/dm/3/x6pz4sa/d/live-0.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA", KOMPAS TV 2
+http://210.210.155.35/session/e53e937a-96b9-11ea-84d8-a755ac6ee6c9/qwr9ew/s/s104/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA", METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
