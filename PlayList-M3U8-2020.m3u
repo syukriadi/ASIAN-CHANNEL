@@ -25,7 +25,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sl
 https://stream-03.sg1.dailymotion.com:443/sec(Lwh7JHfNhyxGUc6wDbgCy1c4KYNPM3jGGUkO-8dvr7U)/dm/3/x5i1xjt/s/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA", TV ONE 2
-http://210.210.155.35/session/8e9505d0-96ba-11ea-8085-b9b781aec6cb/qwr9ew/s/s105/01.m3u8
+http://210.210.155.35:80/session/1d53ce08-9910-11ea-b47e-965eb9aa88bc/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1825142121_b280000_sleng.m3u8
@@ -46,7 +46,7 @@ https://live.cnbcindonesia.com:443/livecnbc/smil:cnbctv.smil/chunklist_w29075127
 https://stream-02.sg1.dailymotion.com:443/sec(hq_e0q5VHX_FvDCk_Uz4G5A6GG9kfg9Z4Y4eZPruXXA)/dm/3/x6pz4sa/d/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA", KOMPAS TV 2
-http://210.210.155.35/session/9822a43e-990f-11ea-9022-a01493c79689/qwr9ew/s/s104/01.m3u8
+http://210.210.155.35:80/session/9822a43e-990f-11ea-9022-a01493c79689/qwr9ew/s/s104/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA", METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
