@@ -1,385 +1,382 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", GTV HD
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", GTV
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", MNC HD
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", MNC
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", RCTI HD
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", RCTI
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="Lokal FTA", RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", INEWS HD
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="Lokal FTA", MNC
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", INEWS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tpdTH3m/antvlogo.png" group-title="Lokal FTA",ANTV
+https://delivery.macan.live/stream/id_antv/index.m3u8?token=bmpYt&v=20200807
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K6Q2z7f/sctvlogo.png" group-title="Lokal FTA",SCTV
+https://delivery.macan.live/stream/id_sctv/index.m3u8?token=bmpYt&v=20200807
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z2Sm250/indosiarlogo.png" group-title="Lokal FTA",INDOSIAR
+https://delivery.macan.live/stream/id_indosiar/index.m3u8?token=bmpYt&v=20200807
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XDQFLPb/netlogo.png" group-title="Lokal FTA",NET.
+https://delivery.macan.live/stream/id_nettv/index.m3u8?token=bmpYt&v=20200807
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="Lokal FTA", GTV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="Lokal FTA", INEWS
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",ANTV
-http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tmsFjC3/trans7logo.png" group-title="Lokal FTA",TRANS 7
+https://delivery.macan.live/stream/id_trans7/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",SCTV
-http://210.210.155.35/qwr9ew/s/s03/02.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VLG4kdY/trlogonew.png" group-title="Lokal FTA",TRANS TV
+https://delivery.macan.live/stream/id_transtv/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",INDOSIAR
-http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X5dxW5R/cnnindologo.png" group-title="Lokal FTA",CNN Lokal FTA
+https://delivery.macan.live/stream/id_cnn/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",NET
-http://210.210.155.35/qwr9ew/s/s08/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=NET.
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D7SLMT7/cnbcindologo.png" group-title="Lokal FTA",CNBC Lokal FTA
+https://delivery.macan.live/stream/id_cnbc/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",TRANS 7
-http://210.210.155.35:80/qwr9ew/s/s101/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=CURG2HD4BSEXBXU0R06QXEJWCRIVSOFC&chname=Trans7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SKBCW2V/jtvlogo.png" group-title="Lokal FTA",JTV
+https://delivery.macan.live/stream/id_jtv/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",TV ONE
-http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R3tGZ3q/tvonelogo.png" group-title="Lokal FTA",TVOne
+https://delivery.macan.live/stream/id_tvone/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",TRANS TV
-http://210.210.155.35:80/x6bnqe/s/s252/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=CURG2HD4BSEXBXU0R06QXEJWCRIVSOFC&chname=Trans_TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XDfw5cW/kompaslogo.png" group-title="Lokal FTA",KOMPAS TV
+https://delivery.macan.live/stream/id_kompastv/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",RTV
-http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Df2NzTv/metrotvlogo.png" group-title="Lokal FTA",METRO TV
+https://delivery.macan.live/stream/id_metrotv/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",KOMPAS TV
-http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d0GbGhj/daiitvlogo.png" group-title="Lokal FTA",DAAI TV
+https://delivery.macan.live/stream/id_daai/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", METRO TV HD
-http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yg8z569/jaktvlogo.png" group-title="Lokal FTA",JAKTV
+https://delivery.macan.live/stream/id_jaktv/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", TVRI NASIONAL
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFV0LBb/beritasatulogo.png" group-title="Lokal FTA",BeritaSatu
+https://delivery.macan.live/stream/id_beritasatu/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", TVRI DKI JAKARTA
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n8ZC4ZM/rtvlogo.png" group-title="Lokal FTA",RTV
+https://delivery.macan.live/stream/id_rajawalitv/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", TVRI BUDAYA
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fD1M5FB/tvrilogo.png" group-title="Lokal FTA",TVRI Nasional
+https://delivery.macan.live/stream/id_tvri/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", BERITASATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rhg1b2f/IDXLOGO.png" group-title="Lokal FTA",IDX
+https://delivery.macan.live/stream/idx/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", JTV
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(da282ed9-7202-4e68-8a85-eee4f5776779)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xMpRN79/SALAMLOGO.png" group-title="Lokal FTA",Salam TV
+https://delivery.macan.live/stream/salam_tv/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", ID KU
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="Lokal FTA",ID KU
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(9c829723-9b34-49fd-bce4-53efa462576b)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", ASTRO NAURA
-https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="Lokal FTA",USEE PRIME
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(e7243cff-628b-45a9-8361-11bade1e6021)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", ASTRO RUUMA
-https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP_03.m3u8
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="Lokal FTA",USEE PHOTO
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(28342aae-356c-46c1-b150-98ac3fb0fd5c)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", ASTRO GAAYA
-https://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3_04.m3u8
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="Lokal FTA",RUANG TERAMPIL
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(56a81d9a-f190-463b-9a01-42f85674e8bd)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", ASTRO GOSHOP
-https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="Lokal FTA",TECHSTORM
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", ASTRO AWANI
-https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/citra_dangdut.png" group-title="Lokal Premium",Citra Dangdut
+https://delivery.macan.live/stream/citra_dangdut/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", ASTRO SURIA
-https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/citra_drama.png" group-title="Lokal Premium",Citra Drama
+https://delivery.macan.live/stream/citra_drama/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", DRAMA SANGAT
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/disneyxd.png" group-title="Kids",Disney XD
+https://delivery.macan.live/stream/disneyxd/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", RTM TV1
-https://rtm1mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist_b464000.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/boomerang.png" group-title="Kids",Boomerang
+https://delivery.macan.live/stream/boomerang/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", RTM TV2
-https://rtm2mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist_b464000.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/nickelodeon.png" group-title="Kids",Nickelodeon
+https://delivery.macan.live/stream/nickelodeon/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", TV3
-http://ts.lemmovie.com/55a7edc5-112d-47ce-92bd-d242cf580f46.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/nickjr.png" group-title="Kids",Nick Jr
+https://delivery.macan.live/stream/nickjr/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", TV7
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/warnertv.png" group-title="Kids",Warner TV
+https://delivery.macan.live/stream/warnertv/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", TV8
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/babytv.png" group-title="Kids",BabyTV
+https://delivery.macan.live/stream/babytv/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", TV9
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/besmart.jpg" group-title="Kids",BeSmart
+https://delivery.macan.live/stream/besmart/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="RELIGI", AHSAN TV
-http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/zoomoo.png" group-title="Kids",Zoomoo
+https://delivery.macan.live/stream/zoomoo/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="RELIGI", AL IMAN
-http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/channel_v_int.png" group-title="Music",Channel V. Int
+https://delivery.macan.live/stream/id_channelv/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="RELIGI", AL-BAHJAH TV
-https://edge.siar.us/albahjahtv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/mtv_live.png" group-title="Music",MTV Live HD
+https://delivery.macan.live/stream/mtv_live/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="RELIGI", Hadi TV 2
-http://38.96.175.40:1935/liveTrans//channel2_800k/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/love_nature.png" group-title="Knowledge",Love Nature
+https://delivery.macan.live/stream/love_nature/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="RELIGI", NABAWI TV
-http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/history.png" group-title="Knowledge",History
+https://delivery.macan.live/stream/history/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="RELIGI", TAWAF TV
-http://stream2.ninmedia.tv:1935/tawaftv/rtmp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/hgtv.png" group-title="Knowledge",HGTV
+https://delivery.macan.live/stream/hgtv/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS",ANIMAX
-http://210.210.155.35/dr9445/h/h144/01.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/afc.png" group-title="Knowledge",AFC
+https://delivery.macan.live/stream/id_afc/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS",ANIPLUS
-http://210.210.155.35:80/dr9445/h/h02/index.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/tlc.png" group-title="Knowledge",TLC
+https://delivery.macan.live/stream/tlc/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KIDS", DISNEY CHANNEL
-http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DISNEY.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/bbc_earth.png" group-title="News",BBC Earth
+https://delivery.macan.live/stream/bbc_earth/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS", DISNEY JUNIOR
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/bbc_lifestyle.png" group-title="News",BBC Lifestyle
+https://delivery.macan.live/stream/bbc_lifestyle/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KIDS", POGO
-http://202.163.117.6:9981/stream/channelid/872564616
+#EXTINF:-1 tvg-logo="https://macan.live/img/animalplanet.png" group-title="Knowledge",Animal Planet
+https://delivery.macan.live/stream/id_animalplanet/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS", Rooster Teeth TV
-https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/discoverychannel.png" group-title="Knowledge",Discovery Channel
+https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS", TCT KIDS
-http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/discoveryasia.png" group-title="Knowledge",Discovery Asia
+https://delivery.macan.live/stream/id_discoveryasia/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS", TVO KIDS
-https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/ngc.png" group-title="Knowledge",National Geographic
+https://delivery.macan.live/stream/id_ngc/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="FASHION", Fashion TV MIDNIGHT
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/natgeopeople.png" group-title="Knowledge",Nat Geo People
+https://delivery.macan.live/stream/id_netgeopeople/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="FASHION", Fashion TV Midnite Secrets
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/natgeowild.png" group-title="Knowledge",Nat Geo Wild
+https://delivery.macan.live/stream/id_natgeowild/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="FASHION", Fashion TV Paris
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/lifetime.png" group-title="Entertainment",Lifetime
+https://delivery.macan.live/stream/lifetime/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="FASHION", WF
-http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/blue_ant_entertainment.png" group-title="Entertainment",Blue Ant Entertainment
+https://delivery.macan.live/stream/blue_ant_entertainment/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="FASHION", HD Fashion & LifeStyle
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/blue_ant_extreme.png" group-title="Entertainment",Blue Ant Extreme
+https://delivery.macan.live/stream/blue_ant_extreme/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="FASHION", JASMIN TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/axn.png" group-title="Entertainment",AXN
+https://delivery.macan.live/stream/id_axn/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", NAT GEO
-https://www.fanmingming.cn/hls/natlgeo.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/fx.png" group-title="Entertainment",FX
+https://delivery.macan.live/stream/id_fx/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", NAT GEO PEOPLE
-https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/fox.jpg" group-title="Entertainment",FOX
+https://delivery.macan.live/stream/id_fox/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", NAT GEO Wild
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://macan.live/img/fox_crime.png" group-title="Entertainment",FOX Crime
+https://delivery.macan.live/stream/id_foxcrime/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", BBC Cbeebies
-http://51.52.156.22:8888/http/003
+#EXTINF:-1 tvg-logo="https://macan.live/img/fox_life.png" group-title="Entertainment",FOX Life (ex. Star World)
+https://delivery.macan.live/stream/id_foxlife/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", DMAX
-http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/fox_movies_premium.png" group-title="Movies",FOX Movies Premium
+https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", Joo Music
-https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/fox_action_movies.png" group-title="Movies",FOX Action Movies
+https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", Kadak Hits
-http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/fox_family_movies.png" group-title="Movies",FOX Family Movies
+https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", Euro Indie Music Chart
-http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/hbo.png" group-title="Movies",HBO
+https://delivery.macan.live/stream/hbo/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", Jhanjar Music
-http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/hbo_family.png" group-title="Movies",HBO Family
+https://delivery.macan.live/stream/hbo_family/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", DJing Animation
-https://www.djing.com/tv/animation.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/hbo_hits.png" group-title="Movies",HBO Hits
+https://delivery.macan.live/stream/hbo_hits/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", DJing Classics
-https://www.djing.com/tv/classics.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/hbo_signature.png" group-title="Movies",HBO Signature
+https://delivery.macan.live/stream/hbo_signature/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", DJing Dancefloor
-https://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/red_hbo.png" group-title="Movies",RED by HBO
+https://delivery.macan.live/stream/redhbo/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", DJing Hits
-https://www.djing.com/tv/hits.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/cinemaxa.png" group-title="Movies",Cinemax by HBO
+https://delivery.macan.live/stream/cinemax/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", DJing Karaoke
-https://www.djing.com/tv/karaoke.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/crime_investigation.png" group-title="Entertainment",Crime Investigation
+https://delivery.macan.live/stream/crimeinvestigation/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", DJing Live
-https://www.djing.com/tv/live.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/macanlogo.png" group-title="Entertainment",Flik
+https://delivery.macan.live/stream/flik/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", DJing Underground
-https://www.djing.com/tv/underground.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/thrill.png" group-title="Movies",Thrill
+https://delivery.macan.live/stream/thrill/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", BOX HITS
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1 tvg-logo="https://macan.live/img/hits.png" group-title="Entertainment",HITS
+https://delivery.macan.live/stream/hits/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", Music Top
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/hits_movies.png" group-title="Entertainment",HITS Movies
+https://delivery.macan.live/stream/hits_movies/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", California Music Channel
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/sonyone.png" group-title="Korea",Sony One
+https://delivery.macan.live/stream/sonyone/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", KARAOKE CHANNEL
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?
+#EXTINF:-1 tvg-logo="https://macan.live/img/arirang.png" group-title="Korea",Arirang
+https://delivery.macan.live/stream/arirang/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/tvn.png" group-title="Korea",tvN
+https://delivery.macan.live/stream/id_tvn/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", AXN
-http://136.243.177.164/AXN/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1 tvg-logo="https://macan.live/img/tvn_movies.png" group-title="Korea",tvN Movies
+https://delivery.macan.live/stream/tvn_movies/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", AXN ID
-http://210.210.155.35/uq2663/h/h141/01.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/kbs_world.png" group-title="Korea",KBS World
+https://delivery.macan.live/stream/kbs_world/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", HI! INDO
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://macan.live/img/animax.png" group-title="Japan",Animax
+https://delivery.macan.live/stream/id_animax/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", KIX
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/wakuwaku.png" group-title="Japan",Waku Waku Japan
+https://delivery.macan.live/stream/wakuwaku/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",SINEMA INDONESIA
-http://210.210.155.35:80/x6bnqe/s/s71/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/gem.jpg" group-title="Japan",Sony GEM TV
+https://delivery.macan.live/stream/id_gem/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",BLUE ANT ENTERTAINMENT
-http://210.210.155.35:80/dr9445/h/h16/index2.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/kix.png" group-title="Movies",KIX
+https://delivery.macan.live/stream/kix/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",BLUE ANT EXTREME
-http://210.210.155.35:80/dr9445/h/h15/index2.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/cm.jpg" group-title="Chinese",Celestial Movies
+https://delivery.macan.live/stream/cm/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",CELESTIAL MOVIES
-http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/ccm.png" group-title="Chinese",Celestial Classic Movies
+https://delivery.macan.live/stream/ccm/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",CINEMA WORLD
-http://210.210.155.35:80/uq2663/h/h04/02.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/scmlegend.jpeg" group-title="Chinese",SCM Legend
+https://delivery.macan.live/stream/scmlegend/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",HITS
-http://210.210.155.35:80/uq2663/h/h37/01.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/star_chinese_movies.png" group-title="Chinese",Star Chinese Movies
+https://delivery.macan.live/stream/id_scm/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",K+
-http://210.210.155.35:80/uq2663/h/h08/01.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/zeebioskop.png" group-title="India",ZEE Bioskop
+https://delivery.macan.live/stream/zeebioskop/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", & Prive HD
-http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/zeetv.png" group-title="India",ZEE TV
+https://delivery.macan.live/stream/zeetv/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", & Flix HD
-http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/astro_awani.png" group-title="Malaysia",Astro Awani
+https://delivery.macan.live/stream/astro_awani/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", SONY HD
-http://103.214.202.218:8081/live/sony-40/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/astro_ceria.png" group-title="Malaysia",Astro Ceria
+https://delivery.macan.live/stream/astro_ceria/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",SONY GEM
-http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/astro_oasis.png" group-title="Malaysia",Astro Oasis
+https://delivery.macan.live/stream/astro_oasis/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",THRILL
-http://210.210.155.35/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/astro_prima.png" group-title="Malaysia",Astro Prima
+https://delivery.macan.live/stream/astro_prima/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",ZEE BIOSKOP
-http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/astro_ria.png" group-title="Malaysia",Astro Ria
+https://delivery.macan.live/stream/astro_ria/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", CINEMAX (HU/RO)
-http://193.33.39.108:8107/30709
+#EXTINF:-1 tvg-logo="https://macan.live/img/astro_warna.png" group-title="Malaysia",Astro Warna
+https://delivery.macan.live/stream/astro_warna/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", CINEMAX 2 (HU/RO)
-http://193.33.39.108:8115/30914
+#EXTINF:-1 tvg-logo="https://macan.live/img/bbc_world_news.png" group-title="News",BBC World News
+https://delivery.macan.live/stream/id_bbcworldnews/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", HBO
-http://136.243.177.164/HBO/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1 tvg-logo="https://macan.live/img/nhk_world.png" group-title="News",NHK World
+https://delivery.macan.live/stream/id_nhkworld/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", HBO 2
-http://136.243.177.164/HBO2/index.m3u8?h=308R7a2QNxrbpmxlKw8Ahw
+#EXTINF:-1 tvg-logo="https://macan.live/img/cnninternational.png" group-title="News",CNN International
+https://delivery.macan.live/stream/cnninternational/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", HBO 3
-http://136.243.177.164/HBO3/index.m3u8?h=teJ1EKfjMkWIRvFHlkJG-Q
+#EXTINF:-1 tvg-logo="https://macan.live/img/russia_today.png" group-title="News",Russia Today (RT)
+https://delivery.macan.live/stream/russia_today/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", HI! INDO
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://macan.live/img/cna.png" group-title="News",Channel News Asia
+https://delivery.macan.live/stream/id_cna/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", & Flix HD
-http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/bloomberg.png" group-title="News",Bloomberg
+https://delivery.macan.live/stream/id_bloomberg/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", FOX SPORTS 1
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/nbc_golf.png" group-title="Sports",NBC Golf
+https://delivery.macan.live/stream/nbc_golf/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", FOX SPORTS 2
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/fox_sports_1.png" group-title="Sports",FOX Sport 1
+https://delivery.macan.live/stream/id_foxsport1/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", CCTV-5+
-http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/fox_sports_2.jpg" group-title="Sports",FOX Sport 2
+https://delivery.macan.live/stream/id_foxsport2/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", RTM SPORT
-https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/fox_sport_3.jpeg" group-title="Sports",FOX Sport 3
+https://delivery.macan.live/stream/id_foxsport3/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", TVRI SPORT
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/fightsport.png" group-title="Sports",Fight Sport
+https://delivery.macan.live/stream/fightsport/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", EPL HD
-https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/bein_sports_1.png" group-title="Sports",beIN Sports 1 ID
+https://delivery.macan.live/stream/macan_sport_1/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", EPL
-https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_360p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/bein_sports_2.png" group-title="Sports",beIN Sports 2 ID
+https://delivery.macan.live/stream/macan_sport_2/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", MOTO GP
-http://183.182.100.184/live/pptvthai/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/useetv.png" group-title="Sports",Useesports 1
+https://delivery.macan.live/stream/macan_sport_3/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", MOTO GP 2
-http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/useetv.png" group-title="Sports",Useesports 2
+https://delivery.macan.live/stream/macan_sport_4/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", SERI A ITALIA
-http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/champions1.png" group-title="Sports",Champions 1 TV
+https://delivery.macan.live/stream/macan_sport_5/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", UFC 1
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:-1 tvg-logo="https://macan.live/img/champions2.png" group-title="Sports",Champions 2 TV
+https://delivery.macan.live/stream/macan_sport_6/index.m3u8?token=bmpYt&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", UFC 2
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 tvg-ID="beIN Sports ARB" tvg-name="AR: beIN SPorts" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN SPorts
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/29
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", UFC 3
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 tvg-ID="beIN Sports 1 ARB" tvg-name="AR: beIN Sports 1 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 1 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/30
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || SUNYI(2019)
-https://bitball.b-cdn.net/movies/02-12-2020/Sunyi.2019.WEB-DL.720p.FMZM.mp4
+#EXTINF:-1 tvg-ID="beIN Sports 2 ARB" tvg-name="AR: beIN Sports 2 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 2 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/31
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || ROH FASIK (2019)
-https://bitball.b-cdn.net/movies/indonesia/Roh.Fasik.2019.WEBRip.1080p.FMZM.mp4
+#EXTINF:-1 tvg-ID="beIN Sports 3 ARB" tvg-name="AR: beIN Sports 3 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 3 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/32
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || KEMBANG KANTIL (2018)
-https://bitball.b-cdn.net/movies/02-14-2020/Kembang%20Kantil.2018.WEB-HD.720p.DD5.1.FMZM.mp4
+#EXTINF:-1 tvg-ID="beIN Sports 4 ARB" tvg-name="AR: beIN Sports 4 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 4 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/33
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || ARWAH TUMBAL NYAI (2018)
-https://bitball.b-cdn.net/movies/indonesia/arwahtumbalnyai.mp4
+#EXTINF:-1 tvg-ID="beIN Sports 5 ARB" tvg-name="AR: beIN Sports 5 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 5 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/34
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || ADA APA DENGAN POCONG (2011)
-https://bitball.b-cdn.net/movies/02-16-2020/Ada.Apa.Dengan.Pocong.2011.WEB-DL.720p.FMZM.mp4
+#EXTINF:-1 tvg-ID="beIN Sports 6 ARB" tvg-name="AR: beIN Sports 6 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 6 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/35
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", My Soul to Take (2010)
-https://bitball.b-cdn.net/movies/APRIL/04-27-2020/My.Soul.to.Take.2010.480p.BluRay.x264.IDFL.info.mp4
+#EXTINF:-1 tvg-ID="beIN Sports 7 ARB" tvg-name="AR: beIN Sports 7 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 7 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/36
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Ginger Snaps (2000)
-https://bitball.b-cdn.net/movies/APRIL/04-19-2020/Ginger.Snaps.2000.480p.BluRay.x264.IDFL.info.mp4
+#EXTINF:-1 tvg-ID="beIN Sports 8 ARB" tvg-name="AR: beIN Sports 8 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 8 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/37
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Book of Monsters (2018)
-https://bitball.b-cdn.net/movies/APRIL/04-13-2020/Book.of.Monsters.2018.480p.WEB-DL.x264.IDFL.info.mp4
+#EXTINF:-1 tvg-ID="beIN Sports 9 ARB" tvg-name="AR: beIN Sports 9 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 9 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/38
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", MatiAnak (2019)
-https://bitball.b-cdn.net/movies/APRIL/04-21-2020/MatiAnak.2019.WEB-HD.720p.DD5.1.IDFL.info.mp4
+#EXTINF:-1 tvg-ID="beIN Sports 10 ARB" tvg-name="AR: beIN Sports 10 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 10 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/39
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Aladdin (2019)
-https://www.dropbox.com/s/9p9ir5n323ubkod/Aladdin.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1
+#EXTINF:-1 tvg-ID="beIN Sports 11 HD ARB" tvg-name="AR: beIN Sports 11 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 11 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/40
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Abominable(2019)
-https://www.googleapis.com/drive/v3/files/17sDGwtnSLGrlbxUN8xDTbT8oVkBP5PPV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-ID="beIN Sports 12 HD ARB" tvg-name="AR: beIN Sports 12 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 12 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/41
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", John Wick 3 : Parabellum(2019)
-https://www.dropbox.com/s/rme7r96ezkq6ceq/John.Wick.Chapter.3.Parabellum.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Aeronauts(2019)
-https://www.googleapis.com/drive/v3/files/1QxXWuBL8KCKXbwJA0LVaB2NiHyuQar98?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-ID="beIN Sports 13 HD ARB" tvg-name="AR: beIN Sports 13 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 13 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/42
