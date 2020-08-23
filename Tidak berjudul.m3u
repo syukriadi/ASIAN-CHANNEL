@@ -256,16 +256,16 @@ http://136.243.177.164/AXN/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
 http://210.210.155.35/uq2663/h/h141/01.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="ID: Celestial Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="MOVIES",ID: Celestial Movies
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/46471
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/46471.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="ID: FOX Action Movies" tvg-logo="data:image/png;base64,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" group-title="MOVIES",ID: FOX Action Movies
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/46446
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/46446.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="ID: FOX Movies HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/433_300.png" group-title="MOVIES",ID: FOX Movies HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/46450
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/46450.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="ID: Star Chinese Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="MOVIES",ID: Star Chinese Movies HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/46443
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/46443.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", HI! INDO
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/manifest.mpd
@@ -369,134 +369,97 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", UFC 3
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
-#EXTINF:-1 tvg-ID="btsport1.uk" tvg-name="UK: BT Sport 1 backup" tvg-logo="https://sport-tv-guide.live/images/stations/a97.png" group-title="SPORTS",UK: BT Sport 1
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/8950
+#EXTM3U
 
-#EXTINF:-1 tvg-ID="btsport2.uk" tvg-name="UK: BT Sports 2 SD" tvg-logo="http://tvadvertising.uk/wp-content/uploads/2017/12/BTSport2HD.png" group-title="SPORTS",UK: BT Sports 2
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/2464
+#EXTINF:-1 tvg-ID="btsport1.uk" tvg-name="UK: BT Sport 1 backup" tvg-logo="https://sport-tv-guide.live/images/stations/a97.png" group-title="Sport",UK: BT Sport 1
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/8950.m3u8
 
-#EXTINF:-1 tvg-ID="btsport3.uk" tvg-name="UK: BT Sport 3 SD" tvg-logo="https://sport-tv-guide.live/images/tv-station-bt-sport-3-108.png" group-title="SPORTS",UK: BT Sport 3
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4954
+#EXTINF:-1 tvg-ID="btsport2.uk" tvg-name="UK: BT Sports 2 SD" tvg-logo="http://tvadvertising.uk/wp-content/uploads/2017/12/BTSport2HD.png" group-title="Sport",UK: BT Sports 2
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/2464.m3u8
 
-#EXTINF:-1 tvg-ID="btsportx1.uk" tvg-name="UK: BT Sport Extra 1" tvg-logo="https://2.bp.blogspot.com/-azqq1Emdevo/WH_NhuUPZxI/AAAAAAAADL0/AB9WGeFcfzI1leFu9SX4JgQX7Wx5ba-ugCLcB/s1600/bt_sport_extra_634x306x24_expand_h98c87b69.jpg" group-title="SPORTS",UK: BT Sport Extra 1
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4476
+#EXTINF:-1 tvg-ID="btsport3.uk" tvg-name="UK: BT Sport 3 SD" tvg-logo="https://sport-tv-guide.live/images/tv-station-bt-sport-3-108.png" group-title="Sport",UK: BT Sport 3
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/4954.m3u8
 
-#EXTINF:-1 tvg-ID="btsportx2.uk" tvg-name="UK: BT Sport Extra 2" tvg-logo="https://4.bp.blogspot.com/-XL0aPGQwu4c/WQ9U2ArNaKI/AAAAAAAAAcs/BFDRQ5JmalE3pahfqt8mY-KCD3-U4yUKgCEw/s1600/BT-SPORTS-2-SD.jpg" group-title="SPORTS",UK: BT Sport Extra 2
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4477
+#EXTINF:-1 tvg-ID="btsportx1.uk" tvg-name="UK: BT Sport Extra 1" tvg-logo="https://2.bp.blogspot.com/-azqq1Emdevo/WH_NhuUPZxI/AAAAAAAADL0/AB9WGeFcfzI1leFu9SX4JgQX7Wx5ba-ugCLcB/s1600/bt_sport_extra_634x306x24_expand_h98c87b69.jpg" group-title="Sport",UK: BT Sport Extra 1
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/4476.m3u8
 
-#EXTINF:-1 tvg-ID="btsportespn.uk" tvg-name="UK: BT Sport ESPN" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1491.1436396789.png" group-title="SPORTS",UK: BT Sport ESPN
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4
+#EXTINF:-1 tvg-ID="btsportx2.uk" tvg-name="UK: BT Sport Extra 2" tvg-logo="https://4.bp.blogspot.com/-XL0aPGQwu4c/WQ9U2ArNaKI/AAAAAAAAAcs/BFDRQ5JmalE3pahfqt8mY-KCD3-U4yUKgCEw/s1600/BT-SPORTS-2-SD.jpg" group-title="Sport",UK: BT Sport Extra 2
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/4477.m3u8
+
+#EXTINF:-1 tvg-ID="btsportespn.uk" tvg-name="UK: BT Sport ESPN" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1491.1436396789.png" group-title="Sport",UK: BT Sport ESPN
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/4.m3u8
 
 #EXTINF:-1 tvg-ID="beIN Sports ARB" tvg-name="AR: beIN SPorts" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN SPorts
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/29
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/29.m3u8
 
 #EXTINF:-1 tvg-ID="beIN Sports 1 ARB" tvg-name="AR: beIN Sports 1 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 1 HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/30
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/30.m3u8
 
 #EXTINF:-1 tvg-ID="beIN Sports 2 ARB" tvg-name="AR: beIN Sports 2 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 2 HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/31
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/31.m3u8
 
 #EXTINF:-1 tvg-ID="beIN Sports 3 ARB" tvg-name="AR: beIN Sports 3 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 3 HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/32
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/32.m3u8
 
 #EXTINF:-1 tvg-ID="beIN Sports 4 ARB" tvg-name="AR: beIN Sports 4 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 4 HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/33
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/33.m3u8
 
 #EXTINF:-1 tvg-ID="beIN Sports 5 ARB" tvg-name="AR: beIN Sports 5 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 5 HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/34
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/34.m3u8
 
 #EXTINF:-1 tvg-ID="beIN Sports 6 ARB" tvg-name="AR: beIN Sports 6 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 6 HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/35
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/35.m3u8
 
 #EXTINF:-1 tvg-ID="beIN Sports 7 ARB" tvg-name="AR: beIN Sports 7 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 7 HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/36
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/36.m3u8
 
 #EXTINF:-1 tvg-ID="beIN Sports 8 ARB" tvg-name="AR: beIN Sports 8 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 8 HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/37
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/37.m3u8
 
 #EXTINF:-1 tvg-ID="beIN Sports 9 ARB" tvg-name="AR: beIN Sports 9 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 9 HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/38
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/38.m3u8
 
 #EXTINF:-1 tvg-ID="beIN Sports 10 ARB" tvg-name="AR: beIN Sports 10 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 10 HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/39
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/39.m3u8
 
 #EXTINF:-1 tvg-ID="beIN Sports 11 HD ARB" tvg-name="AR: beIN Sports 11 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 11 HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/40
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/40.m3u8
 
 #EXTINF:-1 tvg-ID="beIN Sports 12 HD ARB" tvg-name="AR: beIN Sports 12 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 12 HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/41
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/41.m3u8
 
 #EXTINF:-1 tvg-ID="beIN Sports 13 HD ARB" tvg-name="AR: beIN Sports 13 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 13 HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/42
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/42.m3u8
 
-#EXTINF:-1 tvg-ID="sporttvplus.pt" tvg-name="PT: Sport TV  backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="SPORTS",PT: Sport TV  backup
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/16742
+#EXTINF:-1 tvg-ID="sporttvplus.pt" tvg-name="PT: Sport TV  backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="Sport",PT: Sport TV  backup
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/16742.m3u8
 
-#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="PT: Sport TV 1 backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="SPORTS",PT: Sport TV 1 backup
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/16741
+#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="PT: Sport TV 1 backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="Sport",PT: Sport TV 1 backup
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/16741.m3u8
 
-#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="PT: Sport TV 1 HD backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="SPORTS",PT: Sport TV 1 HD backup
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/16740
+#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="PT: Sport TV 1 HD backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="Sport",PT: Sport TV 1 HD backup
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/16740.m3u8
 
-#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="PT: Sport TV 2 backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="SPORTS",PT: Sport TV 2 backup
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/16739
+#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="PT: Sport TV 2 backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="Sport",PT: Sport TV 2 backup
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/16739.m3u8
 
-#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="PT: Sport TV 2 HD backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="SPORTS",PT: Sport TV 2 HD backup
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/16738
+#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="PT: Sport TV 2 HD backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="Sport",PT: Sport TV 2 HD backup
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/16738.m3u8
 
-#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="PT: Sport TV 3 backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="SPORTS",PT: Sport TV 3 backup
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/16737
+#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="PT: Sport TV 3 backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="Sport",PT: Sport TV 3 backup
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/16737.m3u8
 
-#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="PT: Sport TV 3 HD backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="SPORTS",PT: Sport TV 3 HD backup
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/16736
+#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="PT: Sport TV 3 HD backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="Sport",PT: Sport TV 3 HD backup
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/16736.m3u8
 
-#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="PT: Sport TV 4 backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="SPORTS",PT: Sport TV 4 backup
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/16735
+#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="PT: Sport TV 4 backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="Sport",PT: Sport TV 4 backup
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/16735.m3u8
 
-#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="PT: Sport TV 4 HD backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="SPORTS",PT: Sport TV 4 HD backup
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/16734
+#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="PT: Sport TV 4 HD backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="Sport",PT: Sport TV 4 HD backup
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/16734.m3u8
 
-#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="PT: Sport TV 5 backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="SPORTS",PT: Sport TV 5 backup
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/16733
+#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="PT: Sport TV 5 backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="Sport",PT: Sport TV 5 backup
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/16733.m3u8
 
-#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="PT: Sport TV 5 HD backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="SPORTS",PT: Sport TV 5 HD backup
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/16732
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || SUNYI(2019)
-https://bitball.b-cdn.net/movies/02-12-2020/Sunyi.2019.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || ROH FASIK (2019)
-https://bitball.b-cdn.net/movies/indonesia/Roh.Fasik.2019.WEBRip.1080p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || KEMBANG KANTIL (2018)
-https://bitball.b-cdn.net/movies/02-14-2020/Kembang%20Kantil.2018.WEB-HD.720p.DD5.1.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || ARWAH TUMBAL NYAI (2018)
-https://bitball.b-cdn.net/movies/indonesia/arwahtumbalnyai.mp4
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || ADA APA DENGAN POCONG (2011)
-https://bitball.b-cdn.net/movies/02-16-2020/Ada.Apa.Dengan.Pocong.2011.WEB-DL.720p.FMZM.mp4
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", My Soul to Take (2010)
-https://bitball.b-cdn.net/movies/APRIL/04-27-2020/My.Soul.to.Take.2010.480p.BluRay.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Ginger Snaps (2000)
-https://bitball.b-cdn.net/movies/APRIL/04-19-2020/Ginger.Snaps.2000.480p.BluRay.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Book of Monsters (2018)
-https://bitball.b-cdn.net/movies/APRIL/04-13-2020/Book.of.Monsters.2018.480p.WEB-DL.x264.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", MatiAnak (2019)
-https://bitball.b-cdn.net/movies/APRIL/04-21-2020/MatiAnak.2019.WEB-HD.720p.DD5.1.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Aladdin (2019)
-https://www.dropbox.com/s/9p9ir5n323ubkod/Aladdin.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Abominable(2019)
-https://www.googleapis.com/drive/v3/files/17sDGwtnSLGrlbxUN8xDTbT8oVkBP5PPV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", John Wick 3 : Parabellum(2019)
-https://www.dropbox.com/s/rme7r96ezkq6ceq/John.Wick.Chapter.3.Parabellum.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Aeronauts(2019)
-https://www.googleapis.com/drive/v3/files/1QxXWuBL8KCKXbwJA0LVaB2NiHyuQar98?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="PT: Sport TV 5 HD backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="Sport",PT: Sport TV 5 HD backup
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/16732.m3u8
