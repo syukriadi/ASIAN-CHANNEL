@@ -1,94 +1,94 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-ID="btsport1.uk" tvg-name="UK: BT Sport 1 backup" tvg-logo="https://sport-tv-guide.live/images/stations/a97.png" group-title="Sport",UK: BT Sport 1
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/8950
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/8950.m3u8
 
 #EXTINF:-1 tvg-ID="btsport2.uk" tvg-name="UK: BT Sports 2 SD" tvg-logo="http://tvadvertising.uk/wp-content/uploads/2017/12/BTSport2HD.png" group-title="Sport",UK: BT Sports 2
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/2464
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/2464.m3u8
 
 #EXTINF:-1 tvg-ID="btsport3.uk" tvg-name="UK: BT Sport 3 SD" tvg-logo="https://sport-tv-guide.live/images/tv-station-bt-sport-3-108.png" group-title="Sport",UK: BT Sport 3
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4954
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/4954.m3u8
 
 #EXTINF:-1 tvg-ID="btsportx1.uk" tvg-name="UK: BT Sport Extra 1" tvg-logo="https://2.bp.blogspot.com/-azqq1Emdevo/WH_NhuUPZxI/AAAAAAAADL0/AB9WGeFcfzI1leFu9SX4JgQX7Wx5ba-ugCLcB/s1600/bt_sport_extra_634x306x24_expand_h98c87b69.jpg" group-title="Sport",UK: BT Sport Extra 1
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4476
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/4476.m3u8
 
 #EXTINF:-1 tvg-ID="btsportx2.uk" tvg-name="UK: BT Sport Extra 2" tvg-logo="https://4.bp.blogspot.com/-XL0aPGQwu4c/WQ9U2ArNaKI/AAAAAAAAAcs/BFDRQ5JmalE3pahfqt8mY-KCD3-U4yUKgCEw/s1600/BT-SPORTS-2-SD.jpg" group-title="Sport",UK: BT Sport Extra 2
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4477
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/4477.m3u8
 
 #EXTINF:-1 tvg-ID="btsportespn.uk" tvg-name="UK: BT Sport ESPN" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1491.1436396789.png" group-title="Sport",UK: BT Sport ESPN
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/4.m3u8
 
 #EXTINF:-1 tvg-ID="beIN Sports ARB" tvg-name="AR: beIN SPorts" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN SPorts
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/29
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/29.m3u8
 
 #EXTINF:-1 tvg-ID="beIN Sports 1 ARB" tvg-name="AR: beIN Sports 1 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 1 HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/30
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/30.m3u8
 
 #EXTINF:-1 tvg-ID="beIN Sports 2 ARB" tvg-name="AR: beIN Sports 2 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 2 HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/31
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/31.m3u8
 
 #EXTINF:-1 tvg-ID="beIN Sports 3 ARB" tvg-name="AR: beIN Sports 3 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 3 HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/32
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/32.m3u8
 
 #EXTINF:-1 tvg-ID="beIN Sports 4 ARB" tvg-name="AR: beIN Sports 4 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 4 HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/33
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/33.m3u8
 
 #EXTINF:-1 tvg-ID="beIN Sports 5 ARB" tvg-name="AR: beIN Sports 5 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 5 HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/34
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/34.m3u8
 
 #EXTINF:-1 tvg-ID="beIN Sports 6 ARB" tvg-name="AR: beIN Sports 6 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 6 HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/35
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/35.m3u8
 
 #EXTINF:-1 tvg-ID="beIN Sports 7 ARB" tvg-name="AR: beIN Sports 7 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 7 HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/36
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/36.m3u8
 
 #EXTINF:-1 tvg-ID="beIN Sports 8 ARB" tvg-name="AR: beIN Sports 8 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 8 HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/37
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/37.m3u8
 
 #EXTINF:-1 tvg-ID="beIN Sports 9 ARB" tvg-name="AR: beIN Sports 9 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 9 HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/38
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/38.m3u8
 
 #EXTINF:-1 tvg-ID="beIN Sports 10 ARB" tvg-name="AR: beIN Sports 10 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 10 HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/39
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/39.m3u8
 
 #EXTINF:-1 tvg-ID="beIN Sports 11 HD ARB" tvg-name="AR: beIN Sports 11 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 11 HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/40
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/40.m3u8
 
 #EXTINF:-1 tvg-ID="beIN Sports 12 HD ARB" tvg-name="AR: beIN Sports 12 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 12 HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/41
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/41.m3u8
 
 #EXTINF:-1 tvg-ID="beIN Sports 13 HD ARB" tvg-name="AR: beIN Sports 13 HD" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",AR: beIN Sports 13 HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/42
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/42.m3u8
 
 #EXTINF:-1 tvg-ID="sporttvplus.pt" tvg-name="PT: Sport TV  backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="Sport",PT: Sport TV  backup
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/16742
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/16742.m3u8
 
 #EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="PT: Sport TV 1 backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="Sport",PT: Sport TV 1 backup
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/16741
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/16741.m3u8
 
 #EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="PT: Sport TV 1 HD backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="Sport",PT: Sport TV 1 HD backup
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/16740
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/16740.m3u8
 
 #EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="PT: Sport TV 2 backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="Sport",PT: Sport TV 2 backup
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/16739
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/16739.m3u8
 
 #EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="PT: Sport TV 2 HD backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="Sport",PT: Sport TV 2 HD backup
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/16738
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/16738.m3u8
 
 #EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="PT: Sport TV 3 backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="Sport",PT: Sport TV 3 backup
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/16737
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/16737.m3u8
 
 #EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="PT: Sport TV 3 HD backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="Sport",PT: Sport TV 3 HD backup
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/16736
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/16736.m3u8
 
 #EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="PT: Sport TV 4 backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="Sport",PT: Sport TV 4 backup
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/16735
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/16735.m3u8
 
 #EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="PT: Sport TV 4 HD backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="Sport",PT: Sport TV 4 HD backup
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/16734
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/16734.m3u8
 
 #EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="PT: Sport TV 5 backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="Sport",PT: Sport TV 5 backup
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/16733
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/16733.m3u8
 
 #EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="PT: Sport TV 5 HD backup" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="Sport",PT: Sport TV 5 HD backup
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/16732
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/16732.m3u8
